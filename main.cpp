@@ -17,9 +17,9 @@ int16_t worst10[10*8] = {};
 int16_t best10ForEach[10*8*52] = {};
 
 const uint8_t _K = 7;
-const uint8_t _N = 52; // ohne den Totenbeschwörer
-// Den Totenbeschwörer sollte ich noch einmal mit einbeziehen, wenn alles funktioniert, weil er für das Juwel der Ordnung und den Sammler wichtig sein kann, und in diesen Fällen einen großen Unterschied macht.
-// Idee: Den Totenbeschwörer zu jeder Hand hinzufügen, die eine Karte enthält, die am Ende durch ihn aufgenommen worden sein könnte.
+const uint8_t _N = 52; // without the necromancer
+// I should add the necromancer later, when everything works, because he may be important to the gem of order and the collector and make a big difference in these cases.
+// idea: add the necromancer to every hand that contains a card which could have been added by him in the end
 
 typedef string name_t, colour_t;
 
@@ -50,60 +50,8 @@ struct Effects {
   void (*blank)(Card* hand, uint8_t index);
   int16_t (*punish)(Card* hand, uint8_t index);
   bool punishArmies = true; // indicates this card may punish army cards; if set to false, this punishment may be deleted
-  // reworking the following variables into (*punish)()
-  /* unordered_set<colour_t> blockColours; // block all given colours,
-  unordered_set<colour_t> blockColourExceptions; // except for some colours
-  unordered_set<name_t> blockNameExceptions; // or names
-  colour_t selfBlockWith;
-  colour_t selfBlockWithout;
-  int punishValue = 0;
-  unordered_set<colour_t> punishColours; // give a point punishment for every card of the given color
-  name_t punishException;
-  colour_t punishForNo; // give a punishment in points if the given color isn't present */
-  //
   
   int16_t (*bonusPoints)(Card* hand, uint8_t index);
-
-  /* Effects() { // The constructor may already be implicitly defined
-    specialEffect = NULL;
-    unblockColours = unordered_set<colour_t>();
-    blockColours = unordered_set<colour_t>();
-    unblockColourExceptions = unordered_set<colour_t>();
-    blockNameExceptions = unordered_set<name_t>();
-    selfBlockWith = "";
-    selfBlockWithout = "";
-    punishColours = unordered_set<colour_t>();
-    punishForNo = "";
-    bonusPoints = NULL;
-  } */
-  
-  //outdated
-  /* bool hasPunishment() {
-    return !blockColours.empty() ||
-      selfBlockWith != "" ||
-      selfBlockWithout != "" ||
-      !punishColours.empty() ||
-      punishForNo != "";
-  }
-
-  void removePunishments() {
-    blockColours.clear();
-    selfBlockWith = "";
-    selfBlockWithout = "";
-    punishColours.clear();
-    punishForNo = "";
-  }
-
-  void removeFromPunishments(colour_t colour) {
-    blockColours.erase(colour);
-    if(selfBlockWith == colour)
-      selfBlockWith = "";
-    if(selfBlockWithout == colour)
-      selfBlockWithout = "";
-    punishColours.erase(colour);
-    if(punishForNo == colour)
-      punishForNo = "";
-  } */
 };
 
 struct Card {
@@ -138,15 +86,6 @@ void initializeCards() {
     hand[index].effects.blank        = hand[targetIndex].effects.blank;
     hand[index].effects.punish       = hand[targetIndex].effects.punish;
     hand[index].effects.punishArmies = hand[targetIndex].effects.punishArmies;
-    /* hand[index].effects.blockColours          = hand[targetIndex].effects.blockColours;
-    hand[index].effects.blockColourExceptions = hand[targetIndex].effects.blockColourExceptions;
-    hand[index].effects.blockNameExceptions   = hand[targetIndex].effects.blockNameExceptions;
-    hand[index].effects.selfBlockWith         = hand[targetIndex].effects.selfBlockWith;
-    hand[index].effects.selfBlockWithout      = hand[targetIndex].effects.selfBlockWithout;
-    hand[index].effects.punishValue           = hand[targetIndex].effects.punishValue;
-    hand[index].effects.punishColours         = hand[targetIndex].effects.punishColours;
-    hand[index].effects.punishException       = hand[targetIndex].effects.punishException;
-    hand[index].effects.punishForNo           = hand[targetIndex].effects.punishForNo; */
   };
 
   cards[1].name = "Spiegelung";
@@ -157,7 +96,6 @@ void initializeCards() {
   cards[1].effects.specialEffect = [](Card* hand, uint8_t index) {
     if(hand[index].effects.combinationCount == (_N-3)/2+1)
       return; //don't use the card effect
-    //unordered_set<colour_t> validColours = {"Armee", "Land", "Wetter", "Flut", "Flamme"};
     const char* validColours[] = {"Armee", "Land", "Wetter", "Flut", "Flamme"};
     uint8_t count = 0;
     uint8_t target = 0;
@@ -179,7 +117,6 @@ void initializeCards() {
   cards[2].effects.specialEffect = [](Card* hand, uint8_t index) {
     if(hand[index].effects.combinationCount == (_N-3)/2)
       return; //don't use the card effect
-    //unordered_set<colour_t> validColours = {"Artefakt", "Anführer", "Zauberer", "Waffe", "Bestie"};
     const char* validColours[] = {"Artefakt", "Anführer", "Zauberer", "Waffe", "Bestie"};
     uint8_t count = 0;
     uint8_t target = 0;
@@ -221,15 +158,6 @@ void initializeCards() {
   cards[5].colour = "Artefakt";
   cards[5].baseValue = 2;
   cards[5].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
-    /* unordered_set<colour_t> coloursInHand;
-    uint8_t unblankedCount = 0;
-    for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked) {
-        unblankedCount++;
-        coloursInHand.insert(hand[i].colour);
-      }
-    return coloursInHand.size() == unblankedCount ? 50 : 0; */
-    // seems simpler to me
     for(uint8_t i=0; i<_K-1; i++) {
       if(hand[i].effects.blanked)
         continue;
@@ -291,7 +219,6 @@ void initializeCards() {
   cards[8].colour = "Zauberer";
   cards[8].baseValue = 5;
   cards[8].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
-    //unordered_set<colour_t> validColours = {"Land", "Wetter", "Flut", "Flamme"};
     const char* validColours[] = {"Land", "Wetter", "Flut", "Flamme"};
     uint8_t sum = 0;
     for(uint8_t i=0; i<_K; i++)
@@ -450,9 +377,7 @@ void initializeCards() {
       uint8_t targetIndex = hand[index].effects.combinationCount;
       if(targetIndex >= index)
         targetIndex++;
-      //unordered_set<colour_t> validColours = {"Waffe", "Flut", "Flamme", "Land", "Wetter"};
       const char* validColours[] = {"Waffe", "Flut", "Flamme", "Land", "Wetter"};
-      //if(!validColours.contains(hand[targetIndex].colour))
       if(find(validColours, validColours+5, hand[targetIndex].colour) == validColours+5)
         hand[index].effects.invalid = true;
   };
@@ -460,9 +385,6 @@ void initializeCards() {
     uint8_t targetIndex = hand[index].effects.combinationCount;
     if(targetIndex >= index)
       targetIndex++;
-    // no need to check, already checked in specialEffect()
-    //unordered_set<colour_t> validColours = {"Waffe", "Flut", "Flamme", "Land", "Wetter"};
-    //if(validColours.contains(hand[targetIndex].colour))
     if(!hand[targetIndex].effects.blanked)
       return hand[targetIndex].baseValue;
     return 0;
@@ -917,46 +839,49 @@ void initializeCards() {
   };
 }
 
-struct Combination {
-  Card cards[_K];
-  int16_t value;
-};
+// back up the old file and create a new file with the results
+void saveToFile() {
+  // back up old file if existent
+  if(filesystem::exists(basePath/"fantasy_realms.data"))
+    filesystem::rename(basePath/"fantasy_realms.data", basePath/"fantasy_realms_backup.data");
 
-/* //vector<Combination> combinations;
-const int BUFFER_SIZE = 1048580; // a multiple of 13; 1 MiB + 4 Bytes
-char buffer[BUFFER_SIZE];
-int bufferIndex = 0;
+  // create data to store in new file
+  /* store:
+    * 7 bytes for the current combination indices
+    * best combinations: 2 * 80 bytes
+    * worst combinations: 2 * 80 bytes
+    * best combinations for each card: 2 * 80*52 = 2 * 4160 bytes
+    * total: 8647 bytes
+    */
+  char buffer[8647];
+  for(uint8_t i=0; i<_K; i++)
+    buffer[i] = static_cast<char>(_N-_K+i);
+  uint16_t offset = _K;
+  for(uint8_t i=0; i<80; i++) {
+    buffer[offset+2*i] = best10[i] >> 8;
+    buffer[offset+2*i+1] = best10[i] & 0xff;
+  }
+  offset += 160;
+  for(uint8_t i=0; i<80; i++) {
+    buffer[offset+2*i] = worst10[i] >> 8;
+    buffer[offset+2*i+1] = worst10[i] & 0xff;
+  }
+  offset += 160;
+  for(uint16_t i=0; i<52*80; i++) {
+    buffer[offset+2*i] = best10ForEach[i] >> 8;
+    buffer[offset+2*i+1] = best10ForEach[i] & 0xff;
+  }
 
-void writeToFile() {
+  // create new file
   fstream f;
-  f.open("fantasy_realms_combinations.data", ios_base::app | ios_base::out | ios_base::binary);
-  f.write(buffer, BUFFER_SIZE);
-  f.close();
-} */
+  f.open(basePath/"fantasy_realms.data", ios_base::out | ios::binary); // no need to truncate because the old file was moved
+  f.write(buffer, 8647);
+}
 
-
-/*
-def combinations(k, n=0): # indices of combinations of k elements of a list of length n;
-    # if n is set to 0, the list is treated as having infinitely many elements
-    c = list(range(k))
-    yield c
-    i = 0
-    while True:
-        if i == k-1 or c[i]+1 != c[i+1]:
-            c[i] += 1
-            if c[i] == n:
-                break
-            i = 0
-            yield c
-        else:
-            c[i] = i
-            i += 1
-*/
 void forCombinationsDo(void (*hand_fn)(uint8_t*), uint8_t* startCombination) {
   uint8_t combination[_K];
   for(uint8_t i=0; i<_K; i++)
     combination[i] = startCombination[i];
-  //combination[_K-1] = 26; //delete
   hand_fn(combination);
   uint8_t i = 0;
   while(true) {
@@ -987,13 +912,11 @@ bool nextSelection(uint8_t* selection, uint8_t* limits) {
 }
 /*
   calculate the value of the combination
-  store the combination + value in an ordered list, ordered by total value descending
+  store the combination + value in an ordered list of the best 10 values for each card type, ordered by total value descending
   store the list to memory
-  get the 10 best combinations + value
-  get the 10 best combinations for every card + value
 */
 unsigned long combinationCounter = 0;
-void calculate(uint8_t* combination) { // todo: Doppelnennungen derselben Kombination mit demselben Punktestand (nur mit unterschiedlicher Effektverwendung) nicht speichern
+void calculate(uint8_t* combination) {
   // calculate the value of the combination
   Card hand[_K];
   uint8_t selectionLimits[_K];
@@ -1012,16 +935,6 @@ void calculate(uint8_t* combination) { // todo: Doppelnennungen derselben Kombin
     for(uint8_t i=0; i<_K; i++)
       if(hand[i].effects.hasMultipleCombinations)
         hand[i].effects.combinationCount = selection[i];
-    
-    /* // debug
-    if(hand[0].index == 0 &&
-       hand[1].index == 9 &&
-       hand[2].index == 12 &&
-       hand[3].index == 13 &&
-       hand[4].index == 14 &&
-       hand[5].index == 15 &&
-       hand[6].index == 16)
-       println("Debug"); */
 
     // apply effects and calculate
     int16_t totalValue = 0;
@@ -1079,33 +992,6 @@ void calculate(uint8_t* combination) { // todo: Doppelnennungen derselben Kombin
             hand[unblankeds[i]].effects.blank(hand, unblankeds[i]);
       }
 
-        /* // blank other cards
-        if(!hand[i].effects.blockColours.empty())
-          for(int j=0; j<_K; j++)
-            if(hand[i].effects.blockColours.contains(hand[j].colour) && // block all given colours,
-            !hand[i].effects.blockColourExceptions.contains(hand[j].colour) && // except for some colours
-            !hand[i].effects.blockNameExceptions.contains(hand[j].name)) // or names
-              hand[j].effects.blanked = true;
-
-        // self-blank
-        if(!hand[i].effects.blanked && hand[i].effects.selfBlockWith != "")
-          for(int j=0; j<_K; j++)
-            if(hand[j].colour == hand[i].effects.selfBlockWith) {
-              hand[i].effects.blanked = true;
-              break;
-            }
-        if(!hand[i].effects.blanked && hand[i].effects.selfBlockWithout != "") {
-          bool block = true;
-          for(int j=0; j<_K; j++)
-            if(hand[j].colour == hand[i].effects.selfBlockWithout) {
-              block = false;
-              break;
-            }
-          if(block)
-            hand[i].effects.blanked = true;
-        } */
-      
-
       // punish value (if not blanked)
       for(uint8_t i=0; i<_K; i++)
         if(!hand[i].effects.blanked && hand[i].effects.punish != NULL)
@@ -1120,114 +1006,8 @@ void calculate(uint8_t* combination) { // todo: Doppelnennungen derselben Kombin
         }
     }
 
-    // store the combination + value in an ordered list, ordered by total value descending
-    /* Combination c;
-    copy(hand, hand+_K, c.cards);
-    c.value = totalValue; */
-
-    /* println("{} points: {} ({}), {} ({}), {} ({}), {} ({}), {} ({}), {} ({}), {} ({})", totalValue,
-      c.cards[0].name, c.cards[0].index,
-      c.cards[1].name, c.cards[1].index,
-      c.cards[2].name, c.cards[2].index,
-      c.cards[3].name, c.cards[3].index,
-      c.cards[4].name, c.cards[4].index,
-      c.cards[5].name, c.cards[5].index,
-      c.cards[6].name, c.cards[6].index); */
-    //combinations.push_back(c);
-
-    // don't write to buffer
-    /* {
-      char currentByte = 0;
-      int bitsRemaining = 8;
-      for(int i=0; i<_K; i++) { // for every card
-        // store card index
-        if(bitsRemaining >= 6) {
-          currentByte |= hand[i].index << (bitsRemaining-6);
-          bitsRemaining -= 6;
-          if(bitsRemaining == 0) {
-            // write byte to buffer
-            buffer[bufferIndex++] = currentByte;
-            // reset byte
-            currentByte = 0;
-            bitsRemaining = 8;
-          }
-        }
-        else {
-          currentByte |= hand[i].index >> (6-bitsRemaining);
-          // write byte to buffer
-          buffer[bufferIndex++] = currentByte;
-          // fill next byte with the remaining bits
-          currentByte = hand[i].index << (8-(6-bitsRemaining));
-          bitsRemaining = 8-(6-bitsRemaining);
-        }
-        
-        // store combination value
-        if(bitsRemaining >= 7) {
-          currentByte |= hand[i].effects.combinationCount << (bitsRemaining-7);
-          bitsRemaining -= 7;
-          if(bitsRemaining == 0) {
-            // write byte to buffer
-            buffer[bufferIndex++] = currentByte;
-            // reset byte
-            currentByte = 0;
-            bitsRemaining = 8;
-          }
-        }
-        else {
-          currentByte |= hand[i].effects.combinationCount >> (7-bitsRemaining);
-          // write byte to buffer
-          buffer[bufferIndex++] = currentByte;
-          // fill next byte with the remaining bits
-          currentByte = hand[i].effects.combinationCount << (8-(7-bitsRemaining));
-          bitsRemaining = 8-(7-bitsRemaining);
-        }
-      }
-      // 13 bits remaining
-      // store sign bit
-      currentByte |= static_cast<char>(c.value < 0) << 4;
-      // store absolute value in the remaining 12 bits
-      int absoluteValue = abs(c.value);
-      currentByte |= (absoluteValue >> 8) & 0x0F;
-      // write byte to buffer
-      buffer[bufferIndex++] = currentByte;
-      // write last byte to buffer
-      buffer[bufferIndex++] = static_cast<char>(absoluteValue & 0xFF);
-      if(bufferIndex == BUFFER_SIZE) { // only need to check at this point because bytes are written in chunks of 13, and BUFFER_SIZE is a multiple of 13
-        writeToFile();
-        bufferIndex = 0;
-      }
-    } */
-
     // update cards
     uint8_t replaceIndex = 0;
-
-    /* if(hand[0].index == 0 &&
-       hand[1].index == 1 &&
-       hand[2].index == 2 &&
-       hand[3].index == 3 &&
-       hand[4].index == 4 &&
-       hand[5].index == 5 &&
-       hand[6].index == 8) // Höhle
-      println("Debug statement"); */
-    // update best cards
-    /* // old version
-    for(int i=0; i<10; i++)
-      if(totalValue == best10[8*i+7]) {
-        bool repeatEntry = true;
-        for(int j=0; j<7; j++)
-          if(hand[j].index != best10[8*i+j] >> 8) {
-            repeatEntry = false;
-            break;
-          }
-        if(!repeatEntry)
-          replaceIndex = i;
-        break;
-      }
-      else if(totalValue > best10[8*i+7]) {
-        replaceIndex = i;
-        break;
-      }
-    // old version end */
 
     for(int8_t i=9; i>=0; i--)
       if(totalValue == best10[8*i+7]) {
@@ -1313,54 +1093,9 @@ void calculate(uint8_t* combination) { // todo: Doppelnennungen derselben Kombin
     combinationCounter++;
     if(combinationCounter % 10'000'000 == 0) {
       // periodically back up the old file and create a new file with intermediate results
-
-      // back up old file if existent
-      if(filesystem::exists(basePath/"fantasy_realms.data"))
-        filesystem::rename(basePath/"fantasy_realms.data", basePath/"fantasy_realms_backup.data");
-
-      // create data to store in new file
-      /* store:
-       * 7 bytes for the current combination indices
-       * best combinations: 2 * 80 bytes
-       * worst combinations: 2 * 80 bytes
-       * best combinations for each card: 2 * 80*52 = 2 * 4160 bytes
-       * total: 8647 bytes
-       */
-      char buffer[8647];
-      for(uint8_t i=0; i<_K; i++)
-        buffer[i] = static_cast<char>(combination[i]);
-      uint16_t offset = _K;
-      for(uint8_t i=0; i<80; i++) {
-        buffer[offset+2*i] = best10[i] >> 8;
-        buffer[offset+2*i+1] = best10[i] & 0xff;
-      }
-      offset += 160;
-      for(uint8_t i=0; i<80; i++) {
-        buffer[offset+2*i] = worst10[i] >> 8;
-        buffer[offset+2*i+1] = worst10[i] & 0xff;
-      }
-      offset += 160;
-      for(uint16_t i=0; i<52*80; i++) {
-        buffer[offset+2*i] = best10ForEach[i] >> 8;
-        buffer[offset+2*i+1] = best10ForEach[i] & 0xff;
-      }
-
-      // create new file
-      fstream f;
-      f.open(basePath/"fantasy_realms.data", ios_base::out | ios::binary); // no need to truncate because the old file was moved
-      f.write(buffer, 8647);
-
+      saveToFile();
       println("{}", combinationCounter / 10'000'000); // print after writing to file!
     }
-    /* if(combinationCounter > 8'800'000)
-      println("{}: {} points: {} ({}), {} ({}), {} ({}), {} ({}), {} ({}), {} ({}), {} ({})", combinationCounter, totalValue,
-        hand[0].name, hand[0].index,
-        hand[1].name, hand[1].index,
-        hand[2].name, hand[2].index,
-        hand[3].name, hand[3].index,
-        hand[4].name, hand[4].index,
-        hand[5].name, hand[5].index,
-        hand[6].name, hand[6].index); */
   }
 }
 
@@ -1378,13 +1113,6 @@ int main(int argc, char** argv) {
     worst10[i] = 100; // initialize to a value somewhat above 0 to make sure positive values are recorded, 
     // otherwise they would be discarded because they weren't lower than the starting value
   }
-
-  /* println("Clearing file...");
-  {
-    fstream f;
-    f.open("fantasy_realms_combinations.data", ios_base::out | ios_base::trunc);
-    f.close();
-  } */
 
   uint8_t startCombinationIndices[7] = {0, 1, 2, 3, 4, 5, 6};
 
@@ -1444,183 +1172,9 @@ int main(int argc, char** argv) {
   println("Calculating...");
   forCombinationsDo(calculate, startCombinationIndices); // //stores the results in global variable 'combinations'
 
-  /* // write the remaining buffer to file
-  {
-    fstream f;
-    f.open("fantasy_realms_combinations.data", ios_base::app | ios_base::out | ios_base::binary);
-    f.write(buffer, bufferIndex);
-    f.close();
-  } */
-
-  {
-    // back up the old file and create a new file with the results
-
-    // back up old file if existent
-    if(filesystem::exists(basePath/"fantasy_realms.data"))
-      filesystem::rename(basePath/"fantasy_realms.data", basePath/"fantasy_realms_backup.data");
-
-    // create data to store in new file
-    /* store:
-      * 7 bytes for the current combination indices
-      * best combinations: 2 * 80 bytes
-      * worst combinations: 2 * 80 bytes
-      * best combinations for each card: 2 * 80*52 = 2 * 4160 bytes
-      * total: 8647 bytes
-      */
-    char buffer[8647];
-    for(uint8_t i=0; i<_K; i++)
-      buffer[i] = static_cast<char>(_N-_K+i);
-    uint16_t offset = _K;
-    for(uint8_t i=0; i<80; i++) {
-      buffer[offset+2*i] = best10[i] >> 8;
-      buffer[offset+2*i+1] = best10[i] & 0xff;
-    }
-    offset += 160;
-    for(uint8_t i=0; i<80; i++) {
-      buffer[offset+2*i] = worst10[i] >> 8;
-      buffer[offset+2*i+1] = worst10[i] & 0xff;
-    }
-    offset += 160;
-    for(uint16_t i=0; i<52*80; i++) {
-      buffer[offset+2*i] = best10ForEach[i] >> 8;
-      buffer[offset+2*i+1] = best10ForEach[i] & 0xff;
-    }
-
-    // create new file
-    fstream f;
-    f.open(basePath/"fantasy_realms.data", ios_base::out | ios::binary); // no need to truncate because the old file was moved
-    f.write(buffer, 8647);
-  }
+  saveToFile();
 
   println("Done!");
-
-  /*
-  println("Sorting the results...");
-  sort(combinations.begin(), combinations.end(), [](Combination& a, Combination& b) -> bool { return a.value > b. value; }); // sort by value, descending
-  */
-
-  // store the list to memory
-  /* using the following scheme with big endian:
-   * cards: 52 values - 6 Bits
-   * combination: 70 values - 7 Bits
-   * sum: 7*(6+7) = 91 Bits
-   * 13 Bits remaining
-   * value: probably < 2**12 (can be negative): - the remaining 13 Bits
-   * total: 104 Bits = 13 Bytes
-   */
-  //println("Writing the results to a file...");
-  /*
-  fstream f;
-  {
-    f.open("fantasy_realms_combinations.data", ios_base::out | ios_base::binary);
-
-    for(Combination& c : combinations) {
-      char currentByte = 0;
-      int bitsRemaining = 8;
-      for(int i=0; i<_K; i++) { // for every card
-        // store card index
-        if(bitsRemaining >= 6) {
-          currentByte |= c.cards[i].index << (bitsRemaining-6);
-          bitsRemaining -= 6;
-          if(bitsRemaining == 0) {
-            // write byte to file
-            f.put(currentByte);
-            // reset byte
-            currentByte = 0;
-            bitsRemaining = 8;
-          }
-        }
-        else {
-          currentByte |= c.cards[i].index >> (6-bitsRemaining);
-          // write byte to file
-          f.put(currentByte);
-          // fill next byte with the remaining bits
-          currentByte = c.cards[i].index << (8-(6-bitsRemaining));
-          bitsRemaining = 8-(6-bitsRemaining);
-        }
-        
-        // store combination value
-        if(bitsRemaining >= 7) {
-          currentByte |= c.cards[i].effects.combinationCount << (bitsRemaining-7);
-          bitsRemaining -= 7;
-          if(bitsRemaining == 0) {
-            // write byte to file
-            f.put(currentByte);
-            // reset byte
-            currentByte = 0;
-            bitsRemaining = 8;
-          }
-        }
-        else {
-          currentByte |= c.cards[i].effects.combinationCount >> (7-bitsRemaining);
-          // write byte to file
-          f.put(currentByte);
-          // fill next byte with the remaining bits
-          currentByte = c.cards[i].effects.combinationCount << (8-(7-bitsRemaining));
-          bitsRemaining = 8-(7-bitsRemaining);
-        }
-      }
-      // 13 bits remaining
-      // store sign bit
-      currentByte |= static_cast<char>(totalValue < 0) << 4;
-      // store absolute value in the remaining 12 bits
-      int absoluteValue = abs(totalValue);
-      currentByte |= (absoluteValue >> 8) & 0x0F;
-      f.put(currentByte);
-      f.put(static_cast<char>(absoluteValue & 0xFF));
-    }
-
-    f.close();
-  }
-  */
-  /*
-  println("Printing the results...");
-  // get the 10 best combinations + value
-  println("\nBest combinations:");
-  for(int i=0; i<10; i++) {
-    println("{}: {} points: {} ({}), {} ({}), {} ({}), {} ({}), {} ({}), {} ({}), {} ({})", i+1, combinations[i].value,
-      combinations[i].cards[0].name, combinations[i].cards[0].index,
-      combinations[i].cards[1].name, combinations[i].cards[1].index,
-      combinations[i].cards[2].name, combinations[i].cards[2].index,
-      combinations[i].cards[3].name, combinations[i].cards[3].index,
-      combinations[i].cards[4].name, combinations[i].cards[4].index,
-      combinations[i].cards[5].name, combinations[i].cards[5].index,
-      combinations[i].cards[6].name, combinations[i].cards[6].index);
-  }
-
-  // get the 10 worst combinations + value
-  println("\nWorst combinations:");
-  for(int i=0; i<10; i++) {
-    int index = combinations.size()-1 - i;
-    println("{}: {} points: {} ({}), {} ({}), {} ({}), {} ({}), {} ({}), {} ({}), {} ({})", i+1, combinations[index].value,
-      combinations[index].cards[0].name, combinations[index].cards[0].index,
-      combinations[index].cards[1].name, combinations[index].cards[1].index,
-      combinations[index].cards[2].name, combinations[index].cards[2].index,
-      combinations[index].cards[3].name, combinations[index].cards[3].index,
-      combinations[index].cards[4].name, combinations[index].cards[4].index,
-      combinations[index].cards[5].name, combinations[index].cards[5].index,
-      combinations[index].cards[6].name, combinations[index].cards[6].index);
-  }
-
-  // get the 10 best combinations for every card + value
-  for(int i=0; i<_N; i++) {
-    println("\nBest combinations with {}:", cards[i].name);
-    for(int j=0, combinationsPrinted=0; j < combinations.size() && combinationsPrinted < 10; j++) {
-      bool combinationHasCard = false;
-      for(int k=0; k<_K; k++)
-        if(combinations[j].cards[k].index == i) {
-          println("{}: {} points: {} ({}), {} ({}), {} ({}), {} ({}), {} ({}), {} ({}), {} ({})", i+1, combinations[j].value,
-            combinations[j].cards[0].name, combinations[j].cards[0].index,
-            combinations[j].cards[1].name, combinations[j].cards[1].index,
-            combinations[j].cards[2].name, combinations[j].cards[2].index,
-            combinations[j].cards[3].name, combinations[j].cards[3].index,
-            combinations[j].cards[4].name, combinations[j].cards[4].index,
-            combinations[j].cards[5].name, combinations[j].cards[5].index,
-            combinations[j].cards[6].name, combinations[j].cards[6].index);
-        }
-    }
-  }
-  */
 
   return EXIT_SUCCESS;
 }
