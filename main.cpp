@@ -1,11 +1,15 @@
 #include <algorithm>
 #include <cmath>
 #include <cstdint>
+#include <cstdlib>
 #include <filesystem>
+#include <format>
 #include <fstream>
+#include <mutex>
 #include <print>
 #include <string>
 #include <tuple>
+#include <queue>
 //#include <unordered_set>
 using namespace std;
 
@@ -839,11 +843,153 @@ void initializeCards() {
   };
 }
 
+void readFromFile(int16_t* best10, int16_t* worst10, int16_t* best10ForEach, uint8_t* startCombinationIndices=NULL) {
+  bool previousCalculationsExist = filesystem::exists(basePath/"fantasy_realms.data");
+
+  if(previousCalculationsExist) {
+    // continue from file
+    if(startCombinationIndices != NULL)
+      println("Reading from file...");
+    fstream f;
+    f.open(basePath/"fantasy_realms.data", ios_base::in | ios_base::binary);
+    char buffer[8647];
+    f.read(buffer, 8647);
+    if(f.gcount() != 8647)
+      println("Corrupted data. Ignoring existing data and creating a new file...");
+    else { // interpret data and update; update code adapted from calculate function
+      int16_t newBest10[80] = {};
+      int16_t newWorst10[80] = {};
+      int16_t newBest10ForEach[4160] = {};
+
+      if(startCombinationIndices != NULL)
+        for(uint8_t i=0; i<_K; i++)
+          startCombinationIndices[i] = buffer[i];
+      uint16_t offset = _K;
+      uint8_t replaceIndex = 0;
+      for(uint8_t i=0; i<80; i++) {
+        if(i%8 != 7)
+          newBest10[i] = (buffer[offset+2*i] << 8) + buffer[offset+2*i+1];
+        else {
+          newBest10[i] = buffer[offset+2*i] << 8 | static_cast<unsigned char>(buffer[offset+2*i+1]);
+          bool negative = (buffer[offset+2*i] & 0x80) != 0;
+          if(negative)
+            newBest10[i] |= 0xffff0000;
+
+          // update existing data in memory with data from file
+          for(int8_t k=9; k>=0; k--)
+            if(newBest10[i] == best10[8*k+7]) {
+              bool repeatEntry = true;
+              for(uint8_t j=0; j<7; j++)
+                if(newBest10[i-7+j] >> 8 != best10[8*k+j] >> 8) {
+                  repeatEntry = false;
+                  break;
+                }
+              replaceIndex = repeatEntry ? 10 : k+1;
+              break;
+            }
+            else if(newBest10[i] < best10[8*k+7]) {
+              replaceIndex = k+1;
+              break;
+            }
+  
+          if(replaceIndex != 10) {
+            for(uint8_t k=79; k >= 8*replaceIndex+8; k--)
+              best10[k] = best10[k-8];
+            for(uint8_t k=0; k<7; k++)
+              best10[8*replaceIndex + k] = newBest10[i-7+k];
+            best10[8*replaceIndex + 7] = newBest10[i];
+          }
+          replaceIndex = 0;
+        }
+      }
+      offset += 160;
+      for(uint8_t i=0; i<80; i++) {
+        if(i%8 != 7)
+          newWorst10[i] = (buffer[offset+2*i] << 8) + buffer[offset+2*i+1];
+        else {
+          newWorst10[i] = buffer[offset+2*i] << 8 | static_cast<unsigned char>(buffer[offset+2*i+1]);
+          bool negative = (buffer[offset+2*i] & 0x80) != 0;
+          if(negative)
+            newWorst10[i] |= 0xffff0000;
+
+          // update existing data in memory with data from file
+          for(int8_t k=9; k>=0; k--)
+            if(newWorst10[i] == worst10[8*k+7]) {
+              bool repeatEntry = true;
+              for(uint8_t j=0; j<7; j++)
+                if(newWorst10[i-7+j] >> 8 != worst10[8*k+j] >> 8) {
+                  repeatEntry = false;
+                  break;
+                }
+              replaceIndex = repeatEntry ? 10 : k+1;
+              break;
+            }
+            else if(newWorst10[i] > worst10[8*k+7]) {
+              replaceIndex = k+1;
+              break;
+            }
+  
+          if(replaceIndex != 10) {
+            for(uint8_t k=79; k >= 8*replaceIndex+8; k--)
+              worst10[k] = worst10[k-8];
+            for(uint8_t k=0; k<7; k++)
+              worst10[8*replaceIndex + k] = newWorst10[i-7+k];
+            worst10[8*replaceIndex + 7] = newWorst10[i];
+          }
+          replaceIndex = 0;
+        }
+      }
+      offset += 160;
+      for(int16_t i=0; i<52*80; i++) {
+        if(i%8 != 7)
+          newBest10ForEach[i] = (buffer[offset+2*i] << 8) + buffer[offset+2*i+1];
+        else {
+          newBest10ForEach[i] = buffer[offset+2*i] << 8 | static_cast<unsigned char>(buffer[offset+2*i+1]);
+          bool negative = (buffer[offset+2*i] & 0x80) != 0;
+          if(negative)
+            newBest10ForEach[i] |= 0xffff0000;
+
+          // update existing data in memory with data from file
+          uint16_t offset = i/80*80;
+          for(int8_t k=9; k>=0; k--)
+            if(newBest10ForEach[i] == best10ForEach[offset+8*k+7]) {
+              bool repeatEntry = true;
+              for(uint8_t j=0; j<7; j++)
+                if(newBest10ForEach[i-7+j] >> 8 != best10ForEach[offset+8*k+j] >> 8) {
+                  repeatEntry = false;
+                  break;
+                }
+              replaceIndex = repeatEntry ? 10 : k+1;
+              break;
+            }
+            else if(newBest10ForEach[i] < best10ForEach[offset+8*k+7]) {
+              replaceIndex = k+1;
+              break;
+            }
+  
+          if(replaceIndex != 10) {
+            for(uint8_t k=79; k >= 8*replaceIndex+8; k--)
+              best10ForEach[offset+k] = best10ForEach[offset+k-8];
+            for(uint8_t k=0; k<7; k++)
+              best10ForEach[offset+8*replaceIndex + k] = newBest10ForEach[i-7+k];
+            best10ForEach[offset+8*replaceIndex + 7] = newBest10ForEach[i];
+          }
+          replaceIndex = 0;
+        }
+      }
+    }
+  }
+}
+
 // back up the old file and create a new file with the results
-void saveToFile() {
+void writeToFile(int16_t* best10, int16_t* worst10, int16_t* best10ForEach, uint8_t* combination=NULL, int32_t threadId=-1) {
   // back up old file if existent
-  if(filesystem::exists(basePath/"fantasy_realms.data"))
-    filesystem::rename(basePath/"fantasy_realms.data", basePath/"fantasy_realms_backup.data");
+  if(threadId == -1) {
+    if(filesystem::exists(basePath/"fantasy_realms.data"))
+      filesystem::rename(basePath/"fantasy_realms.data", basePath/"fantasy_realms_backup.data");
+  } else
+    if(filesystem::exists(basePath/format("fantasy_realms_{}.data", threadId)))
+      filesystem::rename(basePath/format("fantasy_realms_{}.data", threadId), basePath/format("fantasy_realms_{}_backup.data", threadId));
 
   // create data to store in new file
   /* store:
@@ -855,7 +1001,7 @@ void saveToFile() {
     */
   char buffer[8647];
   for(uint8_t i=0; i<_K; i++)
-    buffer[i] = static_cast<char>(_N-_K+i);
+    buffer[i] = combination == NULL ? static_cast<char>(_N-_K+i) : combination[i];
   uint16_t offset = _K;
   for(uint8_t i=0; i<80; i++) {
     buffer[offset+2*i] = best10[i] >> 8;
@@ -874,15 +1020,19 @@ void saveToFile() {
 
   // create new file
   fstream f;
-  f.open(basePath/"fantasy_realms.data", ios_base::out | ios::binary); // no need to truncate because the old file was moved
+  if(threadId == -1)
+    f.open(basePath/"fantasy_realms.data", ios_base::out | ios::binary); // no need to truncate because the old file was moved
+  else
+    f.open(basePath/format("fantasy_realms_{}.data", threadId), ios_base::out | ios::binary);
   f.write(buffer, 8647);
 }
 
-void forCombinationsDo(void (*hand_fn)(uint8_t*), uint8_t* startCombination) {
+void forCombinationsDo(void (*hand_fn)(uint8_t*, int16_t*, int16_t*, int16_t*, int32_t),
+    uint8_t* startCombination, int16_t* best10, int16_t* worst10, int16_t* best10ForEach) {
   uint8_t combination[_K];
   for(uint8_t i=0; i<_K; i++)
     combination[i] = startCombination[i];
-  hand_fn(combination);
+  hand_fn(combination, best10, worst10, best10ForEach, -1);
   uint8_t i = 0;
   while(true) {
     if(i==_K-1 || combination[i]+1 != combination[i+1]) {
@@ -890,7 +1040,7 @@ void forCombinationsDo(void (*hand_fn)(uint8_t*), uint8_t* startCombination) {
       if(combination[i] == _N)
         break;
       i=0;
-      hand_fn(combination);
+      hand_fn(combination, best10, worst10, best10ForEach, -1);
     } else {
       combination[i] = i;
       i++;
@@ -898,7 +1048,20 @@ void forCombinationsDo(void (*hand_fn)(uint8_t*), uint8_t* startCombination) {
   }
 }
 
-bool nextSelection(uint8_t* selection, uint8_t* limits) {
+void increaseCombination(uint8_t* combination) {
+  uint8_t i = 0;
+  while(true) {
+    if(i==_K-1 || combination[i]+1 != combination[i+1]) {
+      combination[i]++;
+      return;
+    } else {
+      combination[i] = i;
+      i++;
+    }
+  }
+}
+
+bool increaseSelection(uint8_t* selection, uint8_t* limits) {
   uint8_t i=0;
   while(true) {
     selection[i]++;
@@ -916,7 +1079,7 @@ bool nextSelection(uint8_t* selection, uint8_t* limits) {
   store the list to memory
 */
 unsigned long combinationCounter = 0;
-void calculate(uint8_t* combination) {
+void calculate(uint8_t* combination, int16_t* best10, int16_t* worst10, int16_t* best10ForEach, int32_t threadId=-1) {
   // calculate the value of the combination
   Card hand[_K];
   uint8_t selectionLimits[_K];
@@ -927,7 +1090,7 @@ void calculate(uint8_t* combination) {
   }
   //iterate through the cartesian product of card options
   uint8_t selection[_K] = {};
-  for(bool isValidSelection = true; isValidSelection; isValidSelection = nextSelection(selection, selectionLimits)) {
+  for(bool isValidSelection = true; isValidSelection; isValidSelection = increaseSelection(selection, selectionLimits)) {
     //reset cards for every selection
     for(uint8_t i=0; i<_K; i++) {
       hand[i] = cards[combination[i]]; // copy card
@@ -1081,7 +1244,7 @@ void calculate(uint8_t* combination) {
       
       if(replaceIndex != 10) {
         for(uint8_t i=79; i >= 8*replaceIndex+8; i--)
-          best10ForEach[offset + i] = best10ForEach[offset + i-8]; // found an error here
+          best10ForEach[offset + i] = best10ForEach[offset + i-8];
         for(uint8_t i=0; i<7; i++)
           best10ForEach[offset + 8*replaceIndex + i] = hand[i].index << 8 | hand[i].effects.combinationCount;
         best10ForEach[offset + 8*replaceIndex + 7] = totalValue;
@@ -1090,20 +1253,91 @@ void calculate(uint8_t* combination) {
     }
 
     // increase combination counter and print progress
-    combinationCounter++;
-    if(combinationCounter % 10'000'000 == 0) {
-      // periodically back up the old file and create a new file with intermediate results
-      saveToFile();
-      println("{}", combinationCounter / 10'000'000); // print after writing to file!
+    if(threadId == -1) {
+      combinationCounter++;
+      if(combinationCounter & 0xffffff == 0) { // equivalent to cC % 16'777'216 == 0 (16'777'216 == 2**24)
+        // periodically back up the old file and create a new file with intermediate results
+        writeToFile(best10, worst10, best10ForEach, combination);
+          println("{}", combinationCounter >> 24); // print after writing to file!
+      }
     }
   }
 }
 
+class ThreadPool {
+  private:
+    void threadLoop(uint32_t threadId);
+
+    uint32_t numberOfThreads;
+    vector<thread> threads;
+    //mutex poolMutex;
+    //uint8_t nextCombination[_K] = {0, 1, 2, 3, 4, 5, 6};
+  
+  public:
+    ThreadPool(uint32_t n) : numberOfThreads(n) {}
+    void run();
+};
+
+mutex fileMutex;
+void ThreadPool::threadLoop(uint32_t threadId) {
+  int16_t best10[10*8] = {};
+  int16_t worst10[10*8] = {};
+  for(uint8_t i=7; i<80; i+=8)
+    worst10[i] = 100;
+  int16_t best10ForEach[10*8*52] = {};
+
+  uint8_t currentCombination[_K] = {0, 1, 2, 3, 4, 5, 6};
+  for(int i=0; i<threadId; i++)
+    increaseCombination(currentCombination);
+  unsigned long combinationCounter = 0;
+  while(currentCombination[_K-1] < _N) {
+    /* println("{}: [{}, {}, {}, {}, {}, {}, {}]", threadId,
+      currentCombination[0], currentCombination[1], currentCombination[2], currentCombination[3], currentCombination[4], currentCombination[5], currentCombination[6]); */
+    calculate(currentCombination, best10, worst10, best10ForEach, threadId);
+    if(++combinationCounter & 0x3ffff == 0) // faster than modulo; equivalent to cC % 2**18 == 0 or cC % 262'144 == 0
+      println("{}: {}", threadId, combinationCounter); // to keep track of progress
+    for(int i=0; i<numberOfThreads; i++)
+      increaseCombination(currentCombination);
+  }
+  // write results to file
+  {
+    lock_guard<mutex> lg(fileMutex);
+    println("Updating file with data from thread {}...", threadId);
+    readFromFile(best10, worst10, best10ForEach);
+    writeToFile(best10, worst10, best10ForEach);
+  }
+}
+
+void ThreadPool::run() {
+  println("Adding threads to pool...");
+  for(uint32_t i=0; i<numberOfThreads; i++) 
+    threads.emplace_back(thread(&ThreadPool::threadLoop, this, i));
+  println("Calculating...");
+  for(uint32_t i=0; i<numberOfThreads; i++)
+    threads[i].join();
+  threads.clear();
+}
 
 int main(int argc, char** argv) {
   println("Getting file path...");
   filesystem::path filePath(argv[0]);
   basePath = filePath.remove_filename();
+
+  uint16_t numberOfThreads = 1;
+  println("Checking command line arguments...");
+  if(argc > 1 && strcmp(argv[1], "-t") == 0) {
+    if(argc == 2) {
+      numberOfThreads = thread::hardware_concurrency();
+      println("No number of threads specified. Using default of {}.", numberOfThreads);
+    }
+    else {
+      numberOfThreads = atoi(argv[2]);
+      if(numberOfThreads <= 0) {
+        println("Number of threads must be positive.");
+        return EXIT_FAILURE;
+      }
+    }
+  }
 
   println("Initializing cards...");
   initializeCards();
@@ -1115,64 +1349,19 @@ int main(int argc, char** argv) {
   }
 
   uint8_t startCombinationIndices[7] = {0, 1, 2, 3, 4, 5, 6};
+  if(numberOfThreads == 1) {
+    // check file integrity
+    println("Checking if previous calculations exist...");
+    readFromFile(best10, worst10, best10ForEach, startCombinationIndices);
 
-  // check file integrity
-  println("Checking if previous calculations exist...");
-  bool previousCalculationsExist = filesystem::exists(basePath/"fantasy_realms.data");
+    println("Calculating...");
+    forCombinationsDo(calculate, startCombinationIndices, best10, worst10, best10ForEach); // //stores the results in global variable 'combinations'
 
-  if(previousCalculationsExist) {
-    // continue from file
-    println("Loading previous data...");
-    fstream f;
-    f.open(basePath/"fantasy_realms.data", ios_base::in | ios_base::binary);
-    char buffer[8647];
-    f.read(buffer, 8647);
-    if(f.gcount() != 8647) {
-      println("Corrupted data. Please replace the file with a correctly formatted file or remove it. Terminating the program...");
-      return EXIT_FAILURE;
-    }
-    
-    for(uint8_t i=0; i<_K; i++)
-      startCombinationIndices[i] = buffer[i];
-    uint16_t offset = _K;
-    for(uint8_t i=0; i<80; i++) {
-      if(i%8 != 7)
-        best10[i] = (buffer[offset+2*i] << 8) + buffer[offset+2*i+1];
-      else {
-        best10[i] = buffer[offset+2*i] << 8 | static_cast<unsigned char>(buffer[offset+2*i+1]);
-        bool negative = (buffer[offset+2*i] & 0x80) != 0;
-        if(negative)
-          best10[i] |= 0xffff0000;
-      }
-    }
-    offset += 160;
-    for(uint8_t i=0; i<80; i++) {
-      if(i%8 != 7)
-        worst10[i] = (buffer[offset+2*i] << 8) + buffer[offset+2*i+1];
-      else {
-        worst10[i] = buffer[offset+2*i] << 8 | static_cast<unsigned char>(buffer[offset+2*i+1]);
-        bool negative = (buffer[offset+2*i] & 0x80) != 0;
-        if(negative)
-          worst10[i] |= 0xffff0000;
-      }
-    }
-    offset += 160;
-    for(int16_t i=0; i<52*80; i++) {
-      if(i%8 != 7)
-        best10ForEach[i] = (buffer[offset+2*i] << 8) + buffer[offset+2*i+1];
-      else {
-        best10ForEach[i] = buffer[offset+2*i] << 8 | static_cast<unsigned char>(buffer[offset+2*i+1]);
-        bool negative = (buffer[offset+2*i] & 0x80) != 0;
-        if(negative)
-          best10ForEach[i] |= 0xffff0000;
-      }
-    }
+    writeToFile(best10, worst10, best10ForEach);
+  } else { // numberOfThreads > 1
+    ThreadPool tp(numberOfThreads);
+    tp.run();
   }
-
-  println("Calculating...");
-  forCombinationsDo(calculate, startCombinationIndices); // //stores the results in global variable 'combinations'
-
-  saveToFile();
 
   println("Done!");
 
