@@ -7,7 +7,7 @@ using namespace std;
 int main(int argc, char** argv) {
   filesystem::path basePath = filesystem::path(argv[0]).remove_filename();
 
-  string names[52] = {
+  string names_german[52] = {
     "Doppelgänger", // 0
     "Spiegelung",
     "Gestaltwandler",
@@ -60,6 +60,61 @@ int main(int argc, char** argv) {
     "Zwergeninfanterie",
     "Leichte Kavallerie", // 50
     "Ritter"
+  };
+
+  string names[52] = {
+    "Doppelgänger", // 0
+    "Mirage",
+    "Shapeshifter",
+    "Book of Changes",
+    "Protection Rune",
+    "World Tree", // 5
+    "Shield of Keth",
+    "Gem of Order",
+    "Enchantress",
+    "Collector",
+    "Beastmaster", // 10
+    "Warlock Lord",
+    "Air Elemental",
+    "Rainstorm",
+    "Whirlwind",
+    "Smoke", // 15
+    "Blizzard",
+    "Fountain of Life",
+    "Water Elemental",
+    "Island",
+    "Swamp", // 20
+    "Great Flood",
+    "Candle",
+    "Fire Elemental",
+    "Forge",
+    "Lightning", // 25
+    "Wildfire",
+    "Warhorse",
+    "Unicorn",
+    "Hydra",
+    "Dragon", // 30
+    "Basilisk",
+    "Magic Wand",
+    "Elven Longbow",
+    "Sword of Keth",
+    "Warship", // 35
+    "War Dirigible",
+    "Princess",
+    "Warlord",
+    "Queen",
+    "King", // 40
+    "Empress",
+    "Earth Elemental",
+    "Cavern",
+    "Forest",
+    "Bell Tower", // 45
+    "Mountain",
+    "Rangers",
+    "Elven Archers",
+    "Dwarvish Infantry",
+    "Light Cavalry", // 50
+    "Knights"
   };
 
   int best10[10*8] = {}; // 8 = 7 cards + 1 value

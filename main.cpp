@@ -190,9 +190,6 @@ void initializeCards() {
   cards[7].name = "Juwel der Ordnung";
   cards[7].colour = "Artefakt";
   cards[7].baseValue = 5;
-  cards[7].effects.specialEffect = [](Card* hand, uint8_t index) {
-    hand[index].effects.invalid = true;
-  };
   cards[7].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     uint8_t cardValues[_K];
     for(uint8_t i=0; i<_K; i++)
