@@ -8,9 +8,6 @@
 #include <mutex>
 #include <print>
 #include <string>
-#include <tuple>
-#include <queue>
-//#include <unordered_set>
 using namespace std;
 
 filesystem::path basePath;
@@ -44,7 +41,6 @@ colour_t colours[COLOUR_COUNT] = {
 struct Card;
 
 struct Effects {
-  // string ruleText;
   bool hasMultipleCombinations = false;
   uint8_t combinationCount = 1;
   bool invalid = false; // skip a combination that contains this card; used to simplify calculations where one card has alternative effects to choose from
@@ -194,6 +190,9 @@ void initializeCards() {
   cards[7].name = "Juwel der Ordnung";
   cards[7].colour = "Artefakt";
   cards[7].baseValue = 5;
+  cards[7].effects.specialEffect = [](Card* hand, uint8_t index) {
+    hand[index].effects.invalid = true;
+  };
   cards[7].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     uint8_t cardValues[_K];
     for(uint8_t i=0; i<_K; i++)
@@ -885,7 +884,8 @@ void readFromFile(int16_t* best10, int16_t* worst10, int16_t* best10ForEach, uin
                   break;
                 }
               replaceIndex = repeatEntry ? 10 : k+1;
-              break;
+              if(repeatEntry)
+                break;
             }
             else if(newBest10[i] < best10[8*k+7]) {
               replaceIndex = k+1;
@@ -922,7 +922,8 @@ void readFromFile(int16_t* best10, int16_t* worst10, int16_t* best10ForEach, uin
                   break;
                 }
               replaceIndex = repeatEntry ? 10 : k+1;
-              break;
+              if(repeatEntry)
+                break;
             }
             else if(newWorst10[i] > worst10[8*k+7]) {
               replaceIndex = k+1;
@@ -960,7 +961,8 @@ void readFromFile(int16_t* best10, int16_t* worst10, int16_t* best10ForEach, uin
                   break;
                 }
               replaceIndex = repeatEntry ? 10 : k+1;
-              break;
+              if(repeatEntry)
+                break;
             }
             else if(newBest10ForEach[i] < best10ForEach[offset+8*k+7]) {
               replaceIndex = k+1;
@@ -1048,15 +1050,61 @@ void forCombinationsDo(void (*hand_fn)(uint8_t*, int16_t*, int16_t*, int16_t*, i
   }
 }
 
-void increaseCombination(uint8_t* combination) {
+bool increaseCombination(uint8_t* combination) {
   uint8_t i = 0;
   while(true) {
-    if(i==_K-1 || combination[i]+1 != combination[i+1]) {
+    if(combination[i]+1 != combination[i+1]) {
       combination[i]++;
-      return;
+      return i!=_K-1 || combination[i]!=_N; // valid combination
     } else {
       combination[i] = i;
       i++;
+    }
+  }
+}
+
+// binomial coefficient
+uint32_t binC(uint8_t n, uint8_t k) {
+  uint8_t numerator = n, denominator = 1;
+  uint32_t product = 1;
+  for(uint8_t i=0; i<k; i++) {
+    product *= numerator-i;
+    product /= denominator+i;
+  }
+  return product;
+}
+
+void increaseCombination(uint8_t* arr, uint32_t diff) {
+  uint8_t k=0;
+  uint32_t val;
+  while(true) {
+    for(; k<7; k++) {
+      val = binC(arr[k+1], k+1) - binC(arr[k]+1, k+1);
+      if(val <= diff) {
+        diff -= val;
+      } else {
+        for(uint8_t j=1; j < arr[k+1]-arr[k]-1; j++) { // this is a linear search; binary search might be faster
+          val = binC(arr[k+1]-j, k+1) - binC(arr[k]+1, k+1);
+          if(val <= diff) {
+            diff -= val;
+            arr[k] = arr[k+1]-1-j;
+            break;
+          }
+        }
+        break;
+      }
+    }
+    if(diff > 0) {
+      diff--;
+      arr[k]++;
+      for(uint8_t i=0; i<k; i++)
+        arr[i] = i;
+      k--;
+    }
+    if(diff == 0) {
+      for(uint8_t i=k; i>0; i--)
+        arr[i-1] = arr[i]-1;
+      return;
     }
   }
 }
@@ -1073,12 +1121,13 @@ bool increaseSelection(uint8_t* selection, uint8_t* limits) {
       return false;
   }
 }
+
+unsigned long combinationCounter = 0;
 /*
   calculate the value of the combination
   store the combination + value in an ordered list of the best 10 values for each card type, ordered by total value descending
   store the list to memory
 */
-unsigned long combinationCounter = 0;
 void calculate(uint8_t* combination, int16_t* best10, int16_t* worst10, int16_t* best10ForEach, int32_t threadId=-1) {
   // calculate the value of the combination
   Card hand[_K];
@@ -1181,7 +1230,8 @@ void calculate(uint8_t* combination, int16_t* best10, int16_t* worst10, int16_t*
             break;
           }
         replaceIndex = repeatEntry ? 10 : i+1;
-        break;
+        if(repeatEntry)
+          break;
       }
       else if(totalValue < best10[8*i+7]) {
         replaceIndex = i+1;
@@ -1207,7 +1257,8 @@ void calculate(uint8_t* combination, int16_t* best10, int16_t* worst10, int16_t*
             break;
           }
         replaceIndex = repeatEntry ? 10 : i+1;
-        break;
+        if(repeatEntry)
+          break;
       }
       else if(totalValue > worst10[8*i+7]) {
         replaceIndex = i+1;
@@ -1235,7 +1286,8 @@ void calculate(uint8_t* combination, int16_t* best10, int16_t* worst10, int16_t*
               break;
             }
           replaceIndex = repeatEntry ? 10 : i+1;
-          break;
+          if(repeatEntry)
+            break;
         }
         else if(totalValue < best10ForEach[offset+8*i+7]) {
           replaceIndex = i+1;
@@ -1255,7 +1307,7 @@ void calculate(uint8_t* combination, int16_t* best10, int16_t* worst10, int16_t*
     // increase combination counter and print progress
     if(threadId == -1) {
       combinationCounter++;
-      if(combinationCounter & 0xffffff == 0) { // equivalent to cC % 16'777'216 == 0 (16'777'216 == 2**24)
+      if((combinationCounter & 0xffffff) == 0) { // equivalent to cC % 16'777'216 == 0 (16'777'216 == 2**24)
         // periodically back up the old file and create a new file with intermediate results
         writeToFile(best10, worst10, best10ForEach, combination);
           println("{}", combinationCounter >> 24); // print after writing to file!
@@ -1269,42 +1321,48 @@ class ThreadPool {
     void threadLoop(uint32_t threadId);
 
     uint32_t numberOfThreads;
+    uint32_t chunkSize;
     vector<thread> threads;
-    //mutex poolMutex;
-    //uint8_t nextCombination[_K] = {0, 1, 2, 3, 4, 5, 6};
+    mutex poolMutex;
+    uint8_t nextCombination[_K+1] = {0, 1, 2, 3, 4, 5, 6, _N+1};
   
   public:
-    ThreadPool(uint32_t n) : numberOfThreads(n) {}
+    ThreadPool(uint32_t n) : numberOfThreads(n), chunkSize(16'384*n) {}
     void run();
 };
 
 mutex fileMutex;
+uint16_t fileUpdateCounter = 0;
 void ThreadPool::threadLoop(uint32_t threadId) {
   int16_t best10[10*8] = {};
   int16_t worst10[10*8] = {};
   for(uint8_t i=7; i<80; i+=8)
     worst10[i] = 100;
   int16_t best10ForEach[10*8*52] = {};
-
-  uint8_t currentCombination[_K] = {0, 1, 2, 3, 4, 5, 6};
-  for(int i=0; i<threadId; i++)
-    increaseCombination(currentCombination);
-  unsigned long combinationCounter = 0;
-  while(currentCombination[_K-1] < _N) {
-    /* println("{}: [{}, {}, {}, {}, {}, {}, {}]", threadId,
-      currentCombination[0], currentCombination[1], currentCombination[2], currentCombination[3], currentCombination[4], currentCombination[5], currentCombination[6]); */
-    calculate(currentCombination, best10, worst10, best10ForEach, threadId);
-    if(++combinationCounter & 0x3ffff == 0) // faster than modulo; equivalent to cC % 2**18 == 0 or cC % 262'144 == 0
-      println("{}: {}", threadId, combinationCounter); // to keep track of progress
-    for(int i=0; i<numberOfThreads; i++)
-      increaseCombination(currentCombination);
-  }
-  // write results to file
-  {
-    lock_guard<mutex> lg(fileMutex);
-    println("Updating file with data from thread {}...", threadId);
-    readFromFile(best10, worst10, best10ForEach);
-    writeToFile(best10, worst10, best10ForEach);
+  uint8_t currentCombination[_K+1];
+  currentCombination[_K] = _N+1;
+  uint16_t iterationCounter = 0;
+  while(true) {
+    {
+      lock_guard<mutex> lg(poolMutex);
+      for(uint8_t i=0; i<_K; i++)
+        currentCombination[i] = nextCombination[i];
+      if(currentCombination[_K-1] == _N) {
+        println("Thread {} done!", threadId);
+        return;
+      }
+      increaseCombination(nextCombination, chunkSize);
+    }
+    unsigned long combinationCounter = 0;
+    do calculate(currentCombination, best10, worst10, best10ForEach, threadId);
+    while(++combinationCounter < chunkSize && increaseCombination(currentCombination));
+    // write results to file
+    {
+      lock_guard<mutex> lg(fileMutex);
+      println("Updating file with thread {} data packet {}... Total updates: {}", threadId, ++iterationCounter, ++fileUpdateCounter);
+      readFromFile(best10, worst10, best10ForEach);
+      writeToFile(best10, worst10, best10ForEach, currentCombination);
+    }
   }
 }
 
@@ -1348,14 +1406,14 @@ int main(int argc, char** argv) {
     // otherwise they would be discarded because they weren't lower than the starting value
   }
 
-  uint8_t startCombinationIndices[7] = {0, 1, 2, 3, 4, 5, 6};
+  uint8_t startCombinationIndices[8] = {0, 1, 2, 3, 4, 5, 6, _N+1}; // set index 7 to _N+1 to more easily advance combinations in function 'increaseCombination(uint8_t*, uint32_t)'
   if(numberOfThreads == 1) {
     // check file integrity
     println("Checking if previous calculations exist...");
     readFromFile(best10, worst10, best10ForEach, startCombinationIndices);
 
     println("Calculating...");
-    forCombinationsDo(calculate, startCombinationIndices, best10, worst10, best10ForEach); // //stores the results in global variable 'combinations'
+    forCombinationsDo(calculate, startCombinationIndices, best10, worst10, best10ForEach);
 
     writeToFile(best10, worst10, best10ForEach);
   } else { // numberOfThreads > 1
