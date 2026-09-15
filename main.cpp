@@ -1338,6 +1338,9 @@ void ThreadPool::threadLoop(uint32_t threadId) {
   int16_t best10ForEach[10*8*52] = {};
   uint8_t currentCombination[_K+1];
   currentCombination[_K] = _N+1;
+
+  readFromFile(best10, worst10, best10ForEach);
+
   uint16_t iterationCounter = 0;
   while(true) {
     {
