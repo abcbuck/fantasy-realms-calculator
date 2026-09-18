@@ -25,17 +25,17 @@ const uint8_t _N = 52; // without the necromancer
 typedef string name_t, colour_t;
 
 const uint8_t COLOUR_COUNT = 10;
-colour_t colours[COLOUR_COUNT] = {
-  "Anführer",
-  "Armee",
-  "Artefakt",
-  "Bestie",
-  "Flamme",
-  "Flut",
+colour_t colours[COLOUR_COUNT] = { // for the book of changes
+  "Army",
+  "Artifact",
+  "Beast",
+  "Flame",
+  "Flood",
   "Land",
-  "Waffe",
-  "Wetter",
-  "Zauberer"
+  "Leader",
+  "Weapon",
+  "Weather",
+  "Wizard"
 };
 
 struct Card;
@@ -45,7 +45,7 @@ struct Effects {
   uint8_t combinationCount = 1;
   bool invalid = false; // skip a combination that contains this card; used to simplify calculations where one card has alternative effects to choose from
   bool blanked = false;
-  void (*specialEffect)(Card* hand, uint8_t index); // this always refers to a joker, the book of changes, unpunishing or an invalidating effect; nothing else
+  void (*specialEffect)(Card* hand, uint8_t index); // this always refers to a Wild, the book of changes, unpunishing or an invalidating effect; nothing else
 
   void (*blank)(Card* hand, uint8_t index);
   int16_t (*punish)(Card* hand, uint8_t index);
@@ -69,8 +69,8 @@ void initializeCards() {
   for(uint8_t i=0; i<_N; i++)
     cards[i].index = i;
 
-  cards[0].name = "Doppelgänger"; // Sammler references Doppelganger as having index 0! Be sure to change this reference, should you ever change the doppelganger index.
-  cards[0].colour = "Joker";
+  cards[0].name = "Doppelgänger"; // Collector references Doppelgänger as having index 0! Be sure to change this reference, should you ever change the doppelganger index.
+  cards[0].colour = "Wild";
   cards[0].baseValue = 0;
   cards[0].effects.hasMultipleCombinations = true;
   cards[0].effects.combinationCount = _K-1;
@@ -88,15 +88,15 @@ void initializeCards() {
     hand[index].effects.punishArmies = hand[targetIndex].effects.punishArmies;
   };
 
-  cards[1].name = "Spiegelung";
-  cards[1].colour = "Joker";
+  cards[1].name = "Mirage";
+  cards[1].colour = "Wild";
   cards[1].baseValue = 0;
   cards[1].effects.hasMultipleCombinations = true;
   cards[1].effects.combinationCount = (_N-3)/2+2;
   cards[1].effects.specialEffect = [](Card* hand, uint8_t index) {
     if(hand[index].effects.combinationCount == (_N-3)/2+1)
       return; //don't use the card effect
-    const char* validColours[] = {"Armee", "Land", "Wetter", "Flut", "Flamme"};
+    const char* validColours[] = {"Army", "Land", "Weather", "Flood", "Flame"};
     uint8_t count = 0;
     uint8_t target = 0;
     while(count != hand[index].effects.combinationCount || find(validColours, validColours+5, cards[target].colour) == validColours+5) {
@@ -109,15 +109,15 @@ void initializeCards() {
     hand[index].colour = cards[target].colour;
   };
 
-  cards[2].name = "Gestaltwandler";
-  cards[2].colour = "Joker";
+  cards[2].name = "Shapeshifter";
+  cards[2].colour = "Wild";
   cards[2].baseValue = 0;
   cards[2].effects.hasMultipleCombinations = true;
   cards[2].effects.combinationCount = (_N-3)/2+1;
   cards[2].effects.specialEffect = [](Card* hand, uint8_t index) {
     if(hand[index].effects.combinationCount == (_N-3)/2)
       return; //don't use the card effect
-    const char* validColours[] = {"Artefakt", "Anführer", "Zauberer", "Waffe", "Bestie"};
+    const char* validColours[] = {"Artifact", "Leader", "Wizard", "Weapon", "Beast"};
     uint8_t count = 0;
     uint8_t target = 0;
     while(count != hand[index].effects.combinationCount || find(validColours, validColours+5, cards[target].colour) == validColours+5) {
@@ -130,8 +130,8 @@ void initializeCards() {
     hand[index].colour = cards[target].colour;
   };
 
-  cards[3].name = "Buch der Veränderung";
-  cards[3].colour = "Artefakt";
+  cards[3].name = "Book of Changes";
+  cards[3].colour = "Artifact";
   cards[3].baseValue = 3;
   cards[3].effects.hasMultipleCombinations = true;
   cards[3].effects.combinationCount = _K*COLOUR_COUNT; //6 other cards, 10 colours, 6*10 = 60; this value changes to each of the counts in every possible combination with the other cards if the card is included
@@ -144,8 +144,8 @@ void initializeCards() {
     hand[hand[index].effects.combinationCount / COLOUR_COUNT].colour = colours[hand[index].effects.combinationCount % COLOUR_COUNT];
   };
 
-  cards[4].name = "Rune des Schutzes";
-  cards[4].colour = "Artefakt";
+  cards[4].name = "Protection Rune";
+  cards[4].colour = "Artifact";
   cards[4].baseValue = 1;
   cards[4].effects.specialEffect = [](Card* hand, uint8_t index) {
     for(uint8_t i=0; i<_K; i++) {
@@ -154,8 +154,8 @@ void initializeCards() {
     }
   };
 
-  cards[5].name = "Weltenbaum";
-  cards[5].colour = "Artefakt";
+  cards[5].name = "World Tree";
+  cards[5].colour = "Artifact";
   cards[5].baseValue = 2;
   cards[5].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     for(uint8_t i=0; i<_K-1; i++) {
@@ -171,24 +171,24 @@ void initializeCards() {
     return 50;
   };
 
-  cards[6].name = "Schild von Keth";
-  cards[6].colour = "Artefakt";
+  cards[6].name = "Shield of Keth";
+  cards[6].colour = "Artifact";
   cards[6].baseValue = 4;
   cards[6].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     bool leader = false;
     bool sword = false;
     for(uint8_t i=0; i<_K; i++)
       if(!hand[i].effects.blanked) {
-        if(hand[i].colour == "Anführer")
+        if(hand[i].colour == "Leader")
           leader = true;
-        if(hand[i].name == "Schwert von Keth")
+        if(hand[i].name == "Sword of Keth")
           sword = true;
       }
     return leader ? (sword ? 40 : 15) : 0;
   };
 
-  cards[7].name = "Juwel der Ordnung";
-  cards[7].colour = "Artefakt";
+  cards[7].name = "Gem of Order";
+  cards[7].colour = "Artifact";
   cards[7].baseValue = 5;
   cards[7].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     uint8_t cardValues[_K];
@@ -215,11 +215,11 @@ void initializeCards() {
     return 5*(maxStraight-2)*(maxStraight-1);
   };
 
-  cards[8].name = "Magierin";
-  cards[8].colour = "Zauberer";
+  cards[8].name = "Enchantress";
+  cards[8].colour = "Wizard";
   cards[8].baseValue = 5;
   cards[8].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
-    const char* validColours[] = {"Land", "Wetter", "Flut", "Flamme"};
+    const char* validColours[] = {"Land", "Weather", "Flood", "Flame"};
     uint8_t sum = 0;
     for(uint8_t i=0; i<_K; i++)
       if(!hand[i].effects.blanked && find(validColours, validColours+4, hand[i].colour) != validColours+4)
@@ -227,8 +227,8 @@ void initializeCards() {
     return sum;
   };
 
-  cards[9].name = "Sammler";
-  cards[9].colour = "Zauberer";
+  cards[9].name = "Collector";
+  cards[9].colour = "Wizard";
   cards[9].baseValue = 7;
   cards[9].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     uint8_t maxCount = 0;
@@ -266,12 +266,12 @@ void initializeCards() {
     //return 0; // to make the compiler happy
   };
 
-  cards[10].name = "Herr der Bestien";
-  cards[10].colour = "Zauberer";
+  cards[10].name = "Beastmaster";
+  cards[10].colour = "Wizard";
   cards[10].baseValue = 9;
   cards[10].effects.specialEffect = [](Card* hand, uint8_t index) {
     for(uint8_t i=0; i<_K; i++)
-      if(hand[i].colour == "Bestie") {
+      if(hand[i].colour == "Beast") {
         hand[i].effects.blank = NULL;
         hand[i].effects.punish = NULL;
       }
@@ -279,51 +279,51 @@ void initializeCards() {
   cards[10].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     uint8_t sum = 0;
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && hand[i].colour == "Bestie")
+      if(!hand[i].effects.blanked && hand[i].colour == "Beast")
         sum += 9;
     return sum;
   };
 
-  cards[11].name = "Hexenmeister";
-  cards[11].colour = "Zauberer";
+  cards[11].name = "Warlock Lord";
+  cards[11].colour = "Wizard";
   cards[11].baseValue = 25;
   cards[11].effects.punish = [](Card* hand, uint8_t index) -> int16_t {
     int8_t punishment = 0;
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && (hand[i].colour == "Anführer" || hand[i].colour == "Zauberer") && i != index)
+      if(!hand[i].effects.blanked && (hand[i].colour == "Leader" || hand[i].colour == "Wizard") && i != index)
         punishment -= 10;
     return punishment;
   };
 
-  cards[12].name = "Luftwesen";
-  cards[12].colour = "Wetter";
+  cards[12].name = "Air Elemental";
+  cards[12].colour = "Weather";
   cards[12].baseValue = 4;
   cards[12].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     uint8_t sum = 0;
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && i != index && hand[i].colour == "Wetter")
+      if(!hand[i].effects.blanked && i != index && hand[i].colour == "Weather")
         sum += 15;
     return sum;
   };
 
-  cards[13].name = "Regensturm";
-  cards[13].colour = "Wetter";
+  cards[13].name = "Rainstorm";
+  cards[13].colour = "Weather";
   cards[13].baseValue = 8;
   cards[13].effects.blank = [](Card* hand, uint8_t index) {
     for(uint8_t i=0; i<_K; i++)
-      if(hand[i].colour == "Flamme" && hand[i].name != "Blitz")
+      if(hand[i].colour == "Flame" && hand[i].name != "Lightning")
         hand[i].effects.blanked = true;
   };
   cards[13].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     uint8_t sum = 0;
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && hand[i].colour == "Flut")
+      if(!hand[i].effects.blanked && hand[i].colour == "Flood")
         sum += 10;
     return sum;
   };
 
-  cards[14].name = "Wirbelsturm";
-  cards[14].colour = "Wetter";
+  cards[14].name = "Whirlwind";
+  cards[14].colour = "Weather";
   cards[14].baseValue = 13;
   cards[14].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     bool rainStorm = false;
@@ -331,36 +331,36 @@ void initializeCards() {
     bool greatFlood = false;
     for(uint8_t i=0; i<_K; i++)
       if(!hand[i].effects.blanked) {
-        if(hand[i].name == "Regensturm")
+        if(hand[i].name == "Rainstorm")
           rainStorm = true;
         else if(hand[i].name == "Blizzard")
           blizzard = true;
-        else if(hand[i].name == "Große Flut")
+        else if(hand[i].name == "Great Flood")
           greatFlood = true;
       }
     return rainStorm && (blizzard || greatFlood) ? 40 : 0;
   };
 
-  cards[15].name = "Rauch";
-  cards[15].colour = "Wetter";
+  cards[15].name = "Smoke";
+  cards[15].colour = "Weather";
   cards[15].baseValue = 27;
   cards[15].effects.blank = [](Card* hand, uint8_t index) {
     for(uint8_t i=0; i<_K; i++)
-      if(hand[i].colour == "Flamme")
+      if(hand[i].colour == "Flame")
         return;
     hand[index].effects.blanked = true;
   };
 
   cards[16].name = "Blizzard";
-  cards[16].colour = "Wetter";
+  cards[16].colour = "Weather";
   cards[16].baseValue = 30;
   cards[16].effects.blank = [](Card* hand, uint8_t index) {
     for(uint8_t i=0; i<_K; i++)
-      if(hand[i].colour == "Flut")
+      if(hand[i].colour == "Flood")
         hand[i].effects.blanked = true;
   };
   cards[16].effects.punish = [](Card* hand, uint8_t index) -> int16_t {
-    const char* condition[] = {"Armee", "Anführer", "Bestie", "Flamme"};
+    const char* condition[] = {"Army", "Leader", "Beast", "Flame"};
     int8_t punishment = 0;
     for(uint8_t i=0; i<_K; i++)
       if(!hand[i].effects.blanked && find(condition, condition+4, hand[i].colour) != condition+4)
@@ -368,8 +368,8 @@ void initializeCards() {
     return punishment;
   };
 
-  cards[17].name = "Quelle des Lebens";
-  cards[17].colour = "Flut";
+  cards[17].name = "Fountain of Life";
+  cards[17].colour = "Flood";
   cards[17].baseValue = 1;
   cards[17].effects.hasMultipleCombinations = true;
   cards[17].effects.combinationCount = _K-1;
@@ -377,7 +377,7 @@ void initializeCards() {
       uint8_t targetIndex = hand[index].effects.combinationCount;
       if(targetIndex >= index)
         targetIndex++;
-      const char* validColours[] = {"Waffe", "Flut", "Flamme", "Land", "Wetter"};
+      const char* validColours[] = {"Weapon", "Flood", "Flame", "Land", "Weather"};
       if(find(validColours, validColours+5, hand[targetIndex].colour) == validColours+5)
         hand[index].effects.invalid = true;
   };
@@ -390,19 +390,19 @@ void initializeCards() {
     return 0;
   };
 
-  cards[18].name = "Wasserwesen";
-  cards[18].colour = "Flut";
+  cards[18].name = "Water Elemental";
+  cards[18].colour = "Flood";
   cards[18].baseValue = 4;
   cards[18].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     uint8_t sum = 0;
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && i != index && hand[i].colour == "Flut")
+      if(!hand[i].effects.blanked && i != index && hand[i].colour == "Flood")
         sum += 15;
     return sum;
   };
 
-  cards[19].name = "Insel";
-  cards[19].colour = "Flut";
+  cards[19].name = "Island";
+  cards[19].colour = "Flood";
   cards[19].baseValue = 14;
   cards[19].effects.hasMultipleCombinations = true;
   cards[19].effects.combinationCount = 4; // there are at most three cards that fulfill this card's condition,
@@ -413,7 +413,7 @@ void initializeCards() {
       return;
     uint8_t candidateCount = 0;
     for(uint8_t i=0; i<_K; i++) {
-      if((hand[i].colour == "Flut" || hand[i].colour == "Flamme") && (hand[i].effects.blank != NULL || hand[i].effects.punish != NULL)) {
+      if((hand[i].colour == "Flood" || hand[i].colour == "Flame") && (hand[i].effects.blank != NULL || hand[i].effects.punish != NULL)) {
         if(candidateCount == candidateIndex) {
           hand[i].effects.blank = NULL;
           hand[i].effects.punish = NULL;
@@ -425,30 +425,30 @@ void initializeCards() {
     hand[index].effects.invalid = true;
   };
 
-  cards[20].name = "Sumpf";
-  cards[20].colour = "Flut";
+  cards[20].name = "Swamp";
+  cards[20].colour = "Flood";
   cards[20].baseValue = 18;
   cards[20].effects.punish = [](Card* hand, uint8_t index) -> int16_t {
     int8_t punishment = 0;
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && (hand[index].effects.punishArmies && hand[i].colour == "Armee" || hand[i].colour == "Flamme"))
+      if(!hand[i].effects.blanked && (hand[index].effects.punishArmies && hand[i].colour == "Army" || hand[i].colour == "Flame"))
         punishment -= 3;
     return punishment;
   };
 
-  cards[21].name = "Große Flut";
-  cards[21].colour = "Flut";
+  cards[21].name = "Great Flood";
+  cards[21].colour = "Flood";
   cards[21].baseValue = 32;
   cards[21].effects.blank = [](Card* hand, uint8_t index) {
     for(uint8_t i=0; i<_K; i++)
-      if(hand[index].effects.punishArmies && hand[i].colour == "Armee" ||
-          hand[i].colour == "Land" && hand[i].name != "Gebirge" ||
-          hand[i].colour == "Flamme" && hand[i].name != "Blitz")
+      if(hand[index].effects.punishArmies && hand[i].colour == "Army" ||
+          hand[i].colour == "Land" && hand[i].name != "Mountain" ||
+          hand[i].colour == "Flame" && hand[i].name != "Lightning")
         hand[i].effects.blanked = true;
   };
 
-  cards[22].name = "Kerze";
-  cards[22].colour = "Flamme";
+  cards[22].name = "Candle";
+  cards[22].colour = "Flame";
   cards[22].baseValue = 2;
   cards[22].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     bool book = false;
@@ -456,81 +456,81 @@ void initializeCards() {
     bool wizard = false;
     for(uint8_t i=0; i<_K; i++)
       if(!hand[i].effects.blanked) {
-        if(hand[i].name == "Buch der Veränderung")
+        if(hand[i].name == "Book of Changes")
           book = true;
-        else if(hand[i].name == "Glockenturm")
+        else if(hand[i].name == "Bell Tower")
           tower = true;
-        if(hand[i].colour == "Zauberer")
+        if(hand[i].colour == "Wizard")
           wizard = true;
       }
     return book && tower && wizard ? 100 : 0;
   };
 
-  cards[23].name = "Feuerwesen";
-  cards[23].colour = "Flamme";
+  cards[23].name = "Fire Elemental";
+  cards[23].colour = "Flame";
   cards[23].baseValue = 4;
   cards[23].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     uint8_t sum = 0;
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && i != index && hand[i].colour == "Flamme")
+      if(!hand[i].effects.blanked && i != index && hand[i].colour == "Flame")
         sum += 15;
     return sum;
   };
 
-  cards[24].name = "Schmiede";
-  cards[24].colour = "Flamme";
+  cards[24].name = "Forge";
+  cards[24].colour = "Flame";
   cards[24].baseValue = 9;
   cards[24].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     uint8_t sum = 0;
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && (hand[i].colour == "Waffe" || hand[i].colour == "Artefakt"))
+      if(!hand[i].effects.blanked && (hand[i].colour == "Weapon" || hand[i].colour == "Artifact"))
         sum += 9;
     return sum;
   };
 
-  cards[25].name = "Blitz";
-  cards[25].colour = "Flamme";
+  cards[25].name = "Lightning";
+  cards[25].colour = "Flame";
   cards[25].baseValue = 11;
   cards[25].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && hand[i].name == "Regensturm")
+      if(!hand[i].effects.blanked && hand[i].name == "Rainstorm")
         return 30;
     return 0;
   };
 
-  cards[26].name = "Buschfeuer";
-  cards[26].colour = "Flamme";
+  cards[26].name = "Wildfire";
+  cards[26].colour = "Flame";
   cards[26].baseValue = 40;
   cards[26].effects.blank = [](Card* hand, uint8_t index) {
     if(hand[index].effects.blanked)
       return;
-    const char* blockColourExceptions[] = {"Flamme", "Zauberer", "Wetter", "Waffe", "Artefakt"};
-    const char* blockNameExceptions[] = {"Gebirge", "Große Flut", "Insel", "Einhorn", "Drache"};
+    const char* blockColourExceptions[] = {"Flame", "Wizard", "Weather", "Weapon", "Artifact"};
+    const char* blockNameExceptions[] = {"Mountain", "Great Flood", "Island", "Unicorn", "Dragon"};
     for(uint8_t i=0; i<_K; i++)
       if(find(blockColourExceptions, blockColourExceptions+5, hand[i].colour) == blockColourExceptions+5 &&
           find(blockNameExceptions, blockNameExceptions+5, hand[i].name) == blockNameExceptions+5)
         hand[i].effects.blanked = true;
   };
 
-  cards[27].name = "Schlachtross";
-  cards[27].colour = "Bestie";
+  cards[27].name = "Warhorse";
+  cards[27].colour = "Beast";
   cards[27].baseValue = 6;
   cards[27].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && (hand[i].colour == "Anführer" || hand[i].colour == "Zauberer"))
+      if(!hand[i].effects.blanked && (hand[i].colour == "Leader" || hand[i].colour == "Wizard"))
         return 14;
     return 0;
   };
 
-  cards[28].name = "Einhorn";
-  cards[28].colour = "Bestie";
+  cards[28].name = "Unicorn";
+  cards[28].colour = "Beast";
   cards[28].baseValue = 9;
   cards[28].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
-    const char* condition[] = {"Kaiserin", "Königin", "Magierin"};
+    const char* condition[] = {"Empress", "Queen", "Enchantress"};
     uint8_t value = 0;
     for(uint8_t i=0; i<_K; i++)
       if(!hand[i].effects.blanked) {
-        if(hand[i].name == "Prinzessin")
+        if(hand[i].name == "Princess")
           return 30;
         else if(find(condition, condition+3, hand[i].name) != condition+3)
           value = 15;
@@ -539,97 +539,97 @@ void initializeCards() {
   };
 
   cards[29].name = "Hydra";
-  cards[29].colour = "Bestie";
+  cards[29].colour = "Beast";
   cards[29].baseValue = 12;
   cards[29].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && hand[i].name == "Sumpf")
+      if(!hand[i].effects.blanked && hand[i].name == "Swamp")
         return 28;
     return 0;
   };
 
-  cards[30].name = "Drache";
-  cards[30].colour = "Bestie";
+  cards[30].name = "Dragon";
+  cards[30].colour = "Beast";
   cards[30].baseValue = 30;
   cards[30].effects.punish = [](Card* hand, uint8_t index) -> int16_t {
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && hand[i].colour == "Zauberer")
+      if(!hand[i].effects.blanked && hand[i].colour == "Wizard")
         return 0;
     return -40;
   };
 
   cards[31].name = "Basilisk";
-  cards[31].colour = "Bestie";
+  cards[31].colour = "Beast";
   cards[31].baseValue = 35;
   cards[31].effects.blank = [](Card* hand, uint8_t index) {
     for(uint8_t i=0; i<_K; i++)
-      if(hand[index].effects.punishArmies && hand[i].colour == "Armee" ||
-          hand[i].colour == "Anführer" ||
-          i != index && hand[i].colour == "Bestie")
+      if(hand[index].effects.punishArmies && hand[i].colour == "Army" ||
+          hand[i].colour == "Leader" ||
+          i != index && hand[i].colour == "Beast")
         hand[i].effects.blanked = true;
   };
 
-  cards[32].name = "Zauberstab";
-  cards[32].colour = "Waffe";
+  cards[32].name = "Magic Wand";
+  cards[32].colour = "Weapon";
   cards[32].baseValue = 1;
   cards[32].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && hand[i].colour == "Zauberer")
+      if(!hand[i].effects.blanked && hand[i].colour == "Wizard")
         return 25;
     return 0;
   };
 
-  cards[33].name = "Elbischer Bogen";
-  cards[33].colour = "Waffe";
+  cards[33].name = "Elven Longbow";
+  cards[33].colour = "Weapon";
   cards[33].baseValue = 3;
   cards[33].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
-    const char* condition[] = {"Elbenschützen", "Kriegsherr", "Herr der Bestien"};
+    const char* condition[] = {"Elven Archers", "Warlord", "Beastmaster"};
     for(uint8_t i=0; i<_K; i++)
       if(!hand[i].effects.blanked && find(condition, condition+3, hand[i].name) != condition+3)
         return 30;
     return 0;
   };
 
-  cards[34].name = "Schwert von Keth";
-  cards[34].colour = "Waffe";
+  cards[34].name = "Sword of Keth";
+  cards[34].colour = "Weapon";
   cards[34].baseValue = 7;
   cards[34].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     bool leader = false;
     bool shield = false;
     for(uint8_t i=0; i<_K; i++)
       if(!hand[i].effects.blanked) {
-        if(hand[i].colour == "Anführer")
+        if(hand[i].colour == "Leader")
           leader = true;
-        if(hand[i].name == "Schild von Keth")
+        if(hand[i].name == "Shield of Keth")
           shield = true;
       }
     return leader ? (shield ? 40 : 10) : 0;
   };
 
-  cards[35].name = "Kriegsschiff";
-  cards[35].colour = "Waffe";
+  cards[35].name = "Warship";
+  cards[35].colour = "Weapon";
   cards[35].baseValue = 23;
   cards[35].effects.specialEffect = [](Card* hand, uint8_t index) {
     for(uint8_t i=0; i<_K; i++)
-      if(hand[i].colour == "Flut")
+      if(hand[i].colour == "Flood")
         hand[i].effects.punishArmies = false;
   };
   cards[35].effects.blank = [](Card* hand, uint8_t index) {
     for(uint8_t i=0; i<_K; i++)
-      if(hand[i].colour == "Flut")
+      if(hand[i].colour == "Flood")
         return;
     hand[index].effects.blanked = true;
   };
 
-  cards[36].name = "Kampfzeppelin";
-  cards[36].colour = "Waffe";
+  cards[36].name = "War Dirigible";
+  cards[36].colour = "Weapon";
   cards[36].baseValue = 35;
   cards[36].effects.blank = [](Card* hand, uint8_t index) {
     bool armyInHand = false;
     for(uint8_t i=0; i<_K; i++) {
-      if(hand[i].colour == "Armee")
+      if(hand[i].colour == "Army")
         armyInHand = true;
-      else if(hand[i].colour == "Wetter") {
+      else if(hand[i].colour == "Weather") {
         hand[index].effects.blanked = true;
         return;
       }
@@ -638,11 +638,11 @@ void initializeCards() {
       hand[index].effects.blanked = true;
   };
 
-  cards[37].name = "Prinzessin";
-  cards[37].colour = "Anführer";
+  cards[37].name = "Princess";
+  cards[37].colour = "Leader";
   cards[37].baseValue = 2;
   cards[37].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
-    const char* validColours[] = {"Armee", "Zauberer", "Anführer"};
+    const char* validColours[] = {"Army", "Wizard", "Leader"};
     uint8_t sum = 0;
     for(uint8_t i=0; i<_K; i++)
       if(!hand[i].effects.blanked && i != index && find(validColours, validColours+3, hand[i].colour) != validColours+3)
@@ -650,28 +650,28 @@ void initializeCards() {
     return sum;
   };
 
-  cards[38].name = "Kriegsherr";
-  cards[38].colour = "Anführer";
+  cards[38].name = "Warlord";
+  cards[38].colour = "Leader";
   cards[38].baseValue = 4;
   cards[38].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     uint8_t sum = 0;
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && hand[i].colour == "Armee")
+      if(!hand[i].effects.blanked && hand[i].colour == "Army")
         sum += hand[i].baseValue;
     return sum;
   };
 
-  cards[39].name = "Königin";
-  cards[39].colour = "Anführer";
+  cards[39].name = "Queen";
+  cards[39].colour = "Leader";
   cards[39].baseValue = 6;
   cards[39].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     uint8_t sum = 0;
     bool king = false;
     for(uint8_t i=0; i<_K; i++)
       if(!hand[i].effects.blanked) {
-        if(hand[i].colour == "Armee")
+        if(hand[i].colour == "Army")
           sum += 5;
-        if(hand[i].name == "König")
+        if(hand[i].name == "King")
           king = true;
       }
     if(king)
@@ -679,17 +679,17 @@ void initializeCards() {
     return sum;
   };
 
-  cards[40].name = "König";
-  cards[40].colour = "Anführer";
+  cards[40].name = "King";
+  cards[40].colour = "Leader";
   cards[40].baseValue = 8;
   cards[40].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     uint8_t sum = 0;
     bool queen = false;
     for(uint8_t i=0; i<_K; i++)
       if(!hand[i].effects.blanked) {
-        if(hand[i].colour == "Armee")
+        if(hand[i].colour == "Army")
           sum += 5;
-        if(hand[i].name == "Königin")
+        if(hand[i].name == "Queen")
           queen = true;
       }
     if(queen)
@@ -697,18 +697,18 @@ void initializeCards() {
     return sum;
   };
 
-  cards[41].name = "Kaiserin";
-  cards[41].colour = "Anführer";
+  cards[41].name = "Empress";
+  cards[41].colour = "Leader";
   cards[41].baseValue = 15;
   cards[41].effects.punish = [](Card* hand, uint8_t index) -> int16_t {
     int8_t punishment = 0;
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && i != index && hand[i].colour == "Anführer")
+      if(!hand[i].effects.blanked && i != index && hand[i].colour == "Leader")
         punishment -= 5;
     return punishment;
   };
 
-  cards[42].name = "Erdwesen";
+  cards[42].name = "Earth Elemental";
   cards[42].colour = "Land";
   cards[42].baseValue = 4;
   cards[42].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
@@ -719,50 +719,50 @@ void initializeCards() {
     return sum;
   };
 
-  cards[43].name = "Höhle";
+  cards[43].name = "Cavern";
   cards[43].colour = "Land";
   cards[43].baseValue = 6;
   cards[43].effects.specialEffect = [](Card* hand, uint8_t index) {
     for(uint8_t i=0; i<_K; i++)
-      if(hand[i].colour == "Wetter") {
+      if(hand[i].colour == "Weather") {
         hand[i].effects.blank = NULL;
         hand[i].effects.punish = NULL;
       }
   };
   cards[43].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && (hand[i].name == "Zwergeninfanterie" || hand[i].name == "Drache"))
+      if(!hand[i].effects.blanked && (hand[i].name == "Dwarvish Infantry" || hand[i].name == "Dragon"))
         return 25;
     return 0;
   };
 
-  cards[44].name = "Wald";
+  cards[44].name = "Forest";
   cards[44].colour = "Land";
   cards[44].baseValue = 7;
   cards[44].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     uint8_t sum = 0;
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && (hand[i].colour == "Bestie" || hand[i].name == "Elbenschützen"))
+      if(!hand[i].effects.blanked && (hand[i].colour == "Beast" || hand[i].name == "Elven Archers"))
         sum += 12;
     return sum;
   };
 
-  cards[45].name = "Glockenturm";
+  cards[45].name = "Bell Tower";
   cards[45].colour = "Land";
   cards[45].baseValue = 8;
   cards[45].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && hand[i].colour == "Zauberer")
+      if(!hand[i].effects.blanked && hand[i].colour == "Wizard")
         return 15;
     return 0;
   };
 
-  cards[46].name = "Gebirge";
+  cards[46].name = "Mountain";
   cards[46].colour = "Land";
   cards[46].baseValue = 9;
   cards[46].effects.specialEffect = [](Card* hand, uint8_t index) {
     for(uint8_t i=0; i<_K; i++)
-      if(hand[i].colour == "Flut") {
+      if(hand[i].colour == "Flood") {
         hand[i].effects.blank = NULL;
         hand[i].effects.punish = NULL;
       }
@@ -772,17 +772,17 @@ void initializeCards() {
     bool wildfire = false;
     for(uint8_t i=0; i<_K; i++)
       if(!hand[i].effects.blanked) {
-        if(hand[i].name == "Rauch")
+        if(hand[i].name == "Smoke")
           smoke = true;
-        else if(hand[i].name == "Buschfeuer") {
+        else if(hand[i].name == "Wildfire") {
           wildfire = true;
         }
       }
     return smoke && wildfire ? 50 : 0;
   };
 
-  cards[47].name = "Waldläufer";
-  cards[47].colour = "Armee";
+  cards[47].name = "Rangers";
+  cards[47].colour = "Army";
   cards[47].baseValue = 5;
   cards[47].effects.specialEffect = [](Card* hand, uint8_t index) {
     for(uint8_t i=0; i<_K; i++)
@@ -796,29 +796,29 @@ void initializeCards() {
     return sum;
   };
 
-  cards[48].name = "Elbenschützen";
-  cards[48].colour = "Armee";
+  cards[48].name = "Elven Archers";
+  cards[48].colour = "Army";
   cards[48].baseValue = 10;
   cards[48].effects.bonusPoints = [](Card* hand, uint8_t index) -> int16_t {
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && hand[i].colour == "Wetter")
+      if(!hand[i].effects.blanked && hand[i].colour == "Weather")
         return 0;
     return 5;
   };
 
-  cards[49].name = "Zwergeninfanterie";
-  cards[49].colour = "Armee";
+  cards[49].name = "Dwarvish Infantry";
+  cards[49].colour = "Army";
   cards[49].baseValue = 15;
   cards[49].effects.punish = [](Card* hand, uint8_t index) -> int16_t {
     int8_t punishment = 0;
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && i != index && hand[i].colour == "Armee")
+      if(!hand[i].effects.blanked && i != index && hand[i].colour == "Army")
         punishment -= 2;
     return punishment;
   };
 
-  cards[50].name = "Leichte Kavallerie";
-  cards[50].colour = "Armee";
+  cards[50].name = "Light Cavalry";
+  cards[50].colour = "Army";
   cards[50].baseValue = 17;
   cards[50].effects.punish = [](Card* hand, uint8_t index) -> int16_t {
     int8_t punishment = 0;
@@ -828,12 +828,12 @@ void initializeCards() {
     return punishment;
   };
 
-  cards[51].name = "Ritter";
-  cards[51].colour = "Armee";
+  cards[51].name = "Knights";
+  cards[51].colour = "Army";
   cards[51].baseValue = 20;
   cards[51].effects.punish = [](Card* hand, uint8_t index) -> int16_t {
     for(uint8_t i=0; i<_K; i++)
-      if(!hand[i].effects.blanked && hand[i].colour == "Anführer")
+      if(!hand[i].effects.blanked && hand[i].colour == "Leader")
         return 0;
     return -8;
   };
