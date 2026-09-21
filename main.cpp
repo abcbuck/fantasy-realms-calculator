@@ -18,7 +18,8 @@ int16_t worst10[10*8] = {};
 int16_t best10ForEach[10*8*52] = {};
 
 const uint8_t _K = 7;
-const uint8_t _N = 52; // without the necromancer
+const uint8_t __N = 52; // without the necromancer
+uint8_t _N = __N; // __N is the total number of all cards, _N will be the number of cards to search over; _N is set in main()
 // I should add the necromancer later, when everything works, because he may be important to the gem of order and the collector and make a big difference in these cases.
 // idea: add the necromancer to every hand that contains a card which could have been added by him in the end
 
@@ -64,9 +65,9 @@ struct Card {
 };
 
 // all cards
-Card cards[_N] = {};
+Card cards[__N] = {};
 void initializeCards() {
-  for(uint8_t i=0; i<_N; i++)
+  for(uint8_t i=0; i<__N; i++)
     cards[i].index = i;
 
   cards[0].name = "Doppelgänger"; // Collector references Doppelgänger as having index 0! Be sure to change this reference, should you ever change the doppelganger index.
@@ -92,9 +93,9 @@ void initializeCards() {
   cards[1].colour = "Wild";
   cards[1].baseValue = 0;
   cards[1].effects.hasMultipleCombinations = true;
-  cards[1].effects.combinationCount = (_N-3)/2+2;
+  cards[1].effects.combinationCount = (__N-3)/2+2;
   cards[1].effects.specialEffect = [](Card* hand, uint8_t index) {
-    if(hand[index].effects.combinationCount == (_N-3)/2+1)
+    if(hand[index].effects.combinationCount == (__N-3)/2+1)
       return; //don't use the card effect
     const char* validColours[] = {"Army", "Land", "Weather", "Flood", "Flame"};
     uint8_t count = 0;
@@ -113,9 +114,9 @@ void initializeCards() {
   cards[2].colour = "Wild";
   cards[2].baseValue = 0;
   cards[2].effects.hasMultipleCombinations = true;
-  cards[2].effects.combinationCount = (_N-3)/2+1;
+  cards[2].effects.combinationCount = (__N-3)/2+1;
   cards[2].effects.specialEffect = [](Card* hand, uint8_t index) {
-    if(hand[index].effects.combinationCount == (_N-3)/2)
+    if(hand[index].effects.combinationCount == (__N-3)/2)
       return; //don't use the card effect
     const char* validColours[] = {"Artifact", "Leader", "Wizard", "Weapon", "Beast"};
     uint8_t count = 0;
@@ -1321,7 +1322,7 @@ class ThreadPool {
     uint32_t chunkSize;
     vector<thread> threads;
     mutex poolMutex;
-    uint8_t nextCombination[_K+1] = {0, 1, 2, 3, 4, 5, 6, _N+1};
+    uint8_t nextCombination[_K+1] = {0, 1, 2, 3, 4, 5, 6, static_cast<uint8_t>(_N+1)};
   
   public:
     ThreadPool(uint32_t n) : numberOfThreads(n), chunkSize(16'384*n) {}
@@ -1337,7 +1338,7 @@ void ThreadPool::threadLoop(uint32_t threadId) {
     worst10[i] = 100;
   int16_t best10ForEach[10*8*52] = {};
   uint8_t currentCombination[_K+1];
-  currentCombination[_K] = _N+1;
+  currentCombination[_K] = __N+1;
 
   readFromFile(best10, worst10, best10ForEach);
 
@@ -1347,8 +1348,8 @@ void ThreadPool::threadLoop(uint32_t threadId) {
       lock_guard<mutex> lg(poolMutex);
       for(uint8_t i=0; i<_K; i++)
         currentCombination[i] = nextCombination[i];
-      if(currentCombination[_K-1] == _N) {
-        println("Thread {} done!", threadId);
+      if(currentCombination[_K-1] >= _N) {
+        print("; Thread {} done!", threadId);
         return;
       }
       increaseCombination(nextCombination, chunkSize);
@@ -1359,7 +1360,7 @@ void ThreadPool::threadLoop(uint32_t threadId) {
     // write results to file
     {
       lock_guard<mutex> lg(fileMutex);
-      println("Updating file with thread {} data packet {}... Total updates: {}", threadId, ++iterationCounter, ++fileUpdateCounter);
+      print("\nUpdating file with thread {} data packet {}... Total updates: {}", threadId, ++iterationCounter, ++fileUpdateCounter);
       readFromFile(best10, worst10, best10ForEach);
       writeToFile(best10, worst10, best10ForEach, currentCombination);
     }
@@ -1370,7 +1371,7 @@ void ThreadPool::run() {
   println("Adding threads to pool...");
   for(uint32_t i=0; i<numberOfThreads; i++) 
     threads.emplace_back(thread(&ThreadPool::threadLoop, this, i));
-  println("Calculating...");
+  print("Calculating...");
   for(uint32_t i=0; i<numberOfThreads; i++)
     threads[i].join();
   threads.clear();
@@ -1406,7 +1407,30 @@ int main(int argc, char** argv) {
     // otherwise they would be discarded because they weren't lower than the starting value
   }
 
-  uint8_t startCombinationIndices[8] = {0, 1, 2, 3, 4, 5, 6, _N+1}; // set index 7 to _N+1 to more easily advance combinations in function 'increaseCombination(uint8_t*, uint32_t)'
+  // Set invalid cards here:
+  {
+    // example: cards[7].effects.invalid = true;
+  }
+  println("Removing invalid cards...");
+  uint8_t count = 0;
+  bool invalidCardFound = false;
+  for(uint8_t i=0; i+count < __N; i++) {
+    if(cards[i].effects.invalid) {
+      do {
+        invalidCardFound = true;
+        count++;
+        if(i+count < __N) {
+          cards[i] = cards[i+count];
+          cards[i+count].effects.invalid = false;
+        }
+      } while(cards[i].effects.invalid);
+    }
+    else if(invalidCardFound)
+      cards[i] = cards[i+count];
+  }
+  _N -= count;
+
+  uint8_t startCombinationIndices[8] = {0, 1, 2, 3, 4, 5, 6, __N+1}; // set index 7 to _N+1 to more easily advance combinations in function 'increaseCombination(uint8_t*, uint32_t)'
   if(numberOfThreads == 1) {
     // check file integrity
     println("Checking if previous calculations exist...");
@@ -1421,7 +1445,7 @@ int main(int argc, char** argv) {
     tp.run();
   }
 
-  println("Done!");
+  println("\nDone!");
 
   return EXIT_SUCCESS;
 }
