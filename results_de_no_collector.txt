@@ -1,0 +1,648 @@
+Best combinations:
+1. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Kerze, Schwert von Keth, Königin, Glockenturm; 380 points
+2. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 356 points
+3. Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König, Elbenschützen; 351 points
+4. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König; 348 points
+5. Buch der Veränderung, Juwel der Ordnung, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 345 points
+6. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 344 points
+7. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 341 points
+8. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Wald, Glockenturm; 341 points
+9. Schild von Keth, Juwel der Ordnung, Einhorn, Schwert von Keth, Königin, König, Elbenschützen; 339 points
+10. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König; 339 points
+
+Worst combinations:
+1. Doppelgänger, Gestaltwandler, Hexenmeister, Kriegsherr, Königin, König, Kaiserin; -57 points
+2. Doppelgänger, Gestaltwandler, Magierin, Hexenmeister, Kriegsherr, Königin, Kaiserin; -55 points
+3. Doppelgänger, Gestaltwandler, Magierin, Hexenmeister, Kriegsherr, König, Kaiserin; -53 points
+4. Doppelgänger, Gestaltwandler, Hexenmeister, Kriegsherr, Königin, König, Kaiserin; -52 points
+5. Doppelgänger, Gestaltwandler, Herr der Bestien, Hexenmeister, Kriegsherr, Königin, Kaiserin; -51 points
+6. Doppelgänger, Gestaltwandler, Magierin, Hexenmeister, Königin, König, Kaiserin; -51 points
+7. Doppelgänger, Gestaltwandler, Magierin, Hexenmeister, Kriegsherr, Königin, Kaiserin; -50 points
+8. Doppelgänger, Gestaltwandler, Herr der Bestien, Hexenmeister, Kriegsherr, König, Kaiserin; -49 points
+9. Doppelgänger, Gestaltwandler, Magierin, Hexenmeister, Kriegsherr, König, Kaiserin; -48 points
+10. Doppelgänger, Gestaltwandler, Magierin, Herr der Bestien, Hexenmeister, Kriegsherr, Kaiserin; -47 points
+
+
+Best combinations with Doppelgänger:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+4. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+5. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+6. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 303 points
+7. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+8. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+9. Doppelgänger, Buch der Veränderung, Magierin, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 302 points
+10. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 301 points
+
+Best combinations with Spiegelung:
+1. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Zauberstab, Erdwesen, Höhle; 326 points
+2. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Zauberstab; 325 points
+3. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Zauberstab, Erdwesen; 325 points
+4. Spiegelung, Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Kerze, Zauberstab, Königin; 311 points
+5. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Zauberstab, Königin; 311 points
+6. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Zauberstab, Erdwesen, Höhle; 311 points
+7. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Zauberstab, Höhle; 311 points
+8. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Zauberstab, Königin, Erdwesen; 311 points
+9. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Zauberstab; 310 points
+10. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Zauberstab, Erdwesen; 310 points
+
+Best combinations with Gestaltwandler:
+1. Gestaltwandler, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Zauberstab, Glockenturm; 293 points
+2. Gestaltwandler, Buch der Veränderung, Juwel der Ordnung, Kerze, Zauberstab, Erdwesen, Glockenturm; 293 points
+3. Gestaltwandler, Buch der Veränderung, Juwel der Ordnung, Kerze, Zauberstab, Erdwesen, Glockenturm; 278 points
+4. Gestaltwandler, Buch der Veränderung, Juwel der Ordnung, Luftwesen, Kerze, Zauberstab, Glockenturm; 278 points
+5. Gestaltwandler, Buch der Veränderung, Juwel der Ordnung, Wasserwesen, Kerze, Zauberstab, Glockenturm; 278 points
+6. Gestaltwandler, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Zauberstab, Glockenturm; 278 points
+7. Gestaltwandler, Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Kerze, Zauberstab, Glockenturm; 278 points
+8. Gestaltwandler, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Wasserwesen, Kerze, Glockenturm; 276 points
+9. Gestaltwandler, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Kerze, Feuerwesen, Glockenturm; 276 points
+10. Gestaltwandler, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Kerze, Erdwesen, Glockenturm; 276 points
+
+Best combinations with Buch der Veränderung:
+1. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Kerze, Schwert von Keth, Königin, Glockenturm; 380 points
+2. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 356 points
+3. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König; 348 points
+4. Buch der Veränderung, Juwel der Ordnung, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 345 points
+5. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 344 points
+6. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 341 points
+7. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Wald, Glockenturm; 341 points
+8. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König; 339 points
+9. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König; 331 points
+10. Buch der Veränderung, Juwel der Ordnung, Kerze, Königin, Erdwesen, Wald, Glockenturm; 330 points
+
+Best combinations with Rune des Schutzes:
+1. Spiegelung, Buch der Veränderung, Rune des Schutzes, Juwel der Ordnung, Kerze, Erdwesen, Höhle; 301 points
+2. Spiegelung, Buch der Veränderung, Rune des Schutzes, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross; 300 points
+3. Spiegelung, Buch der Veränderung, Rune des Schutzes, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen; 300 points
+4. Spiegelung, Buch der Veränderung, Rune des Schutzes, Schild von Keth, Juwel der Ordnung, Kerze, Königin; 286 points
+5. Spiegelung, Buch der Veränderung, Rune des Schutzes, Juwel der Ordnung, Kerze, Feuerwesen, Königin; 286 points
+6. Spiegelung, Buch der Veränderung, Rune des Schutzes, Juwel der Ordnung, Kerze, Feuerwesen, Höhle; 286 points
+7. Spiegelung, Buch der Veränderung, Rune des Schutzes, Juwel der Ordnung, Kerze, Erdwesen, Höhle; 286 points
+8. Spiegelung, Buch der Veränderung, Rune des Schutzes, Juwel der Ordnung, Kerze, Königin, Erdwesen; 286 points
+9. Spiegelung, Buch der Veränderung, Rune des Schutzes, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen; 285 points
+10. Spiegelung, Buch der Veränderung, Rune des Schutzes, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross; 285 points
+
+Best combinations with Weltenbaum:
+1. Buch der Veränderung, Weltenbaum, Schild von Keth, Juwel der Ordnung, Schwert von Keth, Königin, König; 305 points
+2. Buch der Veränderung, Weltenbaum, Schild von Keth, Juwel der Ordnung, Schlachtross, Schwert von Keth, König; 284 points
+3. Buch der Veränderung, Weltenbaum, Schild von Keth, Juwel der Ordnung, Zauberstab, Schwert von Keth, Königin; 283 points
+4. Buch der Veränderung, Weltenbaum, Schild von Keth, Juwel der Ordnung, Schwert von Keth, Königin, Glockenturm; 280 points
+5. Buch der Veränderung, Weltenbaum, Schild von Keth, Juwel der Ordnung, Quelle des Lebens, Schlachtross, Schwert von Keth; 279 points
+6. Buch der Veränderung, Weltenbaum, Schild von Keth, Juwel der Ordnung, Regensturm, Schlachtross, Schwert von Keth; 279 points
+7. Buch der Veränderung, Weltenbaum, Schild von Keth, Juwel der Ordnung, Schlachtross, Schwert von Keth, König; 279 points
+8. Weltenbaum, Schild von Keth, Juwel der Ordnung, Schlachtross, Elbischer Bogen, Schwert von Keth, König; 279 points
+9. Buch der Veränderung, Weltenbaum, Schild von Keth, Juwel der Ordnung, Schlachtross, Schwert von Keth, Glockenturm; 279 points
+10. Buch der Veränderung, Weltenbaum, Hexenmeister, Quelle des Lebens, Kerze, Kampfzeppelin, Glockenturm; 276 points
+
+Best combinations with Schild von Keth:
+1. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Kerze, Schwert von Keth, Königin, Glockenturm; 380 points
+2. Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König, Elbenschützen; 351 points
+3. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König; 348 points
+4. Schild von Keth, Juwel der Ordnung, Einhorn, Schwert von Keth, Königin, König, Elbenschützen; 339 points
+5. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König; 339 points
+6. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König; 331 points
+7. Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König, Elbenschützen; 330 points
+8. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schwert von Keth, Prinzessin, Königin, König; 329 points
+9. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König; 327 points
+10. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Einhorn, Schwert von Keth, Königin, König; 327 points
+
+Best combinations with Juwel der Ordnung:
+1. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Kerze, Schwert von Keth, Königin, Glockenturm; 380 points
+2. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 356 points
+3. Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König, Elbenschützen; 351 points
+4. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König; 348 points
+5. Buch der Veränderung, Juwel der Ordnung, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 345 points
+6. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 344 points
+7. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 341 points
+8. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Wald, Glockenturm; 341 points
+9. Schild von Keth, Juwel der Ordnung, Einhorn, Schwert von Keth, Königin, König, Elbenschützen; 339 points
+10. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König; 339 points
+
+Best combinations with Magierin:
+1. Doppelgänger, Buch der Veränderung, Magierin, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 302 points
+2. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Magierin, Kerze, Feuerwesen, Zauberstab; 295 points
+3. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Magierin, Kerze, Zauberstab, Erdwesen; 295 points
+4. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Magierin, Kerze, Feuerwesen, Zauberstab; 290 points
+5. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Magierin, Kerze, Zauberstab, Erdwesen; 290 points
+6. Doppelgänger, Buch der Veränderung, Magierin, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 287 points
+7. Buch der Veränderung, Magierin, Rauch, Kerze, Buschfeuer, Glockenturm, Gebirge; 284 points
+8. Doppelgänger, Buch der Veränderung, Magierin, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 282 points
+9. Doppelgänger, Magierin, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 282 points
+10. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Magierin, Kerze, Zauberstab, Erdwesen; 280 points
+
+Best combinations with Sammler:
+1. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+2. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+3. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+4. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+5. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+6. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+7. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+8. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+9. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+10. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+
+Best combinations with Herr der Bestien:
+1. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Schlachtross, Elbischer Bogen, Schwert von Keth, König; 325 points
+2. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Schwert von Keth, Königin, König, Elbenschützen; 324 points
+3. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Elbischer Bogen, Schwert von Keth, Königin, Glockenturm; 317 points
+4. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Schlachtross, Schwert von Keth, König, Elbenschützen; 312 points
+5. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Herr der Bestien, Schwert von Keth, Königin, König; 312 points
+6. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Herr der Bestien, Schlachtross, Schwert von Keth, Glockenturm; 310 points
+7. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Schwert von Keth, Königin, Glockenturm, Elbenschützen; 304 points
+8. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Herr der Bestien, Schlachtross, Schwert von Keth, König; 304 points
+9. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Elbischer Bogen, Schwert von Keth, König, Höhle; 302 points
+10. Juwel der Ordnung, Herr der Bestien, Schlachtross, Elbischer Bogen, Erdwesen, Wald, Glockenturm; 302 points
+
+Best combinations with Hexenmeister:
+1. Doppelgänger, Buch der Veränderung, Hexenmeister, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 297 points
+2. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Hexenmeister, Kerze, Feuerwesen, Zauberstab; 295 points
+3. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Hexenmeister, Kerze, Zauberstab, Erdwesen; 295 points
+4. Doppelgänger, Buch der Veränderung, Hexenmeister, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 282 points
+5. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Hexenmeister, Wasserwesen, Kerze, Zauberstab; 280 points
+6. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Hexenmeister, Kerze, Feuerwesen, Zauberstab; 280 points
+7. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Hexenmeister, Luftwesen, Kerze, Zauberstab; 280 points
+8. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Hexenmeister, Kerze, Zauberstab, Erdwesen; 280 points
+9. Buch der Veränderung, Hexenmeister, Rauch, Kerze, Buschfeuer, Glockenturm, Gebirge; 279 points
+10. Buch der Veränderung, Juwel der Ordnung, Hexenmeister, Kerze, Feuerwesen, Zauberstab, Glockenturm; 278 points
+
+Best combinations with Luftwesen:
+1. Buch der Veränderung, Juwel der Ordnung, Luftwesen, Kerze, Schlachtross, Wald, Glockenturm; 326 points
+2. Buch der Veränderung, Juwel der Ordnung, Luftwesen, Kerze, Schlachtross, Schwert von Keth, Glockenturm; 314 points
+3. Buch der Veränderung, Juwel der Ordnung, Luftwesen, Kerze, Schlachtross, Wald, Glockenturm; 314 points
+4. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Luftwesen, Kerze, Schlachtross, Zauberstab; 310 points
+5. Buch der Veränderung, Juwel der Ordnung, Luftwesen, Kerze, Schwert von Keth, Königin, Glockenturm; 310 points
+6. Buch der Veränderung, Juwel der Ordnung, Luftwesen, Kerze, Schwert von Keth, Königin, Glockenturm; 300 points
+7. Buch der Veränderung, Juwel der Ordnung, Luftwesen, Kerze, Königin, Wald, Glockenturm; 300 points
+8. Buch der Veränderung, Juwel der Ordnung, Luftwesen, Kerze, Höhle, Wald, Glockenturm; 300 points
+9. Buch der Veränderung, Juwel der Ordnung, Luftwesen, Kerze, Schwert von Keth, Höhle, Glockenturm; 300 points
+10. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Luftwesen, Kerze, Zauberstab, Königin; 296 points
+
+Best combinations with Regensturm:
+1. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Regensturm, Schmiede, Schlachtross, Schwert von Keth; 322 points
+2. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Regensturm, Schmiede, Schwert von Keth, Königin; 318 points
+3. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Regensturm, Schmiede, Schwert von Keth, Königin; 317 points
+4. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Regensturm, Schmiede, Schwert von Keth, Königin; 313 points
+5. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Regensturm, Schmiede, Schwert von Keth, Königin; 308 points
+6. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Regensturm, Schmiede, Schwert von Keth, Höhle; 308 points
+7. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Regensturm, Elbischer Bogen, Schwert von Keth, Königin; 302 points
+8. Schild von Keth, Juwel der Ordnung, Regensturm, Einhorn, Schwert von Keth, Königin, Elbenschützen; 299 points
+9. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Regensturm, Schmiede, Schwert von Keth, Höhle; 299 points
+10. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Regensturm, Einhorn, Schwert von Keth, Königin; 297 points
+
+Best combinations with Wirbelsturm:
+1. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 290 points
+2. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz; 288 points
+3. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 286 points
+4. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Basilisk; 282 points
+5. Doppelgänger, Magierin, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 282 points
+6. Doppelgänger, Luftwesen, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 281 points
+7. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 276 points
+8. Doppelgänger, Buch der Veränderung, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 275 points
+9. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 273 points
+10. Schild von Keth, Juwel der Ordnung, Wirbelsturm, Schmiede, Schlachtross, Schwert von Keth, König; 273 points
+
+Best combinations with Rauch:
+1. Doppelgänger, Buch der Veränderung, Rauch, Kerze, Buschfeuer, Glockenturm, Gebirge; 294 points
+2. Buch der Veränderung, Rauch, Kerze, Feuerwesen, Buschfeuer, Glockenturm, Gebirge; 288 points
+3. Schild von Keth, Juwel der Ordnung, Rauch, Schmiede, Schlachtross, Schwert von Keth, König; 287 points
+4. Buch der Veränderung, Rauch, Große Flut, Kerze, Buschfeuer, Glockenturm, Gebirge; 286 points
+5. Buch der Veränderung, Magierin, Rauch, Kerze, Buschfeuer, Glockenturm, Gebirge; 284 points
+6. Buch der Veränderung, Rauch, Kerze, Buschfeuer, Drache, Glockenturm, Gebirge; 284 points
+7. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Rauch, Quelle des Lebens, Kerze, Erdwesen; 284 points
+8. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Luftwesen, Rauch, Quelle des Lebens, Kerze; 284 points
+9. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Rauch, Quelle des Lebens, Kerze, Feuerwesen; 284 points
+10. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Rauch, Quelle des Lebens, Wasserwesen, Kerze; 284 points
+
+Best combinations with Blizzard:
+1. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Luftwesen, Blizzard, Quelle des Lebens, Kerze; 285 points
+2. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Blizzard, Quelle des Lebens, Kerze, Erdwesen; 285 points
+3. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Blizzard, Kerze, Zauberstab, Erdwesen; 285 points
+4. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Luftwesen, Blizzard, Kerze, Zauberstab; 285 points
+5. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Luftwesen, Blizzard, Kerze, Zauberstab; 280 points
+6. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Blizzard, Kerze, Feuerwesen, Zauberstab; 280 points
+7. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Blizzard, Kerze, Zauberstab, Erdwesen; 280 points
+8. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Blizzard, Quelle des Lebens, Kerze, Feuerwesen; 280 points
+9. Schild von Keth, Juwel der Ordnung, Blizzard, Schmiede, Schwert von Keth, König, Höhle; 276 points
+10. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Blizzard, Kerze, Feuerwesen, Zauberstab; 275 points
+
+Best combinations with Quelle des Lebens:
+1. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Kerze, Erdwesen, Höhle; 307 points
+2. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Kerze, Erdwesen, Höhle; 305 points
+3. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Kerze, Feuerwesen, Schlachtross; 304 points
+4. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Wasserwesen, Kerze, Schlachtross; 304 points
+5. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Kerze, Schlachtross, Erdwesen; 304 points
+6. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Kerze, Erdwesen, Höhle; 303 points
+7. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Wasserwesen, Kerze, Schlachtross; 302 points
+8. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Kerze, Feuerwesen, Schlachtross; 302 points
+9. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Kerze, Schlachtross, Erdwesen; 302 points
+10. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Kerze, Erdwesen, Höhle; 301 points
+
+Best combinations with Wasserwesen:
+1. Buch der Veränderung, Juwel der Ordnung, Wasserwesen, Kerze, Schlachtross, Wald, Glockenturm; 326 points
+2. Buch der Veränderung, Juwel der Ordnung, Wasserwesen, Kerze, Schlachtross, Schwert von Keth, Glockenturm; 314 points
+3. Buch der Veränderung, Juwel der Ordnung, Wasserwesen, Kerze, Schlachtross, Wald, Glockenturm; 314 points
+4. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Wasserwesen, Kerze, Schlachtross, Zauberstab; 310 points
+5. Buch der Veränderung, Juwel der Ordnung, Wasserwesen, Kerze, Schwert von Keth, Königin, Glockenturm; 310 points
+6. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Wasserwesen, Kerze, Schlachtross; 304 points
+7. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Wasserwesen, Kerze, Schlachtross; 302 points
+8. Buch der Veränderung, Juwel der Ordnung, Wasserwesen, Kerze, Höhle, Wald, Glockenturm; 300 points
+9. Buch der Veränderung, Juwel der Ordnung, Wasserwesen, Kerze, Königin, Wald, Glockenturm; 300 points
+10. Buch der Veränderung, Juwel der Ordnung, Wasserwesen, Kerze, Schwert von Keth, Höhle, Glockenturm; 300 points
+
+Best combinations with Insel:
+1. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 286 points
+2. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 276 points
+3. Schild von Keth, Juwel der Ordnung, Insel, Schmiede, Schlachtross, Schwert von Keth, König; 274 points
+4. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Blitz; 274 points
+5. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Wasserwesen, Insel, Kerze; 273 points
+6. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 272 points
+7. Doppelgänger, Buch der Veränderung, Insel, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 271 points
+8. Doppelgänger, Regensturm, Wirbelsturm, Wasserwesen, Insel, Sumpf, Große Flut; 271 points
+9. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Blitz; 270 points
+10. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Wasserwesen, Insel, Kerze, Zauberstab; 269 points
+
+Best combinations with Sumpf:
+1. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 290 points
+2. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Wasserwesen, Sumpf, Kerze; 281 points
+3. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Wasserwesen, Sumpf, Kerze; 278 points
+4. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 277 points
+5. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 276 points
+6. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 276 points
+7. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Blitz; 275 points
+8. Schild von Keth, Juwel der Ordnung, Sumpf, Schmiede, Schlachtross, Schwert von Keth, König; 275 points
+9. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Wasserwesen, Sumpf, Kerze, Zauberstab; 273 points
+10. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 273 points
+
+Best combinations with Große Flut:
+1. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 290 points
+2. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz; 288 points
+3. Buch der Veränderung, Rauch, Große Flut, Kerze, Buschfeuer, Glockenturm, Gebirge; 286 points
+4. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 286 points
+5. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Basilisk; 282 points
+6. Doppelgänger, Magierin, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 282 points
+7. Doppelgänger, Luftwesen, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 281 points
+8. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 277 points
+9. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 276 points
+10. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 276 points
+
+Best combinations with Kerze:
+1. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Kerze, Schwert von Keth, Königin, Glockenturm; 380 points
+2. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 356 points
+3. Buch der Veränderung, Juwel der Ordnung, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 345 points
+4. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 344 points
+5. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 341 points
+6. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Wald, Glockenturm; 341 points
+7. Buch der Veränderung, Juwel der Ordnung, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 330 points
+8. Buch der Veränderung, Juwel der Ordnung, Kerze, Königin, Erdwesen, Wald, Glockenturm; 330 points
+9. Buch der Veränderung, Juwel der Ordnung, Kerze, Schwert von Keth, Erdwesen, Höhle, Glockenturm; 330 points
+10. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Schwert von Keth, Erdwesen, Glockenturm; 329 points
+
+Best combinations with Feuerwesen:
+1. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Wald, Glockenturm; 341 points
+2. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Schwert von Keth, Glockenturm; 329 points
+3. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Wald, Glockenturm; 329 points
+4. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Wald, Glockenturm; 326 points
+5. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Zauberstab; 325 points
+6. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schwert von Keth, Königin, Glockenturm; 325 points
+7. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schwert von Keth, Königin, Glockenturm; 315 points
+8. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Königin, Wald, Glockenturm; 315 points
+9. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Höhle, Wald, Glockenturm; 315 points
+10. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schwert von Keth, Höhle, Glockenturm; 315 points
+
+Best combinations with Schmiede:
+1. Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König, Elbenschützen; 351 points
+2. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König; 348 points
+3. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König; 339 points
+4. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König; 331 points
+5. Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König, Elbenschützen; 330 points
+6. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König; 327 points
+7. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, Glockenturm; 323 points
+8. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König; 322 points
+9. Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Elbischer Bogen, Schwert von Keth, König; 322 points
+10. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, Glockenturm; 322 points
+
+Best combinations with Blitz:
+1. Juwel der Ordnung, Blitz, Einhorn, Königin, König, Wald, Elbenschützen; 290 points
+2. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz; 288 points
+3. Juwel der Ordnung, Herr der Bestien, Regensturm, Blitz, Schlachtross, Wald, Elbenschützen; 283 points
+4. Doppelgänger, Buch der Veränderung, Kerze, Feuerwesen, Blitz, Buschfeuer, Glockenturm; 283 points
+5. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Blitz, Zauberstab; 281 points
+6. Juwel der Ordnung, Regensturm, Blitz, Einhorn, Königin, Wald, Elbenschützen; 280 points
+7. Juwel der Ordnung, Schmiede, Blitz, Schwert von Keth, Königin, König, Elbenschützen; 279 points
+8. Juwel der Ordnung, Blitz, Einhorn, Schwert von Keth, Königin, König, Elbenschützen; 276 points
+9. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Blitz; 275 points
+10. Schild von Keth, Juwel der Ordnung, Regensturm, Blitz, Einhorn, Schwert von Keth, Königin; 275 points
+
+Best combinations with Buschfeuer:
+1. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Buschfeuer, Zauberstab; 310 points
+2. Doppelgänger, Buch der Veränderung, Magierin, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 302 points
+3. Doppelgänger, Buch der Veränderung, Hexenmeister, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 297 points
+4. Doppelgänger, Buch der Veränderung, Rauch, Kerze, Buschfeuer, Glockenturm, Gebirge; 294 points
+5. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Buschfeuer, Zauberstab, Glockenturm; 293 points
+6. Doppelgänger, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 292 points
+7. Doppelgänger, Buch der Veränderung, Kerze, Feuerwesen, Schmiede, Buschfeuer, Glockenturm; 290 points
+8. Buch der Veränderung, Rauch, Kerze, Feuerwesen, Buschfeuer, Glockenturm, Gebirge; 288 points
+9. Doppelgänger, Buch der Veränderung, Magierin, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 287 points
+10. Doppelgänger, Buch der Veränderung, Kerze, Feuerwesen, Buschfeuer, Drache, Glockenturm; 287 points
+
+Best combinations with Schlachtross:
+1. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 356 points
+2. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 344 points
+3. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 341 points
+4. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Wald, Glockenturm; 341 points
+5. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König; 331 points
+6. Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König, Elbenschützen; 330 points
+7. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Schwert von Keth, Glockenturm; 329 points
+8. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Schwert von Keth, Erdwesen, Glockenturm; 329 points
+9. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Wald, Glockenturm; 329 points
+10. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König; 327 points
+
+Best combinations with Einhorn:
+1. Schild von Keth, Juwel der Ordnung, Einhorn, Schwert von Keth, Königin, König, Elbenschützen; 339 points
+2. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Einhorn, Schwert von Keth, Königin, König; 327 points
+3. Schild von Keth, Juwel der Ordnung, Einhorn, Schwert von Keth, Königin, Glockenturm, Elbenschützen; 304 points
+4. Schild von Keth, Juwel der Ordnung, Schlachtross, Einhorn, Schwert von Keth, König, Elbenschützen; 303 points
+5. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Einhorn, Schwert von Keth, Königin, Glockenturm; 302 points
+6. Schild von Keth, Juwel der Ordnung, Regensturm, Einhorn, Schwert von Keth, Königin, Elbenschützen; 299 points
+7. Juwel der Ordnung, Einhorn, Königin, König, Erdwesen, Wald, Elbenschützen; 298 points
+8. Schild von Keth, Juwel der Ordnung, Einhorn, Königin, König, Wald, Elbenschützen; 298 points
+9. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Regensturm, Einhorn, Schwert von Keth, Königin; 297 points
+10. Schild von Keth, Juwel der Ordnung, Einhorn, Schwert von Keth, Königin, König, Ritter; 294 points
+
+Best combinations with Hydra:
+1. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 277 points
+2. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 273 points
+3. Doppelgänger, Regensturm, Wirbelsturm, Wasserwesen, Sumpf, Große Flut, Hydra; 272 points
+4. Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Hydra, Schwert von Keth, König; 272 points
+5. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Hydra, Zauberstab; 267 points
+6. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Hydra, Zauberstab, Erdwesen; 267 points
+7. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Hydra, Schwert von Keth, Königin, König; 265 points
+8. Doppelgänger, Hydra, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 264 points
+9. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 263 points
+10. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Schlachtross, Hydra, Schwert von Keth, König; 263 points
+
+Best combinations with Drache:
+1. Buch der Veränderung, Juwel der Ordnung, Kerze, Drache, Erdwesen, Höhle, Glockenturm; 288 points
+2. Doppelgänger, Buch der Veränderung, Kerze, Feuerwesen, Buschfeuer, Drache, Glockenturm; 287 points
+3. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Drache, Zauberstab, Erdwesen; 285 points
+4. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Drache, Zauberstab; 285 points
+5. Buch der Veränderung, Rauch, Kerze, Buschfeuer, Drache, Glockenturm, Gebirge; 284 points
+6. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Drache, Schwert von Keth, König, Höhle; 283 points
+7. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Schlachtross, Drache, Schwert von Keth, König; 281 points
+8. Juwel der Ordnung, Herr der Bestien, Drache, Erdwesen, Höhle, Wald, Glockenturm; 275 points
+9. Buch der Veränderung, Juwel der Ordnung, Kerze, Drache, Erdwesen, Höhle, Glockenturm; 273 points
+10. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Drache, Schwert von Keth, Königin, Glockenturm; 273 points
+
+Best combinations with Basilisk:
+1. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Basilisk, Zauberstab; 290 points
+2. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Basilisk, Zauberstab, Erdwesen; 290 points
+3. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Schlachtross, Basilisk, Schwert von Keth, König; 286 points
+4. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Basilisk; 282 points
+5. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Basilisk, Schwert von Keth, Königin, Glockenturm; 278 points
+6. Doppelgänger, Buch der Veränderung, Herr der Bestien, Kerze, Basilisk, Wald, Glockenturm; 277 points
+7. Spiegelung, Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Kerze, Basilisk, Zauberstab; 275 points
+8. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Basilisk, Zauberstab, Kriegsherr; 275 points
+9. Juwel der Ordnung, Herr der Bestien, Schlachtross, Basilisk, Erdwesen, Wald, Glockenturm; 275 points
+10. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Luftwesen, Kerze, Basilisk, Zauberstab; 275 points
+
+Best combinations with Zauberstab:
+1. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Zauberstab, Erdwesen, Höhle; 326 points
+2. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Zauberstab; 325 points
+3. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Zauberstab, Erdwesen; 325 points
+4. Spiegelung, Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Kerze, Zauberstab, Königin; 311 points
+5. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Zauberstab, Königin; 311 points
+6. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Zauberstab, Erdwesen, Höhle; 311 points
+7. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Zauberstab, Höhle; 311 points
+8. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Zauberstab, Königin, Erdwesen; 311 points
+9. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Zauberstab; 310 points
+10. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Zauberstab, Erdwesen; 310 points
+
+Best combinations with Elbischer Bogen:
+1. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Schlachtross, Elbischer Bogen, Schwert von Keth, König; 325 points
+2. Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Elbischer Bogen, Schwert von Keth, König; 322 points
+3. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Elbischer Bogen, Schwert von Keth, Königin, Glockenturm; 317 points
+4. Schild von Keth, Juwel der Ordnung, Schmiede, Elbischer Bogen, Schwert von Keth, Königin, König; 308 points
+5. Schild von Keth, Juwel der Ordnung, Schmiede, Elbischer Bogen, Schwert von Keth, König, Höhle; 308 points
+6. Schild von Keth, Juwel der Ordnung, Schmiede, Elbischer Bogen, Schwert von Keth, Königin, Glockenturm; 308 points
+7. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Regensturm, Elbischer Bogen, Schwert von Keth, Königin; 302 points
+8. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Elbischer Bogen, Schwert von Keth, Königin, König; 302 points
+9. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Elbischer Bogen, Schwert von Keth, König, Höhle; 302 points
+10. Juwel der Ordnung, Herr der Bestien, Schlachtross, Elbischer Bogen, Erdwesen, Wald, Glockenturm; 302 points
+
+Best combinations with Schwert von Keth:
+1. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Kerze, Schwert von Keth, Königin, Glockenturm; 380 points
+2. Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König, Elbenschützen; 351 points
+3. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König; 348 points
+4. Schild von Keth, Juwel der Ordnung, Einhorn, Schwert von Keth, Königin, König, Elbenschützen; 339 points
+5. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König; 339 points
+6. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König; 331 points
+7. Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König, Elbenschützen; 330 points
+8. Buch der Veränderung, Juwel der Ordnung, Kerze, Schwert von Keth, Erdwesen, Höhle, Glockenturm; 330 points
+9. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Schwert von Keth, Erdwesen, Glockenturm; 329 points
+10. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schwert von Keth, Prinzessin, Königin, König; 329 points
+
+Best combinations with Kriegsschiff:
+1. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Wasserwesen, Kerze, Kriegsschiff; 276 points
+2. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Kerze, Feuerwesen, Kriegsschiff; 276 points
+3. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Kerze, Kriegsschiff, Erdwesen; 276 points
+4. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Kriegsschiff; 270 points
+5. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Wasserwesen, Kerze, Zauberstab, Kriegsschiff; 263 points
+6. Buch der Veränderung, Weltenbaum, Hexenmeister, Kerze, Basilisk, Kriegsschiff, Glockenturm; 263 points
+7. Buch der Veränderung, Weltenbaum, Quelle des Lebens, Kerze, Basilisk, Kriegsschiff, Glockenturm; 262 points
+8. Spiegelung, Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Quelle des Lebens, Kerze, Kriegsschiff; 261 points
+9. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Kriegsschiff; 261 points
+10. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Quelle des Lebens, Wasserwesen, Kerze, Kriegsschiff; 261 points
+
+Best combinations with Kampfzeppelin:
+1. Doppelgänger, Buch der Veränderung, Kampfzeppelin, Kriegsherr, Königin, König, Ritter; 291 points
+2. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schwert von Keth, Kampfzeppelin, Königin, König; 288 points
+3. Doppelgänger, Kampfzeppelin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 287 points
+4. Buch der Veränderung, Kampfzeppelin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 285 points
+5. Doppelgänger, Kampfzeppelin, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 281 points
+6. Doppelgänger, Kampfzeppelin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 281 points
+7. Doppelgänger, Kampfzeppelin, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 279 points
+8. Doppelgänger, Buch der Veränderung, Kampfzeppelin, Kriegsherr, Königin, König, Leichte Kavallerie; 279 points
+9. Doppelgänger, Kampfzeppelin, Kriegsherr, Königin, König, Elbenschützen, Ritter; 278 points
+10. Doppelgänger, Kampfzeppelin, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 278 points
+
+Best combinations with Prinzessin:
+1. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schwert von Keth, Prinzessin, Königin, König; 329 points
+2. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schwert von Keth, Prinzessin, Königin, König; 321 points
+3. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schlachtross, Zauberstab, Schwert von Keth, Prinzessin; 305 points
+4. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+5. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schlachtross, Schwert von Keth, Prinzessin, Glockenturm; 302 points
+6. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schlachtross, Schwert von Keth, Prinzessin, König; 300 points
+7. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Zauberstab, Schwert von Keth, Prinzessin, Königin; 299 points
+8. Doppelgänger, Prinzessin, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 296 points
+9. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 296 points
+10. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schwert von Keth, Prinzessin, Königin, Glockenturm; 296 points
+
+Best combinations with Kriegsherr:
+1. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Kriegsherr, Wald, Glockenturm; 326 points
+2. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Schwert von Keth, Kriegsherr, Glockenturm; 324 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+4. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+5. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Kriegsherr, Wald, Glockenturm; 314 points
+6. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Schwert von Keth, Kriegsherr, Glockenturm; 314 points
+7. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+8. Buch der Veränderung, Juwel der Ordnung, Kerze, Schwert von Keth, Kriegsherr, Höhle, Glockenturm; 310 points
+9. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+10. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Zauberstab, Kriegsherr; 310 points
+
+Best combinations with Königin:
+1. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Kerze, Schwert von Keth, Königin, Glockenturm; 380 points
+2. Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König, Elbenschützen; 351 points
+3. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König; 348 points
+4. Schild von Keth, Juwel der Ordnung, Einhorn, Schwert von Keth, Königin, König, Elbenschützen; 339 points
+5. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König; 339 points
+6. Buch der Veränderung, Juwel der Ordnung, Kerze, Königin, Erdwesen, Wald, Glockenturm; 330 points
+7. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schwert von Keth, Prinzessin, Königin, König; 329 points
+8. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Einhorn, Schwert von Keth, Königin, König; 327 points
+9. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schwert von Keth, Königin, Glockenturm; 325 points
+10. Buch der Veränderung, Juwel der Ordnung, Kerze, Schwert von Keth, Königin, Erdwesen, Glockenturm; 325 points
+
+Best combinations with König:
+1. Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König, Elbenschützen; 351 points
+2. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König; 348 points
+3. Schild von Keth, Juwel der Ordnung, Einhorn, Schwert von Keth, Königin, König, Elbenschützen; 339 points
+4. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König; 339 points
+5. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König; 331 points
+6. Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König, Elbenschützen; 330 points
+7. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schwert von Keth, Prinzessin, Königin, König; 329 points
+8. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König; 327 points
+9. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Einhorn, Schwert von Keth, Königin, König; 327 points
+10. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Schlachtross, Elbischer Bogen, Schwert von Keth, König; 325 points
+
+Best combinations with Kaiserin:
+1. Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, Kaiserin, Glockenturm; 275 points
+2. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Schlachtross, Schwert von Keth, Kaiserin, Glockenturm; 272 points
+3. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Zauberstab, Kaiserin; 270 points
+4. Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König, Kaiserin; 270 points
+5. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Zauberstab, Kaiserin, Erdwesen; 270 points
+6. Spiegelung, Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Kerze, Zauberstab, Kaiserin; 270 points
+7. Buch der Veränderung, Schild von Keth, Kerze, Schmiede, Schwert von Keth, Kaiserin, Glockenturm; 270 points
+8. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Kerze, Schwert von Keth, Kaiserin, Glockenturm; 269 points
+9. Buch der Veränderung, Schild von Keth, Kerze, Drache, Schwert von Keth, Kaiserin, Glockenturm; 264 points
+10. Schild von Keth, Juwel der Ordnung, Regensturm, Schlachtross, Einhorn, Schwert von Keth, Kaiserin; 263 points
+
+Best combinations with Erdwesen:
+1. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 356 points
+2. Buch der Veränderung, Juwel der Ordnung, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 345 points
+3. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 344 points
+4. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 341 points
+5. Buch der Veränderung, Juwel der Ordnung, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 330 points
+6. Buch der Veränderung, Juwel der Ordnung, Kerze, Königin, Erdwesen, Wald, Glockenturm; 330 points
+7. Buch der Veränderung, Juwel der Ordnung, Kerze, Schwert von Keth, Erdwesen, Höhle, Glockenturm; 330 points
+8. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Schwert von Keth, Erdwesen, Glockenturm; 329 points
+9. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Zauberstab, Erdwesen, Höhle; 326 points
+10. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Zauberstab, Erdwesen; 325 points
+
+Best combinations with Höhle:
+1. Buch der Veränderung, Juwel der Ordnung, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 345 points
+2. Buch der Veränderung, Juwel der Ordnung, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 330 points
+3. Buch der Veränderung, Juwel der Ordnung, Kerze, Schwert von Keth, Erdwesen, Höhle, Glockenturm; 330 points
+4. Spiegelung, Buch der Veränderung, Juwel der Ordnung, Kerze, Zauberstab, Erdwesen, Höhle; 326 points
+5. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, König, Höhle; 317 points
+6. Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, König, Höhle, Elbenschützen; 316 points
+7. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Höhle, Wald, Glockenturm; 315 points
+8. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schwert von Keth, Höhle, Glockenturm; 315 points
+9. Buch der Veränderung, Juwel der Ordnung, Kerze, Schwert von Keth, Erdwesen, Höhle, Glockenturm; 315 points
+10. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, König, Höhle; 313 points
+
+Best combinations with Wald:
+1. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 356 points
+2. Buch der Veränderung, Juwel der Ordnung, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 345 points
+3. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 344 points
+4. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 341 points
+5. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Wald, Glockenturm; 341 points
+6. Buch der Veränderung, Juwel der Ordnung, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 330 points
+7. Buch der Veränderung, Juwel der Ordnung, Kerze, Königin, Erdwesen, Wald, Glockenturm; 330 points
+8. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Wald, Glockenturm; 329 points
+9. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Wald, Glockenturm; 326 points
+10. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Kriegsherr, Wald, Glockenturm; 326 points
+
+Best combinations with Glockenturm:
+1. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Kerze, Schwert von Keth, Königin, Glockenturm; 380 points
+2. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 356 points
+3. Buch der Veränderung, Juwel der Ordnung, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 345 points
+4. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 344 points
+5. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Erdwesen, Wald, Glockenturm; 341 points
+6. Buch der Veränderung, Juwel der Ordnung, Kerze, Feuerwesen, Schlachtross, Wald, Glockenturm; 341 points
+7. Buch der Veränderung, Juwel der Ordnung, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 330 points
+8. Buch der Veränderung, Juwel der Ordnung, Kerze, Königin, Erdwesen, Wald, Glockenturm; 330 points
+9. Buch der Veränderung, Juwel der Ordnung, Kerze, Schwert von Keth, Erdwesen, Höhle, Glockenturm; 330 points
+10. Buch der Veränderung, Juwel der Ordnung, Kerze, Schlachtross, Schwert von Keth, Erdwesen, Glockenturm; 329 points
+
+Best combinations with Gebirge:
+1. Schild von Keth, Juwel der Ordnung, Schwert von Keth, Königin, König, Gebirge, Elbenschützen; 324 points
+2. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schwert von Keth, Königin, König, Gebirge; 312 points
+3. Schild von Keth, Juwel der Ordnung, Schlachtross, Schwert von Keth, König, Gebirge, Elbenschützen; 303 points
+4. Doppelgänger, Buch der Veränderung, Rauch, Kerze, Buschfeuer, Glockenturm, Gebirge; 294 points
+5. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schlachtross, Schwert von Keth, König, Gebirge; 291 points
+6. Schild von Keth, Juwel der Ordnung, Schwert von Keth, Königin, Glockenturm, Gebirge, Elbenschützen; 289 points
+7. Schild von Keth, Juwel der Ordnung, Schwert von Keth, König, Höhle, Gebirge, Elbenschützen; 289 points
+8. Buch der Veränderung, Rauch, Kerze, Feuerwesen, Buschfeuer, Glockenturm, Gebirge; 288 points
+9. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schwert von Keth, Königin, Glockenturm, Gebirge; 287 points
+10. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schlachtross, Schwert von Keth, König, Gebirge; 286 points
+
+Best combinations with Waldläufer:
+1. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+2. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 296 points
+3. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Elbenschützen, Ritter; 293 points
+4. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Zwergeninfanterie, Ritter; 292 points
+5. Doppelgänger, Königin, König, Waldläufer, Elbenschützen, Leichte Kavallerie, Ritter; 291 points
+6. Doppelgänger, Königin, König, Waldläufer, Elbenschützen, Leichte Kavallerie, Ritter; 288 points
+7. Kriegsherr, Königin, König, Waldläufer, Elbenschützen, Leichte Kavallerie, Ritter; 287 points
+8. Kriegsherr, Königin, König, Waldläufer, Zwergeninfanterie, Leichte Kavallerie, Ritter; 286 points
+9. Doppelgänger, Prinzessin, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 286 points
+10. Juwel der Ordnung, Einhorn, Königin, König, Wald, Waldläufer, Elbenschützen; 284 points
+
+Best combinations with Elbenschützen:
+1. Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König, Elbenschützen; 351 points
+2. Schild von Keth, Juwel der Ordnung, Einhorn, Schwert von Keth, Königin, König, Elbenschützen; 339 points
+3. Schild von Keth, Juwel der Ordnung, Schmiede, Schlachtross, Schwert von Keth, König, Elbenschützen; 330 points
+4. Schild von Keth, Juwel der Ordnung, Schwert von Keth, Königin, König, Gebirge, Elbenschützen; 324 points
+5. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Schwert von Keth, Königin, König, Elbenschützen; 324 points
+6. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+7. Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, Glockenturm, Elbenschützen; 316 points
+8. Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, König, Höhle, Elbenschützen; 316 points
+9. Schild von Keth, Juwel der Ordnung, Herr der Bestien, Schlachtross, Schwert von Keth, König, Elbenschützen; 312 points
+10. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+
+Best combinations with Zwergeninfanterie:
+1. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+4. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schwert von Keth, Königin, König, Zwergeninfanterie; 306 points
+5. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+6. Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König, Zwergeninfanterie; 301 points
+7. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 300 points
+8. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie; 295 points
+9. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 294 points
+10. Doppelgänger, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 293 points
+
+Best combinations with Leichte Kavallerie:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+4. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+5. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schwert von Keth, Königin, König, Leichte Kavallerie; 310 points
+6. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 303 points
+7. Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König, Leichte Kavallerie; 303 points
+8. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+9. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+10. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+
+Best combinations with Ritter:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+3. Buch der Veränderung, Schild von Keth, Juwel der Ordnung, Schwert von Keth, Königin, König, Ritter; 313 points
+4. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+5. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+6. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+7. Schild von Keth, Juwel der Ordnung, Schmiede, Schwert von Keth, Königin, König, Ritter; 306 points
+8. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 303 points
+9. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+10. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points

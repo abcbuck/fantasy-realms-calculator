@@ -1,0 +1,648 @@
+Best combinations:
+1. Book of Changes, Shield of Keth, Gem of Order, Candle, Sword of Keth, Queen, Bell Tower; 380 points
+2. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 356 points
+3. Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King, Elven Archers; 351 points
+4. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King; 348 points
+5. Book of Changes, Gem of Order, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 345 points
+6. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 344 points
+7. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 341 points
+8. Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Forest, Bell Tower; 341 points
+9. Shield of Keth, Gem of Order, Unicorn, Sword of Keth, Queen, King, Elven Archers; 339 points
+10. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King; 339 points
+
+Worst combinations:
+1. Doppelgänger, Shapeshifter, Warlock Lord, Warlord, Queen, King, Empress; -57 points
+2. Doppelgänger, Shapeshifter, Enchantress, Warlock Lord, Warlord, Queen, Empress; -55 points
+3. Doppelgänger, Shapeshifter, Enchantress, Warlock Lord, Warlord, King, Empress; -53 points
+4. Doppelgänger, Shapeshifter, Warlock Lord, Warlord, Queen, King, Empress; -52 points
+5. Doppelgänger, Shapeshifter, Beastmaster, Warlock Lord, Warlord, Queen, Empress; -51 points
+6. Doppelgänger, Shapeshifter, Enchantress, Warlock Lord, Queen, King, Empress; -51 points
+7. Doppelgänger, Shapeshifter, Enchantress, Warlock Lord, Warlord, Queen, Empress; -50 points
+8. Doppelgänger, Shapeshifter, Beastmaster, Warlock Lord, Warlord, King, Empress; -49 points
+9. Doppelgänger, Shapeshifter, Enchantress, Warlock Lord, Warlord, King, Empress; -48 points
+10. Doppelgänger, Shapeshifter, Enchantress, Beastmaster, Warlock Lord, Warlord, Empress; -47 points
+
+
+Best combinations with Doppelgänger:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+4. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+5. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+6. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 303 points
+7. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+8. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+9. Doppelgänger, Book of Changes, Enchantress, Candle, Fire Elemental, Wildfire, Bell Tower; 302 points
+10. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 301 points
+
+Best combinations with Mirage:
+1. Mirage, Book of Changes, Gem of Order, Candle, Magic Wand, Earth Elemental, Cavern; 326 points
+2. Mirage, Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Magic Wand; 325 points
+3. Mirage, Book of Changes, Gem of Order, Candle, Warhorse, Magic Wand, Earth Elemental; 325 points
+4. Mirage, Book of Changes, Shield of Keth, Gem of Order, Candle, Magic Wand, Queen; 311 points
+5. Mirage, Book of Changes, Gem of Order, Candle, Fire Elemental, Magic Wand, Queen; 311 points
+6. Mirage, Book of Changes, Gem of Order, Candle, Magic Wand, Earth Elemental, Cavern; 311 points
+7. Mirage, Book of Changes, Gem of Order, Candle, Fire Elemental, Magic Wand, Cavern; 311 points
+8. Mirage, Book of Changes, Gem of Order, Candle, Magic Wand, Queen, Earth Elemental; 311 points
+9. Mirage, Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Magic Wand; 310 points
+10. Mirage, Book of Changes, Gem of Order, Candle, Warhorse, Magic Wand, Earth Elemental; 310 points
+
+Best combinations with Shapeshifter:
+1. Shapeshifter, Book of Changes, Gem of Order, Candle, Fire Elemental, Magic Wand, Bell Tower; 293 points
+2. Shapeshifter, Book of Changes, Gem of Order, Candle, Magic Wand, Earth Elemental, Bell Tower; 293 points
+3. Shapeshifter, Book of Changes, Gem of Order, Candle, Magic Wand, Earth Elemental, Bell Tower; 278 points
+4. Shapeshifter, Book of Changes, Gem of Order, Air Elemental, Candle, Magic Wand, Bell Tower; 278 points
+5. Shapeshifter, Book of Changes, Gem of Order, Water Elemental, Candle, Magic Wand, Bell Tower; 278 points
+6. Shapeshifter, Book of Changes, Gem of Order, Candle, Fire Elemental, Magic Wand, Bell Tower; 278 points
+7. Shapeshifter, Book of Changes, Shield of Keth, Gem of Order, Candle, Magic Wand, Bell Tower; 278 points
+8. Shapeshifter, Book of Changes, Gem of Order, Fountain of Life, Water Elemental, Candle, Bell Tower; 276 points
+9. Shapeshifter, Book of Changes, Gem of Order, Fountain of Life, Candle, Fire Elemental, Bell Tower; 276 points
+10. Shapeshifter, Book of Changes, Gem of Order, Fountain of Life, Candle, Earth Elemental, Bell Tower; 276 points
+
+Best combinations with Book of Changes:
+1. Book of Changes, Shield of Keth, Gem of Order, Candle, Sword of Keth, Queen, Bell Tower; 380 points
+2. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 356 points
+3. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King; 348 points
+4. Book of Changes, Gem of Order, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 345 points
+5. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 344 points
+6. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 341 points
+7. Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Forest, Bell Tower; 341 points
+8. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King; 339 points
+9. Book of Changes, Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King; 331 points
+10. Book of Changes, Gem of Order, Candle, Queen, Earth Elemental, Forest, Bell Tower; 330 points
+
+Best combinations with Protection Rune:
+1. Mirage, Book of Changes, Protection Rune, Gem of Order, Candle, Earth Elemental, Cavern; 301 points
+2. Mirage, Book of Changes, Protection Rune, Gem of Order, Candle, Fire Elemental, Warhorse; 300 points
+3. Mirage, Book of Changes, Protection Rune, Gem of Order, Candle, Warhorse, Earth Elemental; 300 points
+4. Mirage, Book of Changes, Protection Rune, Shield of Keth, Gem of Order, Candle, Queen; 286 points
+5. Mirage, Book of Changes, Protection Rune, Gem of Order, Candle, Fire Elemental, Queen; 286 points
+6. Mirage, Book of Changes, Protection Rune, Gem of Order, Candle, Fire Elemental, Cavern; 286 points
+7. Mirage, Book of Changes, Protection Rune, Gem of Order, Candle, Earth Elemental, Cavern; 286 points
+8. Mirage, Book of Changes, Protection Rune, Gem of Order, Candle, Queen, Earth Elemental; 286 points
+9. Mirage, Book of Changes, Protection Rune, Gem of Order, Candle, Warhorse, Earth Elemental; 285 points
+10. Mirage, Book of Changes, Protection Rune, Gem of Order, Candle, Fire Elemental, Warhorse; 285 points
+
+Best combinations with World Tree:
+1. Book of Changes, World Tree, Shield of Keth, Gem of Order, Sword of Keth, Queen, King; 305 points
+2. Book of Changes, World Tree, Shield of Keth, Gem of Order, Warhorse, Sword of Keth, King; 284 points
+3. Book of Changes, World Tree, Shield of Keth, Gem of Order, Magic Wand, Sword of Keth, Queen; 283 points
+4. Book of Changes, World Tree, Shield of Keth, Gem of Order, Sword of Keth, Queen, Bell Tower; 280 points
+5. Book of Changes, World Tree, Shield of Keth, Gem of Order, Fountain of Life, Warhorse, Sword of Keth; 279 points
+6. Book of Changes, World Tree, Shield of Keth, Gem of Order, Rainstorm, Warhorse, Sword of Keth; 279 points
+7. Book of Changes, World Tree, Shield of Keth, Gem of Order, Warhorse, Sword of Keth, King; 279 points
+8. World Tree, Shield of Keth, Gem of Order, Warhorse, Elven Longbow, Sword of Keth, King; 279 points
+9. Book of Changes, World Tree, Shield of Keth, Gem of Order, Warhorse, Sword of Keth, Bell Tower; 279 points
+10. Book of Changes, World Tree, Warlock Lord, Fountain of Life, Candle, War Dirigible, Bell Tower; 276 points
+
+Best combinations with Shield of Keth:
+1. Book of Changes, Shield of Keth, Gem of Order, Candle, Sword of Keth, Queen, Bell Tower; 380 points
+2. Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King, Elven Archers; 351 points
+3. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King; 348 points
+4. Shield of Keth, Gem of Order, Unicorn, Sword of Keth, Queen, King, Elven Archers; 339 points
+5. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King; 339 points
+6. Book of Changes, Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King; 331 points
+7. Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King, Elven Archers; 330 points
+8. Book of Changes, Shield of Keth, Gem of Order, Sword of Keth, Princess, Queen, King; 329 points
+9. Book of Changes, Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King; 327 points
+10. Book of Changes, Shield of Keth, Gem of Order, Unicorn, Sword of Keth, Queen, King; 327 points
+
+Best combinations with Gem of Order:
+1. Book of Changes, Shield of Keth, Gem of Order, Candle, Sword of Keth, Queen, Bell Tower; 380 points
+2. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 356 points
+3. Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King, Elven Archers; 351 points
+4. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King; 348 points
+5. Book of Changes, Gem of Order, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 345 points
+6. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 344 points
+7. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 341 points
+8. Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Forest, Bell Tower; 341 points
+9. Shield of Keth, Gem of Order, Unicorn, Sword of Keth, Queen, King, Elven Archers; 339 points
+10. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King; 339 points
+
+Best combinations with Enchantress:
+1. Doppelgänger, Book of Changes, Enchantress, Candle, Fire Elemental, Wildfire, Bell Tower; 302 points
+2. Mirage, Book of Changes, Gem of Order, Enchantress, Candle, Fire Elemental, Magic Wand; 295 points
+3. Mirage, Book of Changes, Gem of Order, Enchantress, Candle, Magic Wand, Earth Elemental; 295 points
+4. Mirage, Book of Changes, Gem of Order, Enchantress, Candle, Fire Elemental, Magic Wand; 290 points
+5. Mirage, Book of Changes, Gem of Order, Enchantress, Candle, Magic Wand, Earth Elemental; 290 points
+6. Doppelgänger, Book of Changes, Enchantress, Candle, Fire Elemental, Wildfire, Bell Tower; 287 points
+7. Book of Changes, Enchantress, Smoke, Candle, Wildfire, Bell Tower, Mountain; 284 points
+8. Doppelgänger, Book of Changes, Enchantress, Candle, Fire Elemental, Wildfire, Bell Tower; 282 points
+9. Doppelgänger, Enchantress, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 282 points
+10. Mirage, Book of Changes, Gem of Order, Enchantress, Candle, Magic Wand, Earth Elemental; 280 points
+
+Best combinations with Collector:
+1. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+2. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+3. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+4. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+5. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+6. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+7. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+8. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+9. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+10. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+
+Best combinations with Beastmaster:
+1. Shield of Keth, Gem of Order, Beastmaster, Warhorse, Elven Longbow, Sword of Keth, King; 325 points
+2. Shield of Keth, Gem of Order, Beastmaster, Sword of Keth, Queen, King, Elven Archers; 324 points
+3. Shield of Keth, Gem of Order, Beastmaster, Elven Longbow, Sword of Keth, Queen, Bell Tower; 317 points
+4. Shield of Keth, Gem of Order, Beastmaster, Warhorse, Sword of Keth, King, Elven Archers; 312 points
+5. Book of Changes, Shield of Keth, Gem of Order, Beastmaster, Sword of Keth, Queen, King; 312 points
+6. Book of Changes, Shield of Keth, Gem of Order, Beastmaster, Warhorse, Sword of Keth, Bell Tower; 310 points
+7. Shield of Keth, Gem of Order, Beastmaster, Sword of Keth, Queen, Bell Tower, Elven Archers; 304 points
+8. Book of Changes, Shield of Keth, Gem of Order, Beastmaster, Warhorse, Sword of Keth, King; 304 points
+9. Shield of Keth, Gem of Order, Beastmaster, Elven Longbow, Sword of Keth, King, Cavern; 302 points
+10. Gem of Order, Beastmaster, Warhorse, Elven Longbow, Earth Elemental, Forest, Bell Tower; 302 points
+
+Best combinations with Warlock Lord:
+1. Doppelgänger, Book of Changes, Warlock Lord, Candle, Fire Elemental, Wildfire, Bell Tower; 297 points
+2. Mirage, Book of Changes, Gem of Order, Warlock Lord, Candle, Fire Elemental, Magic Wand; 295 points
+3. Mirage, Book of Changes, Gem of Order, Warlock Lord, Candle, Magic Wand, Earth Elemental; 295 points
+4. Doppelgänger, Book of Changes, Warlock Lord, Candle, Fire Elemental, Wildfire, Bell Tower; 282 points
+5. Mirage, Book of Changes, Gem of Order, Warlock Lord, Water Elemental, Candle, Magic Wand; 280 points
+6. Mirage, Book of Changes, Gem of Order, Warlock Lord, Candle, Fire Elemental, Magic Wand; 280 points
+7. Mirage, Book of Changes, Gem of Order, Warlock Lord, Air Elemental, Candle, Magic Wand; 280 points
+8. Mirage, Book of Changes, Gem of Order, Warlock Lord, Candle, Magic Wand, Earth Elemental; 280 points
+9. Book of Changes, Warlock Lord, Smoke, Candle, Wildfire, Bell Tower, Mountain; 279 points
+10. Book of Changes, Gem of Order, Warlock Lord, Candle, Fire Elemental, Magic Wand, Bell Tower; 278 points
+
+Best combinations with Air Elemental:
+1. Book of Changes, Gem of Order, Air Elemental, Candle, Warhorse, Forest, Bell Tower; 326 points
+2. Book of Changes, Gem of Order, Air Elemental, Candle, Warhorse, Sword of Keth, Bell Tower; 314 points
+3. Book of Changes, Gem of Order, Air Elemental, Candle, Warhorse, Forest, Bell Tower; 314 points
+4. Mirage, Book of Changes, Gem of Order, Air Elemental, Candle, Warhorse, Magic Wand; 310 points
+5. Book of Changes, Gem of Order, Air Elemental, Candle, Sword of Keth, Queen, Bell Tower; 310 points
+6. Book of Changes, Gem of Order, Air Elemental, Candle, Sword of Keth, Queen, Bell Tower; 300 points
+7. Book of Changes, Gem of Order, Air Elemental, Candle, Queen, Forest, Bell Tower; 300 points
+8. Book of Changes, Gem of Order, Air Elemental, Candle, Cavern, Forest, Bell Tower; 300 points
+9. Book of Changes, Gem of Order, Air Elemental, Candle, Sword of Keth, Cavern, Bell Tower; 300 points
+10. Mirage, Book of Changes, Gem of Order, Air Elemental, Candle, Magic Wand, Queen; 296 points
+
+Best combinations with Rainstorm:
+1. Book of Changes, Shield of Keth, Gem of Order, Rainstorm, Forge, Warhorse, Sword of Keth; 322 points
+2. Book of Changes, Shield of Keth, Gem of Order, Rainstorm, Forge, Sword of Keth, Queen; 318 points
+3. Book of Changes, Shield of Keth, Gem of Order, Rainstorm, Forge, Sword of Keth, Queen; 317 points
+4. Book of Changes, Shield of Keth, Gem of Order, Rainstorm, Forge, Sword of Keth, Queen; 313 points
+5. Book of Changes, Shield of Keth, Gem of Order, Rainstorm, Forge, Sword of Keth, Queen; 308 points
+6. Book of Changes, Shield of Keth, Gem of Order, Rainstorm, Forge, Sword of Keth, Cavern; 308 points
+7. Shield of Keth, Gem of Order, Beastmaster, Rainstorm, Elven Longbow, Sword of Keth, Queen; 302 points
+8. Shield of Keth, Gem of Order, Rainstorm, Unicorn, Sword of Keth, Queen, Elven Archers; 299 points
+9. Book of Changes, Shield of Keth, Gem of Order, Rainstorm, Forge, Sword of Keth, Cavern; 299 points
+10. Book of Changes, Shield of Keth, Gem of Order, Rainstorm, Unicorn, Sword of Keth, Queen; 297 points
+
+Best combinations with Whirlwind:
+1. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 290 points
+2. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Lightning; 288 points
+3. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Great Flood; 286 points
+4. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Basilisk; 282 points
+5. Doppelgänger, Enchantress, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 282 points
+6. Doppelgänger, Air Elemental, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 281 points
+7. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 276 points
+8. Doppelgänger, Book of Changes, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 275 points
+9. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 273 points
+10. Shield of Keth, Gem of Order, Whirlwind, Forge, Warhorse, Sword of Keth, King; 273 points
+
+Best combinations with Smoke:
+1. Doppelgänger, Book of Changes, Smoke, Candle, Wildfire, Bell Tower, Mountain; 294 points
+2. Book of Changes, Smoke, Candle, Fire Elemental, Wildfire, Bell Tower, Mountain; 288 points
+3. Shield of Keth, Gem of Order, Smoke, Forge, Warhorse, Sword of Keth, King; 287 points
+4. Book of Changes, Smoke, Great Flood, Candle, Wildfire, Bell Tower, Mountain; 286 points
+5. Book of Changes, Enchantress, Smoke, Candle, Wildfire, Bell Tower, Mountain; 284 points
+6. Book of Changes, Smoke, Candle, Wildfire, Dragon, Bell Tower, Mountain; 284 points
+7. Mirage, Book of Changes, Gem of Order, Smoke, Fountain of Life, Candle, Earth Elemental; 284 points
+8. Mirage, Book of Changes, Gem of Order, Air Elemental, Smoke, Fountain of Life, Candle; 284 points
+9. Mirage, Book of Changes, Gem of Order, Smoke, Fountain of Life, Candle, Fire Elemental; 284 points
+10. Mirage, Book of Changes, Gem of Order, Smoke, Fountain of Life, Water Elemental, Candle; 284 points
+
+Best combinations with Blizzard:
+1. Mirage, Book of Changes, Gem of Order, Air Elemental, Blizzard, Fountain of Life, Candle; 285 points
+2. Mirage, Book of Changes, Gem of Order, Blizzard, Fountain of Life, Candle, Earth Elemental; 285 points
+3. Mirage, Book of Changes, Gem of Order, Blizzard, Candle, Magic Wand, Earth Elemental; 285 points
+4. Mirage, Book of Changes, Gem of Order, Air Elemental, Blizzard, Candle, Magic Wand; 285 points
+5. Mirage, Book of Changes, Gem of Order, Air Elemental, Blizzard, Candle, Magic Wand; 280 points
+6. Mirage, Book of Changes, Gem of Order, Blizzard, Candle, Fire Elemental, Magic Wand; 280 points
+7. Mirage, Book of Changes, Gem of Order, Blizzard, Candle, Magic Wand, Earth Elemental; 280 points
+8. Mirage, Book of Changes, Gem of Order, Blizzard, Fountain of Life, Candle, Fire Elemental; 280 points
+9. Shield of Keth, Gem of Order, Blizzard, Forge, Sword of Keth, King, Cavern; 276 points
+10. Mirage, Book of Changes, Gem of Order, Blizzard, Candle, Fire Elemental, Magic Wand; 275 points
+
+Best combinations with Fountain of Life:
+1. Mirage, Book of Changes, Gem of Order, Fountain of Life, Candle, Earth Elemental, Cavern; 307 points
+2. Mirage, Book of Changes, Gem of Order, Fountain of Life, Candle, Earth Elemental, Cavern; 305 points
+3. Mirage, Book of Changes, Gem of Order, Fountain of Life, Candle, Fire Elemental, Warhorse; 304 points
+4. Mirage, Book of Changes, Gem of Order, Fountain of Life, Water Elemental, Candle, Warhorse; 304 points
+5. Mirage, Book of Changes, Gem of Order, Fountain of Life, Candle, Warhorse, Earth Elemental; 304 points
+6. Mirage, Book of Changes, Gem of Order, Fountain of Life, Candle, Earth Elemental, Cavern; 303 points
+7. Mirage, Book of Changes, Gem of Order, Fountain of Life, Water Elemental, Candle, Warhorse; 302 points
+8. Mirage, Book of Changes, Gem of Order, Fountain of Life, Candle, Fire Elemental, Warhorse; 302 points
+9. Mirage, Book of Changes, Gem of Order, Fountain of Life, Candle, Warhorse, Earth Elemental; 302 points
+10. Mirage, Book of Changes, Gem of Order, Fountain of Life, Candle, Earth Elemental, Cavern; 301 points
+
+Best combinations with Water Elemental:
+1. Book of Changes, Gem of Order, Water Elemental, Candle, Warhorse, Forest, Bell Tower; 326 points
+2. Book of Changes, Gem of Order, Water Elemental, Candle, Warhorse, Sword of Keth, Bell Tower; 314 points
+3. Book of Changes, Gem of Order, Water Elemental, Candle, Warhorse, Forest, Bell Tower; 314 points
+4. Mirage, Book of Changes, Gem of Order, Water Elemental, Candle, Warhorse, Magic Wand; 310 points
+5. Book of Changes, Gem of Order, Water Elemental, Candle, Sword of Keth, Queen, Bell Tower; 310 points
+6. Mirage, Book of Changes, Gem of Order, Fountain of Life, Water Elemental, Candle, Warhorse; 304 points
+7. Mirage, Book of Changes, Gem of Order, Fountain of Life, Water Elemental, Candle, Warhorse; 302 points
+8. Book of Changes, Gem of Order, Water Elemental, Candle, Cavern, Forest, Bell Tower; 300 points
+9. Book of Changes, Gem of Order, Water Elemental, Candle, Queen, Forest, Bell Tower; 300 points
+10. Book of Changes, Gem of Order, Water Elemental, Candle, Sword of Keth, Cavern, Bell Tower; 300 points
+
+Best combinations with Island:
+1. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Great Flood; 286 points
+2. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 276 points
+3. Shield of Keth, Gem of Order, Island, Forge, Warhorse, Sword of Keth, King; 274 points
+4. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood, Lightning; 274 points
+5. Mirage, Book of Changes, Gem of Order, Fountain of Life, Water Elemental, Island, Candle; 273 points
+6. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 272 points
+7. Doppelgänger, Book of Changes, Island, Candle, Fire Elemental, Wildfire, Bell Tower; 271 points
+8. Doppelgänger, Rainstorm, Whirlwind, Water Elemental, Island, Swamp, Great Flood; 271 points
+9. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Great Flood, Lightning; 270 points
+10. Mirage, Book of Changes, Gem of Order, Water Elemental, Island, Candle, Magic Wand; 269 points
+
+Best combinations with Swamp:
+1. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 290 points
+2. Mirage, Book of Changes, Gem of Order, Fountain of Life, Water Elemental, Swamp, Candle; 281 points
+3. Mirage, Book of Changes, Gem of Order, Fountain of Life, Water Elemental, Swamp, Candle; 278 points
+4. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 277 points
+5. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 276 points
+6. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 276 points
+7. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Lightning; 275 points
+8. Shield of Keth, Gem of Order, Swamp, Forge, Warhorse, Sword of Keth, King; 275 points
+9. Mirage, Book of Changes, Gem of Order, Water Elemental, Swamp, Candle, Magic Wand; 273 points
+10. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 273 points
+
+Best combinations with Great Flood:
+1. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 290 points
+2. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Lightning; 288 points
+3. Book of Changes, Smoke, Great Flood, Candle, Wildfire, Bell Tower, Mountain; 286 points
+4. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Great Flood; 286 points
+5. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Basilisk; 282 points
+6. Doppelgänger, Enchantress, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 282 points
+7. Doppelgänger, Air Elemental, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 281 points
+8. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 277 points
+9. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 276 points
+10. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 276 points
+
+Best combinations with Candle:
+1. Book of Changes, Shield of Keth, Gem of Order, Candle, Sword of Keth, Queen, Bell Tower; 380 points
+2. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 356 points
+3. Book of Changes, Gem of Order, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 345 points
+4. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 344 points
+5. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 341 points
+6. Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Forest, Bell Tower; 341 points
+7. Book of Changes, Gem of Order, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 330 points
+8. Book of Changes, Gem of Order, Candle, Queen, Earth Elemental, Forest, Bell Tower; 330 points
+9. Book of Changes, Gem of Order, Candle, Sword of Keth, Earth Elemental, Cavern, Bell Tower; 330 points
+10. Book of Changes, Gem of Order, Candle, Warhorse, Sword of Keth, Earth Elemental, Bell Tower; 329 points
+
+Best combinations with Fire Elemental:
+1. Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Forest, Bell Tower; 341 points
+2. Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Sword of Keth, Bell Tower; 329 points
+3. Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Forest, Bell Tower; 329 points
+4. Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Forest, Bell Tower; 326 points
+5. Mirage, Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Magic Wand; 325 points
+6. Book of Changes, Gem of Order, Candle, Fire Elemental, Sword of Keth, Queen, Bell Tower; 325 points
+7. Book of Changes, Gem of Order, Candle, Fire Elemental, Sword of Keth, Queen, Bell Tower; 315 points
+8. Book of Changes, Gem of Order, Candle, Fire Elemental, Queen, Forest, Bell Tower; 315 points
+9. Book of Changes, Gem of Order, Candle, Fire Elemental, Cavern, Forest, Bell Tower; 315 points
+10. Book of Changes, Gem of Order, Candle, Fire Elemental, Sword of Keth, Cavern, Bell Tower; 315 points
+
+Best combinations with Forge:
+1. Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King, Elven Archers; 351 points
+2. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King; 348 points
+3. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King; 339 points
+4. Book of Changes, Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King; 331 points
+5. Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King, Elven Archers; 330 points
+6. Book of Changes, Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King; 327 points
+7. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, Bell Tower; 323 points
+8. Book of Changes, Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King; 322 points
+9. Shield of Keth, Gem of Order, Forge, Warhorse, Elven Longbow, Sword of Keth, King; 322 points
+10. Book of Changes, Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, Bell Tower; 322 points
+
+Best combinations with Lightning:
+1. Gem of Order, Lightning, Unicorn, Queen, King, Forest, Elven Archers; 290 points
+2. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Lightning; 288 points
+3. Gem of Order, Beastmaster, Rainstorm, Lightning, Warhorse, Forest, Elven Archers; 283 points
+4. Doppelgänger, Book of Changes, Candle, Fire Elemental, Lightning, Wildfire, Bell Tower; 283 points
+5. Mirage, Book of Changes, Gem of Order, Candle, Fire Elemental, Lightning, Magic Wand; 281 points
+6. Gem of Order, Rainstorm, Lightning, Unicorn, Queen, Forest, Elven Archers; 280 points
+7. Gem of Order, Forge, Lightning, Sword of Keth, Queen, King, Elven Archers; 279 points
+8. Gem of Order, Lightning, Unicorn, Sword of Keth, Queen, King, Elven Archers; 276 points
+9. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Lightning; 275 points
+10. Shield of Keth, Gem of Order, Rainstorm, Lightning, Unicorn, Sword of Keth, Queen; 275 points
+
+Best combinations with Wildfire:
+1. Mirage, Book of Changes, Gem of Order, Candle, Fire Elemental, Wildfire, Magic Wand; 310 points
+2. Doppelgänger, Book of Changes, Enchantress, Candle, Fire Elemental, Wildfire, Bell Tower; 302 points
+3. Doppelgänger, Book of Changes, Warlock Lord, Candle, Fire Elemental, Wildfire, Bell Tower; 297 points
+4. Doppelgänger, Book of Changes, Smoke, Candle, Wildfire, Bell Tower, Mountain; 294 points
+5. Book of Changes, Gem of Order, Candle, Fire Elemental, Wildfire, Magic Wand, Bell Tower; 293 points
+6. Doppelgänger, Book of Changes, Gem of Order, Candle, Fire Elemental, Wildfire, Bell Tower; 292 points
+7. Doppelgänger, Book of Changes, Candle, Fire Elemental, Forge, Wildfire, Bell Tower; 290 points
+8. Book of Changes, Smoke, Candle, Fire Elemental, Wildfire, Bell Tower, Mountain; 288 points
+9. Doppelgänger, Book of Changes, Enchantress, Candle, Fire Elemental, Wildfire, Bell Tower; 287 points
+10. Doppelgänger, Book of Changes, Candle, Fire Elemental, Wildfire, Dragon, Bell Tower; 287 points
+
+Best combinations with Warhorse:
+1. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 356 points
+2. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 344 points
+3. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 341 points
+4. Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Forest, Bell Tower; 341 points
+5. Book of Changes, Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King; 331 points
+6. Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King, Elven Archers; 330 points
+7. Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Sword of Keth, Bell Tower; 329 points
+8. Book of Changes, Gem of Order, Candle, Warhorse, Sword of Keth, Earth Elemental, Bell Tower; 329 points
+9. Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Forest, Bell Tower; 329 points
+10. Book of Changes, Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King; 327 points
+
+Best combinations with Unicorn:
+1. Shield of Keth, Gem of Order, Unicorn, Sword of Keth, Queen, King, Elven Archers; 339 points
+2. Book of Changes, Shield of Keth, Gem of Order, Unicorn, Sword of Keth, Queen, King; 327 points
+3. Shield of Keth, Gem of Order, Unicorn, Sword of Keth, Queen, Bell Tower, Elven Archers; 304 points
+4. Shield of Keth, Gem of Order, Warhorse, Unicorn, Sword of Keth, King, Elven Archers; 303 points
+5. Book of Changes, Shield of Keth, Gem of Order, Unicorn, Sword of Keth, Queen, Bell Tower; 302 points
+6. Shield of Keth, Gem of Order, Rainstorm, Unicorn, Sword of Keth, Queen, Elven Archers; 299 points
+7. Gem of Order, Unicorn, Queen, King, Earth Elemental, Forest, Elven Archers; 298 points
+8. Shield of Keth, Gem of Order, Unicorn, Queen, King, Forest, Elven Archers; 298 points
+9. Book of Changes, Shield of Keth, Gem of Order, Rainstorm, Unicorn, Sword of Keth, Queen; 297 points
+10. Shield of Keth, Gem of Order, Unicorn, Sword of Keth, Queen, King, Knights; 294 points
+
+Best combinations with Hydra:
+1. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 277 points
+2. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 273 points
+3. Doppelgänger, Rainstorm, Whirlwind, Water Elemental, Swamp, Great Flood, Hydra; 272 points
+4. Shield of Keth, Gem of Order, Forge, Warhorse, Hydra, Sword of Keth, King; 272 points
+5. Mirage, Book of Changes, Gem of Order, Candle, Fire Elemental, Hydra, Magic Wand; 267 points
+6. Mirage, Book of Changes, Gem of Order, Candle, Hydra, Magic Wand, Earth Elemental; 267 points
+7. Book of Changes, Shield of Keth, Gem of Order, Hydra, Sword of Keth, Queen, King; 265 points
+8. Doppelgänger, Hydra, Warlord, Queen, King, Light Cavalry, Knights; 264 points
+9. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 263 points
+10. Shield of Keth, Gem of Order, Beastmaster, Warhorse, Hydra, Sword of Keth, King; 263 points
+
+Best combinations with Dragon:
+1. Book of Changes, Gem of Order, Candle, Dragon, Earth Elemental, Cavern, Bell Tower; 288 points
+2. Doppelgänger, Book of Changes, Candle, Fire Elemental, Wildfire, Dragon, Bell Tower; 287 points
+3. Mirage, Book of Changes, Gem of Order, Candle, Dragon, Magic Wand, Earth Elemental; 285 points
+4. Mirage, Book of Changes, Gem of Order, Candle, Fire Elemental, Dragon, Magic Wand; 285 points
+5. Book of Changes, Smoke, Candle, Wildfire, Dragon, Bell Tower, Mountain; 284 points
+6. Shield of Keth, Gem of Order, Beastmaster, Dragon, Sword of Keth, King, Cavern; 283 points
+7. Shield of Keth, Gem of Order, Beastmaster, Warhorse, Dragon, Sword of Keth, King; 281 points
+8. Gem of Order, Beastmaster, Dragon, Earth Elemental, Cavern, Forest, Bell Tower; 275 points
+9. Book of Changes, Gem of Order, Candle, Dragon, Earth Elemental, Cavern, Bell Tower; 273 points
+10. Shield of Keth, Gem of Order, Beastmaster, Dragon, Sword of Keth, Queen, Bell Tower; 273 points
+
+Best combinations with Basilisk:
+1. Mirage, Book of Changes, Gem of Order, Candle, Fire Elemental, Basilisk, Magic Wand; 290 points
+2. Mirage, Book of Changes, Gem of Order, Candle, Basilisk, Magic Wand, Earth Elemental; 290 points
+3. Shield of Keth, Gem of Order, Beastmaster, Warhorse, Basilisk, Sword of Keth, King; 286 points
+4. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Basilisk; 282 points
+5. Shield of Keth, Gem of Order, Beastmaster, Basilisk, Sword of Keth, Queen, Bell Tower; 278 points
+6. Doppelgänger, Book of Changes, Beastmaster, Candle, Basilisk, Forest, Bell Tower; 277 points
+7. Mirage, Book of Changes, Shield of Keth, Gem of Order, Candle, Basilisk, Magic Wand; 275 points
+8. Mirage, Book of Changes, Gem of Order, Candle, Basilisk, Magic Wand, Warlord; 275 points
+9. Gem of Order, Beastmaster, Warhorse, Basilisk, Earth Elemental, Forest, Bell Tower; 275 points
+10. Mirage, Book of Changes, Gem of Order, Air Elemental, Candle, Basilisk, Magic Wand; 275 points
+
+Best combinations with Magic Wand:
+1. Mirage, Book of Changes, Gem of Order, Candle, Magic Wand, Earth Elemental, Cavern; 326 points
+2. Mirage, Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Magic Wand; 325 points
+3. Mirage, Book of Changes, Gem of Order, Candle, Warhorse, Magic Wand, Earth Elemental; 325 points
+4. Mirage, Book of Changes, Shield of Keth, Gem of Order, Candle, Magic Wand, Queen; 311 points
+5. Mirage, Book of Changes, Gem of Order, Candle, Fire Elemental, Magic Wand, Queen; 311 points
+6. Mirage, Book of Changes, Gem of Order, Candle, Magic Wand, Earth Elemental, Cavern; 311 points
+7. Mirage, Book of Changes, Gem of Order, Candle, Fire Elemental, Magic Wand, Cavern; 311 points
+8. Mirage, Book of Changes, Gem of Order, Candle, Magic Wand, Queen, Earth Elemental; 311 points
+9. Mirage, Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Magic Wand; 310 points
+10. Mirage, Book of Changes, Gem of Order, Candle, Warhorse, Magic Wand, Earth Elemental; 310 points
+
+Best combinations with Elven Longbow:
+1. Shield of Keth, Gem of Order, Beastmaster, Warhorse, Elven Longbow, Sword of Keth, King; 325 points
+2. Shield of Keth, Gem of Order, Forge, Warhorse, Elven Longbow, Sword of Keth, King; 322 points
+3. Shield of Keth, Gem of Order, Beastmaster, Elven Longbow, Sword of Keth, Queen, Bell Tower; 317 points
+4. Shield of Keth, Gem of Order, Forge, Elven Longbow, Sword of Keth, Queen, King; 308 points
+5. Shield of Keth, Gem of Order, Forge, Elven Longbow, Sword of Keth, King, Cavern; 308 points
+6. Shield of Keth, Gem of Order, Forge, Elven Longbow, Sword of Keth, Queen, Bell Tower; 308 points
+7. Shield of Keth, Gem of Order, Beastmaster, Rainstorm, Elven Longbow, Sword of Keth, Queen; 302 points
+8. Shield of Keth, Gem of Order, Beastmaster, Elven Longbow, Sword of Keth, Queen, King; 302 points
+9. Shield of Keth, Gem of Order, Beastmaster, Elven Longbow, Sword of Keth, King, Cavern; 302 points
+10. Gem of Order, Beastmaster, Warhorse, Elven Longbow, Earth Elemental, Forest, Bell Tower; 302 points
+
+Best combinations with Sword of Keth:
+1. Book of Changes, Shield of Keth, Gem of Order, Candle, Sword of Keth, Queen, Bell Tower; 380 points
+2. Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King, Elven Archers; 351 points
+3. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King; 348 points
+4. Shield of Keth, Gem of Order, Unicorn, Sword of Keth, Queen, King, Elven Archers; 339 points
+5. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King; 339 points
+6. Book of Changes, Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King; 331 points
+7. Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King, Elven Archers; 330 points
+8. Book of Changes, Gem of Order, Candle, Sword of Keth, Earth Elemental, Cavern, Bell Tower; 330 points
+9. Book of Changes, Gem of Order, Candle, Warhorse, Sword of Keth, Earth Elemental, Bell Tower; 329 points
+10. Book of Changes, Shield of Keth, Gem of Order, Sword of Keth, Princess, Queen, King; 329 points
+
+Best combinations with Warship:
+1. Mirage, Book of Changes, Gem of Order, Fountain of Life, Water Elemental, Candle, Warship; 276 points
+2. Mirage, Book of Changes, Gem of Order, Fountain of Life, Candle, Fire Elemental, Warship; 276 points
+3. Mirage, Book of Changes, Gem of Order, Fountain of Life, Candle, Warship, Earth Elemental; 276 points
+4. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Warship; 270 points
+5. Mirage, Book of Changes, Gem of Order, Water Elemental, Candle, Magic Wand, Warship; 263 points
+6. Book of Changes, World Tree, Warlock Lord, Candle, Basilisk, Warship, Bell Tower; 263 points
+7. Book of Changes, World Tree, Fountain of Life, Candle, Basilisk, Warship, Bell Tower; 262 points
+8. Mirage, Book of Changes, Shield of Keth, Gem of Order, Fountain of Life, Candle, Warship; 261 points
+9. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Warship; 261 points
+10. Mirage, Book of Changes, Gem of Order, Fountain of Life, Water Elemental, Candle, Warship; 261 points
+
+Best combinations with War Dirigible:
+1. Doppelgänger, Book of Changes, War Dirigible, Warlord, Queen, King, Knights; 291 points
+2. Book of Changes, Shield of Keth, Gem of Order, Sword of Keth, War Dirigible, Queen, King; 288 points
+3. Doppelgänger, War Dirigible, Warlord, Queen, King, Light Cavalry, Knights; 287 points
+4. Book of Changes, War Dirigible, Warlord, Queen, King, Light Cavalry, Knights; 285 points
+5. Doppelgänger, War Dirigible, Queen, King, Elven Archers, Light Cavalry, Knights; 281 points
+6. Doppelgänger, War Dirigible, Warlord, Queen, King, Light Cavalry, Knights; 281 points
+7. Doppelgänger, War Dirigible, Warlord, Queen, King, Dwarvish Infantry, Knights; 279 points
+8. Doppelgänger, Book of Changes, War Dirigible, Warlord, Queen, King, Light Cavalry; 279 points
+9. Doppelgänger, War Dirigible, Warlord, Queen, King, Elven Archers, Knights; 278 points
+10. Doppelgänger, War Dirigible, Queen, King, Elven Archers, Light Cavalry, Knights; 278 points
+
+Best combinations with Princess:
+1. Book of Changes, Shield of Keth, Gem of Order, Sword of Keth, Princess, Queen, King; 329 points
+2. Book of Changes, Shield of Keth, Gem of Order, Sword of Keth, Princess, Queen, King; 321 points
+3. Book of Changes, Shield of Keth, Gem of Order, Warhorse, Magic Wand, Sword of Keth, Princess; 305 points
+4. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+5. Book of Changes, Shield of Keth, Gem of Order, Warhorse, Sword of Keth, Princess, Bell Tower; 302 points
+6. Book of Changes, Shield of Keth, Gem of Order, Warhorse, Sword of Keth, Princess, King; 300 points
+7. Book of Changes, Shield of Keth, Gem of Order, Magic Wand, Sword of Keth, Princess, Queen; 299 points
+8. Doppelgänger, Princess, Queen, King, Elven Archers, Light Cavalry, Knights; 296 points
+9. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 296 points
+10. Book of Changes, Shield of Keth, Gem of Order, Sword of Keth, Princess, Queen, Bell Tower; 296 points
+
+Best combinations with Warlord:
+1. Book of Changes, Gem of Order, Candle, Warhorse, Warlord, Forest, Bell Tower; 326 points
+2. Book of Changes, Gem of Order, Candle, Warhorse, Sword of Keth, Warlord, Bell Tower; 324 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+4. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+5. Book of Changes, Gem of Order, Candle, Warhorse, Warlord, Forest, Bell Tower; 314 points
+6. Book of Changes, Gem of Order, Candle, Warhorse, Sword of Keth, Warlord, Bell Tower; 314 points
+7. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+8. Book of Changes, Gem of Order, Candle, Sword of Keth, Warlord, Cavern, Bell Tower; 310 points
+9. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+10. Mirage, Book of Changes, Gem of Order, Candle, Warhorse, Magic Wand, Warlord; 310 points
+
+Best combinations with Queen:
+1. Book of Changes, Shield of Keth, Gem of Order, Candle, Sword of Keth, Queen, Bell Tower; 380 points
+2. Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King, Elven Archers; 351 points
+3. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King; 348 points
+4. Shield of Keth, Gem of Order, Unicorn, Sword of Keth, Queen, King, Elven Archers; 339 points
+5. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King; 339 points
+6. Book of Changes, Gem of Order, Candle, Queen, Earth Elemental, Forest, Bell Tower; 330 points
+7. Book of Changes, Shield of Keth, Gem of Order, Sword of Keth, Princess, Queen, King; 329 points
+8. Book of Changes, Shield of Keth, Gem of Order, Unicorn, Sword of Keth, Queen, King; 327 points
+9. Book of Changes, Gem of Order, Candle, Fire Elemental, Sword of Keth, Queen, Bell Tower; 325 points
+10. Book of Changes, Gem of Order, Candle, Sword of Keth, Queen, Earth Elemental, Bell Tower; 325 points
+
+Best combinations with King:
+1. Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King, Elven Archers; 351 points
+2. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King; 348 points
+3. Shield of Keth, Gem of Order, Unicorn, Sword of Keth, Queen, King, Elven Archers; 339 points
+4. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King; 339 points
+5. Book of Changes, Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King; 331 points
+6. Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King, Elven Archers; 330 points
+7. Book of Changes, Shield of Keth, Gem of Order, Sword of Keth, Princess, Queen, King; 329 points
+8. Book of Changes, Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King; 327 points
+9. Book of Changes, Shield of Keth, Gem of Order, Unicorn, Sword of Keth, Queen, King; 327 points
+10. Shield of Keth, Gem of Order, Beastmaster, Warhorse, Elven Longbow, Sword of Keth, King; 325 points
+
+Best combinations with Empress:
+1. Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, Empress, Bell Tower; 275 points
+2. Shield of Keth, Gem of Order, Beastmaster, Warhorse, Sword of Keth, Empress, Bell Tower; 272 points
+3. Mirage, Book of Changes, Gem of Order, Candle, Fire Elemental, Magic Wand, Empress; 270 points
+4. Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King, Empress; 270 points
+5. Mirage, Book of Changes, Gem of Order, Candle, Magic Wand, Empress, Earth Elemental; 270 points
+6. Mirage, Book of Changes, Shield of Keth, Gem of Order, Candle, Magic Wand, Empress; 270 points
+7. Book of Changes, Shield of Keth, Candle, Forge, Sword of Keth, Empress, Bell Tower; 270 points
+8. Book of Changes, Shield of Keth, Gem of Order, Candle, Sword of Keth, Empress, Bell Tower; 269 points
+9. Book of Changes, Shield of Keth, Candle, Dragon, Sword of Keth, Empress, Bell Tower; 264 points
+10. Shield of Keth, Gem of Order, Rainstorm, Warhorse, Unicorn, Sword of Keth, Empress; 263 points
+
+Best combinations with Earth Elemental:
+1. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 356 points
+2. Book of Changes, Gem of Order, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 345 points
+3. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 344 points
+4. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 341 points
+5. Book of Changes, Gem of Order, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 330 points
+6. Book of Changes, Gem of Order, Candle, Queen, Earth Elemental, Forest, Bell Tower; 330 points
+7. Book of Changes, Gem of Order, Candle, Sword of Keth, Earth Elemental, Cavern, Bell Tower; 330 points
+8. Book of Changes, Gem of Order, Candle, Warhorse, Sword of Keth, Earth Elemental, Bell Tower; 329 points
+9. Mirage, Book of Changes, Gem of Order, Candle, Magic Wand, Earth Elemental, Cavern; 326 points
+10. Mirage, Book of Changes, Gem of Order, Candle, Warhorse, Magic Wand, Earth Elemental; 325 points
+
+Best combinations with Cavern:
+1. Book of Changes, Gem of Order, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 345 points
+2. Book of Changes, Gem of Order, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 330 points
+3. Book of Changes, Gem of Order, Candle, Sword of Keth, Earth Elemental, Cavern, Bell Tower; 330 points
+4. Mirage, Book of Changes, Gem of Order, Candle, Magic Wand, Earth Elemental, Cavern; 326 points
+5. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, King, Cavern; 317 points
+6. Shield of Keth, Gem of Order, Forge, Sword of Keth, King, Cavern, Elven Archers; 316 points
+7. Book of Changes, Gem of Order, Candle, Fire Elemental, Cavern, Forest, Bell Tower; 315 points
+8. Book of Changes, Gem of Order, Candle, Fire Elemental, Sword of Keth, Cavern, Bell Tower; 315 points
+9. Book of Changes, Gem of Order, Candle, Sword of Keth, Earth Elemental, Cavern, Bell Tower; 315 points
+10. Book of Changes, Shield of Keth, Gem of Order, Forge, Sword of Keth, King, Cavern; 313 points
+
+Best combinations with Forest:
+1. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 356 points
+2. Book of Changes, Gem of Order, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 345 points
+3. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 344 points
+4. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 341 points
+5. Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Forest, Bell Tower; 341 points
+6. Book of Changes, Gem of Order, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 330 points
+7. Book of Changes, Gem of Order, Candle, Queen, Earth Elemental, Forest, Bell Tower; 330 points
+8. Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Forest, Bell Tower; 329 points
+9. Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Forest, Bell Tower; 326 points
+10. Book of Changes, Gem of Order, Candle, Warhorse, Warlord, Forest, Bell Tower; 326 points
+
+Best combinations with Bell Tower:
+1. Book of Changes, Shield of Keth, Gem of Order, Candle, Sword of Keth, Queen, Bell Tower; 380 points
+2. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 356 points
+3. Book of Changes, Gem of Order, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 345 points
+4. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 344 points
+5. Book of Changes, Gem of Order, Candle, Warhorse, Earth Elemental, Forest, Bell Tower; 341 points
+6. Book of Changes, Gem of Order, Candle, Fire Elemental, Warhorse, Forest, Bell Tower; 341 points
+7. Book of Changes, Gem of Order, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 330 points
+8. Book of Changes, Gem of Order, Candle, Queen, Earth Elemental, Forest, Bell Tower; 330 points
+9. Book of Changes, Gem of Order, Candle, Sword of Keth, Earth Elemental, Cavern, Bell Tower; 330 points
+10. Book of Changes, Gem of Order, Candle, Warhorse, Sword of Keth, Earth Elemental, Bell Tower; 329 points
+
+Best combinations with Mountain:
+1. Shield of Keth, Gem of Order, Sword of Keth, Queen, King, Mountain, Elven Archers; 324 points
+2. Book of Changes, Shield of Keth, Gem of Order, Sword of Keth, Queen, King, Mountain; 312 points
+3. Shield of Keth, Gem of Order, Warhorse, Sword of Keth, King, Mountain, Elven Archers; 303 points
+4. Doppelgänger, Book of Changes, Smoke, Candle, Wildfire, Bell Tower, Mountain; 294 points
+5. Book of Changes, Shield of Keth, Gem of Order, Warhorse, Sword of Keth, King, Mountain; 291 points
+6. Shield of Keth, Gem of Order, Sword of Keth, Queen, Bell Tower, Mountain, Elven Archers; 289 points
+7. Shield of Keth, Gem of Order, Sword of Keth, King, Cavern, Mountain, Elven Archers; 289 points
+8. Book of Changes, Smoke, Candle, Fire Elemental, Wildfire, Bell Tower, Mountain; 288 points
+9. Book of Changes, Shield of Keth, Gem of Order, Sword of Keth, Queen, Bell Tower, Mountain; 287 points
+10. Book of Changes, Shield of Keth, Gem of Order, Warhorse, Sword of Keth, King, Mountain; 286 points
+
+Best combinations with Rangers:
+1. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+2. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 296 points
+3. Doppelgänger, Warlord, Queen, King, Rangers, Elven Archers, Knights; 293 points
+4. Doppelgänger, Warlord, Queen, King, Rangers, Dwarvish Infantry, Knights; 292 points
+5. Doppelgänger, Queen, King, Rangers, Elven Archers, Light Cavalry, Knights; 291 points
+6. Doppelgänger, Queen, King, Rangers, Elven Archers, Light Cavalry, Knights; 288 points
+7. Warlord, Queen, King, Rangers, Elven Archers, Light Cavalry, Knights; 287 points
+8. Warlord, Queen, King, Rangers, Dwarvish Infantry, Light Cavalry, Knights; 286 points
+9. Doppelgänger, Princess, Queen, King, Rangers, Light Cavalry, Knights; 286 points
+10. Gem of Order, Unicorn, Queen, King, Forest, Rangers, Elven Archers; 284 points
+
+Best combinations with Elven Archers:
+1. Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King, Elven Archers; 351 points
+2. Shield of Keth, Gem of Order, Unicorn, Sword of Keth, Queen, King, Elven Archers; 339 points
+3. Shield of Keth, Gem of Order, Forge, Warhorse, Sword of Keth, King, Elven Archers; 330 points
+4. Shield of Keth, Gem of Order, Sword of Keth, Queen, King, Mountain, Elven Archers; 324 points
+5. Shield of Keth, Gem of Order, Beastmaster, Sword of Keth, Queen, King, Elven Archers; 324 points
+6. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+7. Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, Bell Tower, Elven Archers; 316 points
+8. Shield of Keth, Gem of Order, Forge, Sword of Keth, King, Cavern, Elven Archers; 316 points
+9. Shield of Keth, Gem of Order, Beastmaster, Warhorse, Sword of Keth, King, Elven Archers; 312 points
+10. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+
+Best combinations with Dwarvish Infantry:
+1. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+4. Book of Changes, Shield of Keth, Gem of Order, Sword of Keth, Queen, King, Dwarvish Infantry; 306 points
+5. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points
+6. Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King, Dwarvish Infantry; 301 points
+7. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 300 points
+8. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry; 295 points
+9. Doppelgänger, Princess, Warlord, Queen, King, Dwarvish Infantry, Knights; 294 points
+10. Doppelgänger, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 293 points
+
+Best combinations with Light Cavalry:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+4. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+5. Book of Changes, Shield of Keth, Gem of Order, Sword of Keth, Queen, King, Light Cavalry; 310 points
+6. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 303 points
+7. Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King, Light Cavalry; 303 points
+8. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+9. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+10. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points
+
+Best combinations with Knights:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+3. Book of Changes, Shield of Keth, Gem of Order, Sword of Keth, Queen, King, Knights; 313 points
+4. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+5. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+6. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+7. Shield of Keth, Gem of Order, Forge, Sword of Keth, Queen, King, Knights; 306 points
+8. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 303 points
+9. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+10. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points

@@ -1,0 +1,648 @@
+Best combinations:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+4. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+5. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+6. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 303 points
+7. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+8. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+9. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+10. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 301 points
+
+Worst combinations:
+1. Doppelgänger, Gestaltwandler, Hexenmeister, Kriegsherr, Königin, König, Kaiserin; -57 points
+2. Doppelgänger, Gestaltwandler, Magierin, Hexenmeister, Kriegsherr, Königin, Kaiserin; -55 points
+3. Doppelgänger, Gestaltwandler, Magierin, Hexenmeister, Kriegsherr, König, Kaiserin; -53 points
+4. Doppelgänger, Gestaltwandler, Hexenmeister, Kriegsherr, Königin, König, Kaiserin; -52 points
+5. Doppelgänger, Gestaltwandler, Magierin, Hexenmeister, Königin, König, Kaiserin; -51 points
+6. Doppelgänger, Gestaltwandler, Herr der Bestien, Hexenmeister, Kriegsherr, Königin, Kaiserin; -51 points
+7. Doppelgänger, Gestaltwandler, Magierin, Hexenmeister, Kriegsherr, Königin, Kaiserin; -50 points
+8. Doppelgänger, Gestaltwandler, Herr der Bestien, Hexenmeister, Kriegsherr, König, Kaiserin; -49 points
+9. Doppelgänger, Gestaltwandler, Magierin, Hexenmeister, Kriegsherr, König, Kaiserin; -48 points
+10. Doppelgänger, Gestaltwandler, Magierin, Herr der Bestien, Hexenmeister, Kriegsherr, Kaiserin; -47 points
+
+
+Best combinations with Doppelgänger:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+4. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+5. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+6. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 303 points
+7. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+8. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+9. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 301 points
+10. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 300 points
+
+Best combinations with Spiegelung:
+1. Doppelgänger, Spiegelung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 292 points
+2. Doppelgänger, Spiegelung, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 286 points
+3. Doppelgänger, Spiegelung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 286 points
+4. Doppelgänger, Spiegelung, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 283 points
+5. Doppelgänger, Spiegelung, Kriegsherr, Königin, König, Elbenschützen, Ritter; 283 points
+6. Doppelgänger, Spiegelung, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 282 points
+7. Doppelgänger, Spiegelung, Prinzessin, Königin, König, Leichte Kavallerie, Ritter; 281 points
+8. Doppelgänger, Spiegelung, Prinzessin, Königin, König, Elbenschützen, Ritter; 279 points
+9. Doppelgänger, Spiegelung, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 278 points
+10. Doppelgänger, Spiegelung, Prinzessin, Königin, König, Leichte Kavallerie, Ritter; 278 points
+
+Best combinations with Gestaltwandler:
+1. Doppelgänger, Gestaltwandler, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 252 points
+2. Doppelgänger, Gestaltwandler, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 247 points
+3. Doppelgänger, Gestaltwandler, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 246 points
+4. Doppelgänger, Gestaltwandler, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 246 points
+5. Doppelgänger, Gestaltwandler, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 244 points
+6. Doppelgänger, Gestaltwandler, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 243 points
+7. Doppelgänger, Gestaltwandler, Kriegsherr, Königin, König, Elbenschützen, Ritter; 243 points
+8. Gestaltwandler, Weltenbaum, Rauch, Große Flut, Buschfeuer, Elbischer Bogen, Gebirge; 243 points
+9. Doppelgänger, Gestaltwandler, Prinzessin, Königin, König, Leichte Kavallerie, Ritter; 241 points
+10. Gestaltwandler, Weltenbaum, Rauch, Buschfeuer, Drache, Elbischer Bogen, Gebirge; 241 points
+
+Best combinations with Buch der Veränderung:
+1. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 303 points
+2. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 301 points
+3. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 299 points
+4. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 297 points
+5. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 295 points
+6. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Elbenschützen, Ritter; 294 points
+7. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 293 points
+8. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 293 points
+9. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Elbenschützen, Ritter; 292 points
+10. Doppelgänger, Buch der Veränderung, Kampfzeppelin, Kriegsherr, Königin, König, Ritter; 291 points
+
+Best combinations with Rune des Schutzes:
+1. Doppelgänger, Rune des Schutzes, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 253 points
+2. Doppelgänger, Rune des Schutzes, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 249 points
+3. Doppelgänger, Rune des Schutzes, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 248 points
+4. Doppelgänger, Rune des Schutzes, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 247 points
+5. Doppelgänger, Rune des Schutzes, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 247 points
+6. Doppelgänger, Rune des Schutzes, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 247 points
+7. Doppelgänger, Rune des Schutzes, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 245 points
+8. Doppelgänger, Rune des Schutzes, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 244 points
+9. Doppelgänger, Rune des Schutzes, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 244 points
+10. Doppelgänger, Rune des Schutzes, Kriegsherr, Königin, König, Elbenschützen, Ritter; 244 points
+
+Best combinations with Weltenbaum:
+1. Weltenbaum, Magierin, Rauch, Große Flut, Buschfeuer, Drache, Gebirge; 265 points
+2. Weltenbaum, Hexenmeister, Rauch, Große Flut, Buschfeuer, Drache, Gebirge; 265 points
+3. Weltenbaum, Hexenmeister, Rauch, Große Flut, Buschfeuer, Zauberstab, Gebirge; 261 points
+4. Weltenbaum, Magierin, Rauch, Große Flut, Buschfeuer, Zauberstab, Gebirge; 261 points
+5. Weltenbaum, Herr der Bestien, Rauch, Buschfeuer, Drache, Elbischer Bogen, Gebirge; 259 points
+6. Weltenbaum, Hexenmeister, Rauch, Buschfeuer, Drache, Zauberstab, Gebirge; 259 points
+7. Weltenbaum, Magierin, Rauch, Große Flut, Buschfeuer, Einhorn, Gebirge; 259 points
+8. Weltenbaum, Magierin, Rauch, Große Flut, Buschfeuer, Kriegsschiff, Gebirge; 258 points
+9. Weltenbaum, Hexenmeister, Rauch, Große Flut, Buschfeuer, Kriegsschiff, Gebirge; 258 points
+10. Weltenbaum, Herr der Bestien, Rauch, Große Flut, Buschfeuer, Drache, Gebirge; 258 points
+
+Best combinations with Schild von Keth:
+1. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Leichte Kavallerie, Ritter; 282 points
+2. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Elbenschützen, Ritter; 280 points
+3. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Leichte Kavallerie, Ritter; 279 points
+4. Schild von Keth, Schwert von Keth, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 277 points
+5. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Zwergeninfanterie, Ritter; 276 points
+6. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Elbenschützen, Leichte Kavallerie; 274 points
+7. Schild von Keth, Schwert von Keth, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 273 points
+8. Schild von Keth, Schwert von Keth, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 271 points
+9. Doppelgänger, Schild von Keth, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 271 points
+10. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Zwergeninfanterie, Leichte Kavallerie; 270 points
+
+Best combinations with Juwel der Ordnung:
+1. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+2. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+3. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+4. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+5. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+6. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+7. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+8. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+9. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+10. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+
+Best combinations with Magierin:
+1. Doppelgänger, Magierin, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 282 points
+2. Doppelgänger, Magierin, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 272 points
+3. Doppelgänger, Magierin, Regensturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz; 270 points
+4. Doppelgänger, Magierin, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 268 points
+5. Magierin, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 268 points
+6. Doppelgänger, Magierin, Regensturm, Wirbelsturm, Wasserwesen, Sumpf, Große Flut; 267 points
+7. Doppelgänger, Magierin, Rauch, Große Flut, Feuerwesen, Buschfeuer, Gebirge; 267 points
+8. Magierin, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz; 266 points
+9. Weltenbaum, Magierin, Rauch, Große Flut, Buschfeuer, Drache, Gebirge; 265 points
+10. Doppelgänger, Magierin, Regensturm, Wirbelsturm, Wasserwesen, Große Flut, Blitz; 265 points
+
+Best combinations with Sammler:
+1. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+2. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+3. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+4. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+5. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+6. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+7. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+8. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+9. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+10. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+
+Best combinations with Herr der Bestien:
+1. Doppelgänger, Herr der Bestien, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 261 points
+2. Weltenbaum, Herr der Bestien, Rauch, Buschfeuer, Drache, Elbischer Bogen, Gebirge; 259 points
+3. Weltenbaum, Herr der Bestien, Rauch, Große Flut, Buschfeuer, Drache, Gebirge; 258 points
+4. Doppelgänger, Herr der Bestien, Sumpf, Hydra, Drache, Basilisk, Wald; 258 points
+5. Doppelgänger, Herr der Bestien, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 256 points
+6. Doppelgänger, Herr der Bestien, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 255 points
+7. Doppelgänger, Herr der Bestien, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 255 points
+8. Doppelgänger, Herr der Bestien, Schlachtross, Hydra, Drache, Basilisk, Wald; 253 points
+9. Doppelgänger, Herr der Bestien, Sumpf, Hydra, Drache, Basilisk, Wald; 253 points
+10. Doppelgänger, Herr der Bestien, Schlachtross, Drache, Basilisk, Elbischer Bogen, Wald; 253 points
+
+Best combinations with Hexenmeister:
+1. Doppelgänger, Hexenmeister, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 272 points
+2. Weltenbaum, Hexenmeister, Rauch, Große Flut, Buschfeuer, Drache, Gebirge; 265 points
+3. Doppelgänger, Hexenmeister, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 262 points
+4. Weltenbaum, Hexenmeister, Rauch, Große Flut, Buschfeuer, Zauberstab, Gebirge; 261 points
+5. Doppelgänger, Hexenmeister, Regensturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz; 260 points
+6. Weltenbaum, Hexenmeister, Rauch, Buschfeuer, Drache, Zauberstab, Gebirge; 259 points
+7. Weltenbaum, Hexenmeister, Rauch, Große Flut, Buschfeuer, Kriegsschiff, Gebirge; 258 points
+8. Doppelgänger, Hexenmeister, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 258 points
+9. Hexenmeister, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 258 points
+10. Doppelgänger, Hexenmeister, Regensturm, Wirbelsturm, Wasserwesen, Sumpf, Große Flut; 257 points
+
+Best combinations with Luftwesen:
+1. Doppelgänger, Luftwesen, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 281 points
+2. Spiegelung, Luftwesen, Wirbelsturm, Rauch, Blizzard, Buschfeuer, Gebirge; 268 points
+3. Luftwesen, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 267 points
+4. Doppelgänger, Luftwesen, Regensturm, Wirbelsturm, Wasserwesen, Sumpf, Große Flut; 266 points
+5. Luftwesen, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz; 265 points
+6. Doppelgänger, Luftwesen, Regensturm, Wirbelsturm, Wasserwesen, Große Flut, Blitz; 264 points
+7. Luftwesen, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 263 points
+8. Doppelgänger, Luftwesen, Regensturm, Wirbelsturm, Quelle des Lebens, Große Flut, Blitz; 263 points
+9. Luftwesen, Regensturm, Wirbelsturm, Rauch, Quelle des Lebens, Große Flut, Blitz; 263 points
+10. Doppelgänger, Luftwesen, Regensturm, Wirbelsturm, Rauch, Große Flut, Blitz; 262 points
+
+Best combinations with Regensturm:
+1. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 290 points
+2. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz; 288 points
+3. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 286 points
+4. Doppelgänger, Magierin, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 282 points
+5. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Basilisk; 282 points
+6. Doppelgänger, Luftwesen, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 281 points
+7. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 277 points
+8. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 276 points
+9. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 276 points
+10. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Blitz; 275 points
+
+Best combinations with Wirbelsturm:
+1. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 290 points
+2. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz; 288 points
+3. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 286 points
+4. Doppelgänger, Magierin, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 282 points
+5. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Basilisk; 282 points
+6. Doppelgänger, Luftwesen, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 281 points
+7. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 276 points
+8. Doppelgänger, Buch der Veränderung, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 275 points
+9. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 273 points
+10. Doppelgänger, Regensturm, Wirbelsturm, Wasserwesen, Sumpf, Große Flut, Hydra; 272 points
+
+Best combinations with Rauch:
+1. Spiegelung, Luftwesen, Wirbelsturm, Rauch, Blizzard, Buschfeuer, Gebirge; 268 points
+2. Doppelgänger, Magierin, Rauch, Große Flut, Feuerwesen, Buschfeuer, Gebirge; 267 points
+3. Weltenbaum, Hexenmeister, Rauch, Große Flut, Buschfeuer, Drache, Gebirge; 265 points
+4. Weltenbaum, Magierin, Rauch, Große Flut, Buschfeuer, Drache, Gebirge; 265 points
+5. Luftwesen, Regensturm, Wirbelsturm, Rauch, Quelle des Lebens, Große Flut, Blitz; 263 points
+6. Rauch, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Buschfeuer, Gebirge; 262 points
+7. Doppelgänger, Magierin, Luftwesen, Rauch, Blizzard, Buschfeuer, Gebirge; 262 points
+8. Doppelgänger, Regensturm, Rauch, Quelle des Lebens, Wasserwesen, Große Flut, Blitz; 262 points
+9. Doppelgänger, Luftwesen, Regensturm, Wirbelsturm, Rauch, Große Flut, Blitz; 262 points
+10. Weltenbaum, Magierin, Rauch, Große Flut, Buschfeuer, Zauberstab, Gebirge; 261 points
+
+Best combinations with Blizzard:
+1. Spiegelung, Luftwesen, Wirbelsturm, Rauch, Blizzard, Buschfeuer, Gebirge; 268 points
+2. Doppelgänger, Magierin, Luftwesen, Rauch, Blizzard, Buschfeuer, Gebirge; 262 points
+3. Doppelgänger, Magierin, Luftwesen, Rauch, Blizzard, Buschfeuer, Gebirge; 260 points
+4. Doppelgänger, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard, Blitz; 260 points
+5. Doppelgänger, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard, Blitz; 258 points
+6. Doppelgänger, Luftwesen, Wirbelsturm, Rauch, Blizzard, Buschfeuer, Gebirge; 255 points
+7. Doppelgänger, Magierin, Luftwesen, Rauch, Blizzard, Buschfeuer, Gebirge; 255 points
+8. Doppelgänger, Luftwesen, Wirbelsturm, Rauch, Blizzard, Buschfeuer, Gebirge; 253 points
+9. Magierin, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard, Blitz; 253 points
+10. Doppelgänger, Spiegelung, Luftwesen, Wirbelsturm, Rauch, Blizzard, Blitz; 252 points
+
+Best combinations with Quelle des Lebens:
+1. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 290 points
+2. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz; 288 points
+3. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 286 points
+4. Doppelgänger, Magierin, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 282 points
+5. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Basilisk; 282 points
+6. Doppelgänger, Luftwesen, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 281 points
+7. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 277 points
+8. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 276 points
+9. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 276 points
+10. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Blitz; 275 points
+
+Best combinations with Wasserwesen:
+1. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 290 points
+2. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz; 288 points
+3. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 286 points
+4. Doppelgänger, Magierin, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 282 points
+5. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Basilisk; 282 points
+6. Doppelgänger, Luftwesen, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 281 points
+7. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 277 points
+8. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 276 points
+9. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 276 points
+10. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Blitz; 275 points
+
+Best combinations with Insel:
+1. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 286 points
+2. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 276 points
+3. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Blitz; 274 points
+4. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 272 points
+5. Doppelgänger, Regensturm, Wirbelsturm, Wasserwesen, Insel, Sumpf, Große Flut; 271 points
+6. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Blitz; 270 points
+7. Doppelgänger, Regensturm, Wirbelsturm, Wasserwesen, Insel, Große Flut, Blitz; 269 points
+8. Doppelgänger, Magierin, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 268 points
+9. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 268 points
+10. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Basilisk; 268 points
+
+Best combinations with Sumpf:
+1. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 290 points
+2. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 277 points
+3. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 276 points
+4. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 276 points
+5. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Blitz; 275 points
+6. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 273 points
+7. Doppelgänger, Magierin, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 272 points
+8. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 272 points
+9. Doppelgänger, Regensturm, Wirbelsturm, Wasserwesen, Sumpf, Große Flut, Hydra; 272 points
+10. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Basilisk; 272 points
+
+Best combinations with Große Flut:
+1. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 290 points
+2. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz; 288 points
+3. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 286 points
+4. Doppelgänger, Magierin, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 282 points
+5. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Basilisk; 282 points
+6. Doppelgänger, Luftwesen, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut; 281 points
+7. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 277 points
+8. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 276 points
+9. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 276 points
+10. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Blitz; 275 points
+
+Best combinations with Kerze:
+1. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+2. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+3. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+4. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+5. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+6. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+7. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+8. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+9. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+10. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+
+Best combinations with Feuerwesen:
+1. Doppelgänger, Magierin, Rauch, Große Flut, Feuerwesen, Buschfeuer, Gebirge; 267 points
+2. Doppelgänger, Magierin, Rauch, Feuerwesen, Blitz, Buschfeuer, Gebirge; 261 points
+3. Doppelgänger, Magierin, Rauch, Feuerwesen, Buschfeuer, Drache, Gebirge; 260 points
+4. Doppelgänger, Magierin, Rauch, Feuerwesen, Schmiede, Buschfeuer, Gebirge; 259 points
+5. Doppelgänger, Buch der Veränderung, Rauch, Quelle des Lebens, Feuerwesen, Buschfeuer, Gebirge; 259 points
+6. Doppelgänger, Rauch, Große Flut, Feuerwesen, Blitz, Buschfeuer, Gebirge; 258 points
+7. Doppelgänger, Hexenmeister, Rauch, Große Flut, Feuerwesen, Buschfeuer, Gebirge; 257 points
+8. Doppelgänger, Spiegelung, Rauch, Feuerwesen, Blitz, Buschfeuer, Gebirge; 256 points
+9. Doppelgänger, Rauch, Große Flut, Feuerwesen, Schmiede, Buschfeuer, Gebirge; 256 points
+10. Doppelgänger, Feuerwesen, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 256 points
+
+Best combinations with Schmiede:
+1. Doppelgänger, Schmiede, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 261 points
+2. Doppelgänger, Magierin, Rauch, Feuerwesen, Schmiede, Buschfeuer, Gebirge; 259 points
+3. Buch der Veränderung, Schild von Keth, Rauch, Schmiede, Buschfeuer, Schwert von Keth, Gebirge; 256 points
+4. Doppelgänger, Rauch, Große Flut, Feuerwesen, Schmiede, Buschfeuer, Gebirge; 256 points
+5. Doppelgänger, Schmiede, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 255 points
+6. Doppelgänger, Schmiede, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 255 points
+7. Doppelgänger, Schmiede, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 253 points
+8. Doppelgänger, Schmiede, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 252 points
+9. Doppelgänger, Buch der Veränderung, Schmiede, Königin, König, Leichte Kavallerie, Ritter; 252 points
+10. Doppelgänger, Schmiede, Kriegsherr, Königin, König, Elbenschützen, Ritter; 252 points
+
+Best combinations with Blitz:
+1. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz; 288 points
+2. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Blitz; 275 points
+3. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Blitz; 274 points
+4. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Blitz; 271 points
+5. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz, Basilisk; 270 points
+6. Doppelgänger, Regensturm, Wirbelsturm, Wasserwesen, Sumpf, Große Flut, Blitz; 270 points
+7. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Blitz; 270 points
+8. Doppelgänger, Magierin, Regensturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz; 270 points
+9. Doppelgänger, Regensturm, Wirbelsturm, Wasserwesen, Insel, Große Flut, Blitz; 269 points
+10. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz; 269 points
+
+Best combinations with Buschfeuer:
+1. Spiegelung, Luftwesen, Wirbelsturm, Rauch, Blizzard, Buschfeuer, Gebirge; 268 points
+2. Doppelgänger, Magierin, Rauch, Große Flut, Feuerwesen, Buschfeuer, Gebirge; 267 points
+3. Weltenbaum, Hexenmeister, Rauch, Große Flut, Buschfeuer, Drache, Gebirge; 265 points
+4. Weltenbaum, Magierin, Rauch, Große Flut, Buschfeuer, Drache, Gebirge; 265 points
+5. Rauch, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Buschfeuer, Gebirge; 262 points
+6. Doppelgänger, Magierin, Luftwesen, Rauch, Blizzard, Buschfeuer, Gebirge; 262 points
+7. Weltenbaum, Hexenmeister, Rauch, Große Flut, Buschfeuer, Zauberstab, Gebirge; 261 points
+8. Weltenbaum, Magierin, Rauch, Große Flut, Buschfeuer, Zauberstab, Gebirge; 261 points
+9. Doppelgänger, Magierin, Rauch, Feuerwesen, Blitz, Buschfeuer, Gebirge; 261 points
+10. Doppelgänger, Buch der Veränderung, Schild von Keth, Rauch, Buschfeuer, Schwert von Keth, Gebirge; 260 points
+
+Best combinations with Schlachtross:
+1. Doppelgänger, Schlachtross, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 272 points
+2. Doppelgänger, Schlachtross, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 266 points
+3. Doppelgänger, Schlachtross, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 266 points
+4. Doppelgänger, Schlachtross, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 264 points
+5. Doppelgänger, Schlachtross, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 263 points
+6. Doppelgänger, Schlachtross, Kriegsherr, Königin, König, Elbenschützen, Ritter; 263 points
+7. Doppelgänger, Schlachtross, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 260 points
+8. Doppelgänger, Schlachtross, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 258 points
+9. Schlachtross, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 258 points
+10. Schlachtross, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 257 points
+
+Best combinations with Einhorn:
+1. Doppelgänger, Einhorn, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 276 points
+2. Doppelgänger, Einhorn, Prinzessin, Königin, König, Leichte Kavallerie, Ritter; 272 points
+3. Doppelgänger, Einhorn, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 270 points
+4. Doppelgänger, Einhorn, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 270 points
+5. Doppelgänger, Einhorn, Prinzessin, Königin, König, Elbenschützen, Ritter; 270 points
+6. Doppelgänger, Einhorn, Prinzessin, Königin, König, Leichte Kavallerie, Ritter; 269 points
+7. Doppelgänger, Einhorn, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 268 points
+8. Doppelgänger, Einhorn, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 267 points
+9. Einhorn, Prinzessin, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 267 points
+10. Doppelgänger, Einhorn, Kriegsherr, Königin, König, Elbenschützen, Ritter; 267 points
+
+Best combinations with Hydra:
+1. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 277 points
+2. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 273 points
+3. Doppelgänger, Regensturm, Wirbelsturm, Wasserwesen, Sumpf, Große Flut, Hydra; 272 points
+4. Doppelgänger, Hydra, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 264 points
+5. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 263 points
+6. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Hydra; 259 points
+7. Doppelgänger, Spiegelung, Regensturm, Quelle des Lebens, Wasserwesen, Große Flut, Hydra; 259 points
+8. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 259 points
+9. Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Hydra; 259 points
+10. Doppelgänger, Herr der Bestien, Sumpf, Hydra, Drache, Basilisk, Wald; 258 points
+
+Best combinations with Drache:
+1. Weltenbaum, Magierin, Rauch, Große Flut, Buschfeuer, Drache, Gebirge; 265 points
+2. Weltenbaum, Hexenmeister, Rauch, Große Flut, Buschfeuer, Drache, Gebirge; 265 points
+3. Doppelgänger, Magierin, Rauch, Feuerwesen, Buschfeuer, Drache, Gebirge; 260 points
+4. Weltenbaum, Herr der Bestien, Rauch, Buschfeuer, Drache, Elbischer Bogen, Gebirge; 259 points
+5. Weltenbaum, Hexenmeister, Rauch, Buschfeuer, Drache, Zauberstab, Gebirge; 259 points
+6. Weltenbaum, Herr der Bestien, Rauch, Große Flut, Buschfeuer, Drache, Gebirge; 258 points
+7. Doppelgänger, Magierin, Rauch, Große Flut, Buschfeuer, Drache, Gebirge; 258 points
+8. Doppelgänger, Herr der Bestien, Sumpf, Hydra, Drache, Basilisk, Wald; 258 points
+9. Doppelgänger, Hexenmeister, Rauch, Feuerwesen, Buschfeuer, Drache, Gebirge; 255 points
+10. Doppelgänger, Magierin, Regensturm, Quelle des Lebens, Wasserwesen, Große Flut, Drache; 254 points
+
+Best combinations with Basilisk:
+1. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Basilisk; 282 points
+2. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Basilisk; 272 points
+3. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz, Basilisk; 270 points
+4. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Basilisk; 268 points
+5. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Basilisk; 268 points
+6. Doppelgänger, Regensturm, Wirbelsturm, Wasserwesen, Sumpf, Große Flut, Basilisk; 267 points
+7. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz, Basilisk; 266 points
+8. Doppelgänger, Regensturm, Wirbelsturm, Wasserwesen, Große Flut, Blitz, Basilisk; 265 points
+9. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Basilisk; 264 points
+10. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Große Flut, Blitz, Basilisk; 264 points
+
+Best combinations with Zauberstab:
+1. Weltenbaum, Magierin, Rauch, Große Flut, Buschfeuer, Zauberstab, Gebirge; 261 points
+2. Weltenbaum, Hexenmeister, Rauch, Große Flut, Buschfeuer, Zauberstab, Gebirge; 261 points
+3. Weltenbaum, Hexenmeister, Rauch, Buschfeuer, Drache, Zauberstab, Gebirge; 259 points
+4. Doppelgänger, Magierin, Rauch, Feuerwesen, Buschfeuer, Zauberstab, Gebirge; 256 points
+5. Weltenbaum, Magierin, Rauch, Buschfeuer, Drache, Zauberstab, Gebirge; 254 points
+6. Doppelgänger, Magierin, Rauch, Große Flut, Buschfeuer, Zauberstab, Gebirge; 254 points
+7. Doppelgänger, Zauberstab, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 253 points
+8. Weltenbaum, Herr der Bestien, Rauch, Buschfeuer, Drache, Zauberstab, Gebirge; 252 points
+9. Doppelgänger, Hexenmeister, Rauch, Feuerwesen, Buschfeuer, Zauberstab, Gebirge; 251 points
+10. Doppelgänger, Magierin, Regensturm, Quelle des Lebens, Wasserwesen, Große Flut, Zauberstab; 250 points
+
+Best combinations with Elbischer Bogen:
+1. Doppelgänger, Elbischer Bogen, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 285 points
+2. Doppelgänger, Elbischer Bogen, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 279 points
+3. Doppelgänger, Elbischer Bogen, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 279 points
+4. Doppelgänger, Elbischer Bogen, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 277 points
+5. Doppelgänger, Elbischer Bogen, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 276 points
+6. Doppelgänger, Elbischer Bogen, Kriegsherr, Königin, König, Elbenschützen, Ritter; 276 points
+7. Doppelgänger, Elbischer Bogen, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 271 points
+8. Elbischer Bogen, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 271 points
+9. Elbischer Bogen, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 270 points
+10. Doppelgänger, Elbischer Bogen, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 269 points
+
+Best combinations with Schwert von Keth:
+1. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Leichte Kavallerie, Ritter; 282 points
+2. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Elbenschützen, Ritter; 280 points
+3. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Leichte Kavallerie, Ritter; 279 points
+4. Schild von Keth, Schwert von Keth, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 277 points
+5. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Zwergeninfanterie, Ritter; 276 points
+6. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Elbenschützen, Leichte Kavallerie; 274 points
+7. Schild von Keth, Schwert von Keth, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 273 points
+8. Schild von Keth, Schwert von Keth, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 271 points
+9. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Zwergeninfanterie, Leichte Kavallerie; 270 points
+10. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Waldläufer, Ritter; 270 points
+
+Best combinations with Kriegsschiff:
+1. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Kriegsschiff; 270 points
+2. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Kriegsschiff; 261 points
+3. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Kriegsschiff; 260 points
+4. Weltenbaum, Hexenmeister, Rauch, Große Flut, Buschfeuer, Kriegsschiff, Gebirge; 258 points
+5. Weltenbaum, Magierin, Rauch, Große Flut, Buschfeuer, Kriegsschiff, Gebirge; 258 points
+6. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz, Kriegsschiff; 258 points
+7. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Kriegsschiff; 256 points
+8. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Kriegsschiff; 256 points
+9. Doppelgänger, Rauch, Große Flut, Feuerwesen, Buschfeuer, Kriegsschiff, Gebirge; 255 points
+10. Doppelgänger, Regensturm, Wirbelsturm, Wasserwesen, Sumpf, Große Flut, Kriegsschiff; 255 points
+
+Best combinations with Kampfzeppelin:
+1. Doppelgänger, Buch der Veränderung, Kampfzeppelin, Kriegsherr, Königin, König, Ritter; 291 points
+2. Doppelgänger, Kampfzeppelin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 287 points
+3. Buch der Veränderung, Kampfzeppelin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 285 points
+4. Doppelgänger, Kampfzeppelin, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 281 points
+5. Doppelgänger, Kampfzeppelin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 281 points
+6. Doppelgänger, Kampfzeppelin, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 279 points
+7. Doppelgänger, Buch der Veränderung, Kampfzeppelin, Kriegsherr, Königin, König, Leichte Kavallerie; 279 points
+8. Doppelgänger, Kampfzeppelin, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 278 points
+9. Doppelgänger, Kampfzeppelin, Kriegsherr, Königin, König, Elbenschützen, Ritter; 278 points
+10. Buch der Veränderung, Kampfzeppelin, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 277 points
+
+Best combinations with Prinzessin:
+1. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+2. Doppelgänger, Prinzessin, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 296 points
+3. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 296 points
+4. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 294 points
+5. Doppelgänger, Prinzessin, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 293 points
+6. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Elbenschützen, Ritter; 293 points
+7. Doppelgänger, Prinzessin, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 290 points
+8. Doppelgänger, Prinzessin, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 288 points
+9. Prinzessin, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 288 points
+10. Prinzessin, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 287 points
+
+Best combinations with Kriegsherr:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+4. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+5. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+6. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 303 points
+7. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+8. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+9. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+10. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 301 points
+
+Best combinations with Königin:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+4. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+5. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+6. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 303 points
+7. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+8. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+9. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+10. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 301 points
+
+Best combinations with König:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+4. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+5. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+6. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 303 points
+7. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+8. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+9. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+10. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 301 points
+
+Best combinations with Kaiserin:
+1. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Kaiserin; 262 points
+2. Doppelgänger, Kriegsherr, Königin, König, Kaiserin, Leichte Kavallerie, Ritter; 252 points
+3. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Kaiserin; 252 points
+4. Schild von Keth, Regensturm, Wirbelsturm, Quelle des Lebens, Große Flut, Schwert von Keth, Kaiserin; 252 points
+5. Doppelgänger, Schild von Keth, Quelle des Lebens, Wasserwesen, Große Flut, Schwert von Keth, Kaiserin; 252 points
+6. Doppelgänger, Königin, König, Kaiserin, Elbenschützen, Leichte Kavallerie, Ritter; 251 points
+7. Doppelgänger, Schild von Keth, Regensturm, Wirbelsturm, Große Flut, Schwert von Keth, Kaiserin; 251 points
+8. Doppelgänger, Regensturm, Quelle des Lebens, Wasserwesen, Große Flut, Blitz, Kaiserin; 250 points
+9. Schild von Keth, Regensturm, Wirbelsturm, Große Flut, Blitz, Schwert von Keth, Kaiserin; 250 points
+10. Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Kaiserin; 248 points
+
+Best combinations with Erdwesen:
+1. Doppelgänger, Kriegsherr, Königin, König, Erdwesen, Leichte Kavallerie, Ritter; 254 points
+2. Doppelgänger, Königin, König, Erdwesen, Waldläufer, Leichte Kavallerie, Ritter; 248 points
+3. Doppelgänger, Königin, König, Erdwesen, Elbenschützen, Leichte Kavallerie, Ritter; 248 points
+4. Doppelgänger, Kriegsherr, Königin, König, Erdwesen, Zwergeninfanterie, Ritter; 248 points
+5. Doppelgänger, Königin, König, Erdwesen, Waldläufer, Elbenschützen, Ritter; 248 points
+6. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Erdwesen; 247 points
+7. Doppelgänger, Kriegsherr, Königin, König, Erdwesen, Elbenschützen, Ritter; 247 points
+8. Doppelgänger, Kriegsherr, Königin, König, Erdwesen, Leichte Kavallerie, Ritter; 246 points
+9. Doppelgänger, Herr der Bestien, Drache, Basilisk, Erdwesen, Höhle, Wald; 244 points
+10. Doppelgänger, Königin, König, Erdwesen, Waldläufer, Leichte Kavallerie, Ritter; 243 points
+
+Best combinations with Höhle:
+1. Doppelgänger, Kriegsherr, Königin, König, Höhle, Zwergeninfanterie, Ritter; 275 points
+2. Doppelgänger, Königin, König, Höhle, Waldläufer, Zwergeninfanterie, Ritter; 269 points
+3. Doppelgänger, Königin, König, Höhle, Zwergeninfanterie, Leichte Kavallerie, Ritter; 269 points
+4. Doppelgänger, Königin, König, Höhle, Elbenschützen, Zwergeninfanterie, Ritter; 269 points
+5. Kriegsherr, Königin, König, Höhle, Zwergeninfanterie, Leichte Kavallerie, Ritter; 267 points
+6. Königin, König, Höhle, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 264 points
+7. Königin, König, Höhle, Waldläufer, Zwergeninfanterie, Leichte Kavallerie, Ritter; 264 points
+8. Doppelgänger, Königin, König, Höhle, Zwergeninfanterie, Leichte Kavallerie, Ritter; 264 points
+9. Königin, König, Höhle, Waldläufer, Elbenschützen, Zwergeninfanterie, Ritter; 264 points
+10. Doppelgänger, Kriegsherr, Königin, König, Höhle, Zwergeninfanterie, Ritter; 261 points
+
+Best combinations with Wald:
+1. Doppelgänger, Königin, König, Wald, Waldläufer, Elbenschützen, Ritter; 265 points
+2. Doppelgänger, Königin, König, Wald, Elbenschützen, Leichte Kavallerie, Ritter; 265 points
+3. Doppelgänger, Königin, König, Wald, Elbenschützen, Leichte Kavallerie, Ritter; 263 points
+4. Doppelgänger, Königin, König, Wald, Waldläufer, Elbenschützen, Ritter; 263 points
+5. Doppelgänger, Spiegelung, Königin, König, Wald, Elbenschützen, Ritter; 262 points
+6. Doppelgänger, Kriegsherr, Königin, König, Wald, Elbenschützen, Ritter; 262 points
+7. Doppelgänger, Spiegelung, Königin, König, Wald, Elbenschützen, Ritter; 260 points
+8. Doppelgänger, Königin, König, Wald, Waldläufer, Elbenschützen, Leichte Kavallerie; 260 points
+9. Doppelgänger, Königin, König, Wald, Elbenschützen, Zwergeninfanterie, Ritter; 259 points
+10. Doppelgänger, Herr der Bestien, Sumpf, Hydra, Drache, Basilisk, Wald; 258 points
+
+Best combinations with Glockenturm:
+1. Doppelgänger, Kriegsherr, Königin, König, Glockenturm, Leichte Kavallerie, Ritter; 258 points
+2. Doppelgänger, Königin, König, Glockenturm, Waldläufer, Leichte Kavallerie, Ritter; 252 points
+3. Doppelgänger, Königin, König, Glockenturm, Elbenschützen, Leichte Kavallerie, Ritter; 252 points
+4. Doppelgänger, Kriegsherr, Königin, König, Glockenturm, Zwergeninfanterie, Ritter; 252 points
+5. Doppelgänger, Königin, König, Glockenturm, Waldläufer, Elbenschützen, Ritter; 252 points
+6. Doppelgänger, Kriegsherr, Königin, König, Glockenturm, Elbenschützen, Ritter; 251 points
+7. Doppelgänger, Kriegsherr, Königin, König, Glockenturm, Leichte Kavallerie, Ritter; 250 points
+8. Doppelgänger, Königin, König, Glockenturm, Elbenschützen, Leichte Kavallerie, Ritter; 247 points
+9. Königin, König, Glockenturm, Waldläufer, Elbenschützen, Leichte Kavallerie, Ritter; 247 points
+10. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Glockenturm; 247 points
+
+Best combinations with Gebirge:
+1. Spiegelung, Luftwesen, Wirbelsturm, Rauch, Blizzard, Buschfeuer, Gebirge; 268 points
+2. Doppelgänger, Magierin, Rauch, Große Flut, Feuerwesen, Buschfeuer, Gebirge; 267 points
+3. Weltenbaum, Hexenmeister, Rauch, Große Flut, Buschfeuer, Drache, Gebirge; 265 points
+4. Weltenbaum, Magierin, Rauch, Große Flut, Buschfeuer, Drache, Gebirge; 265 points
+5. Rauch, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Buschfeuer, Gebirge; 262 points
+6. Doppelgänger, Magierin, Luftwesen, Rauch, Blizzard, Buschfeuer, Gebirge; 262 points
+7. Weltenbaum, Hexenmeister, Rauch, Große Flut, Buschfeuer, Zauberstab, Gebirge; 261 points
+8. Weltenbaum, Magierin, Rauch, Große Flut, Buschfeuer, Zauberstab, Gebirge; 261 points
+9. Doppelgänger, Magierin, Rauch, Feuerwesen, Blitz, Buschfeuer, Gebirge; 261 points
+10. Doppelgänger, Buch der Veränderung, Schild von Keth, Rauch, Buschfeuer, Schwert von Keth, Gebirge; 260 points
+
+Best combinations with Waldläufer:
+1. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+2. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 296 points
+3. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Elbenschützen, Ritter; 293 points
+4. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Zwergeninfanterie, Ritter; 292 points
+5. Doppelgänger, Königin, König, Waldläufer, Elbenschützen, Leichte Kavallerie, Ritter; 291 points
+6. Doppelgänger, Königin, König, Waldläufer, Elbenschützen, Leichte Kavallerie, Ritter; 288 points
+7. Kriegsherr, Königin, König, Waldläufer, Elbenschützen, Leichte Kavallerie, Ritter; 287 points
+8. Doppelgänger, Prinzessin, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 286 points
+9. Kriegsherr, Königin, König, Waldläufer, Zwergeninfanterie, Leichte Kavallerie, Ritter; 286 points
+10. Doppelgänger, Prinzessin, Königin, König, Waldläufer, Elbenschützen, Ritter; 284 points
+
+Best combinations with Elbenschützen:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+4. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+5. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 297 points
+6. Doppelgänger, Prinzessin, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 296 points
+7. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie; 295 points
+8. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Elbenschützen, Ritter; 294 points
+9. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Elbenschützen, Ritter; 293 points
+10. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Elbenschützen, Ritter; 293 points
+
+Best combinations with Zwergeninfanterie:
+1. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+4. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+5. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 300 points
+6. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie; 295 points
+7. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 294 points
+8. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 293 points
+9. Doppelgänger, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 293 points
+10. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Zwergeninfanterie, Ritter; 292 points
+
+Best combinations with Leichte Kavallerie:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+4. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+5. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 303 points
+6. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+7. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+8. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+9. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 301 points
+10. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 300 points
+
+Best combinations with Ritter:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+4. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+5. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+6. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 303 points
+7. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+8. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+9. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+10. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 301 points

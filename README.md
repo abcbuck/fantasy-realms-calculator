@@ -59,7 +59,7 @@ If you run the program with all cards and multithreading, it takes a minute to g
 
 # Results
 
-For the full results, use the reader on the results_\*.data files or see the respective results_\*.txt files.
+For the full results, use the reader on the \*.data files calculated by the main program. For convenience, I have provided some results in binary and text format.
 
 ## A short examination
 The cards that consistently appear at the top of each card's best combinations list are the Gem of Order, the Candle and the Collector because of their great boni.

@@ -1,0 +1,648 @@
+Best combinations:
+1. Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire, Bell Tower; 357 points
+2. Book of Changes, Collector, Candle, Fire Elemental, Lightning, Wildfire, Bell Tower; 350 points
+3. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 339 points
+4. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire; 334 points
+5. Book of Changes, Collector, Candle, Fire Elemental, Forge, Lightning, Bell Tower; 328 points
+6. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Lightning, Wildfire; 327 points
+7. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 326 points
+8. Collector, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard, Lightning; 325 points
+9. Doppelgänger, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 319 points
+10. Mirage, Collector, Air Elemental, Whirlwind, Smoke, Blizzard, Lightning; 317 points
+
+Worst combinations:
+1. Doppelgänger, Shapeshifter, Warlock Lord, Warlord, Queen, King, Empress; -57 points
+2. Doppelgänger, Shapeshifter, Enchantress, Warlock Lord, Warlord, Queen, Empress; -55 points
+3. Doppelgänger, Shapeshifter, Enchantress, Warlock Lord, Warlord, King, Empress; -53 points
+4. Doppelgänger, Shapeshifter, Warlock Lord, Warlord, Queen, King, Empress; -52 points
+5. Doppelgänger, Shapeshifter, Enchantress, Warlock Lord, Queen, King, Empress; -51 points
+6. Doppelgänger, Shapeshifter, Beastmaster, Warlock Lord, Warlord, Queen, Empress; -51 points
+7. Doppelgänger, Shapeshifter, Enchantress, Warlock Lord, Warlord, Queen, Empress; -50 points
+8. Doppelgänger, Shapeshifter, Beastmaster, Warlock Lord, Warlord, King, Empress; -49 points
+9. Doppelgänger, Shapeshifter, Enchantress, Warlock Lord, Warlord, King, Empress; -48 points
+10. Doppelgänger, Shapeshifter, Enchantress, Beastmaster, Warlock Lord, Warlord, Empress; -47 points
+
+
+Best combinations with Doppelgänger:
+1. Doppelgänger, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 319 points
+2. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+3. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+4. Doppelgänger, Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 315 points
+5. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+6. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+7. Doppelgänger, Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 310 points
+8. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+9. Doppelgänger, Mirage, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 307 points
+10. Doppelgänger, Book of Changes, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood; 304 points
+
+Best combinations with Mirage:
+1. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 339 points
+2. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire; 334 points
+3. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Lightning, Wildfire; 327 points
+4. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Bell Tower; 317 points
+5. Mirage, Collector, Air Elemental, Whirlwind, Smoke, Blizzard, Lightning; 317 points
+6. Mirage, Collector, Air Elemental, Whirlwind, Smoke, Blizzard, Wildfire; 316 points
+7. Mirage, Collector, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood; 312 points
+8. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Lightning, Bell Tower; 310 points
+9. Mirage, Book of Changes, Collector, Candle, Earth Elemental, Bell Tower, Mountain; 308 points
+10. Mirage, Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood; 308 points
+
+Best combinations with Shapeshifter:
+1. Doppelgänger, Shapeshifter, Book of Changes, Candle, Fire Elemental, Wildfire, Bell Tower; 272 points
+2. Shapeshifter, Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 268 points
+3. Shapeshifter, Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 265 points
+4. Shapeshifter, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 264 points
+5. Mirage, Shapeshifter, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 262 points
+6. Doppelgänger, Shapeshifter, Beastmaster, Candle, Dragon, Basilisk, Bell Tower; 261 points
+7. Shapeshifter, Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 260 points
+8. Shapeshifter, Book of Changes, Shield of Keth, Candle, Unicorn, Sword of Keth, Bell Tower; 258 points
+9. Shapeshifter, Collector, Beastmaster, Warhorse, Hydra, Dragon, Basilisk; 258 points
+10. Doppelgänger, Shapeshifter, Book of Changes, Candle, Fire Elemental, Wildfire, Bell Tower; 257 points
+
+Best combinations with Book of Changes:
+1. Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire, Bell Tower; 357 points
+2. Book of Changes, Collector, Candle, Fire Elemental, Lightning, Wildfire, Bell Tower; 350 points
+3. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 339 points
+4. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire; 334 points
+5. Book of Changes, Collector, Candle, Fire Elemental, Forge, Lightning, Bell Tower; 328 points
+6. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Lightning, Wildfire; 327 points
+7. Doppelgänger, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 319 points
+8. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Bell Tower; 317 points
+9. Book of Changes, Collector, Candle, Earth Elemental, Forest, Bell Tower, Mountain; 315 points
+10. Book of Changes, Collector, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood; 315 points
+
+Best combinations with Protection Rune:
+1. Protection Rune, Collector, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard; 290 points
+2. Mirage, Protection Rune, Collector, Air Elemental, Whirlwind, Smoke, Blizzard; 282 points
+3. Protection Rune, Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 269 points
+4. Book of Changes, Protection Rune, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 266 points
+5. Book of Changes, Protection Rune, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 265 points
+6. Mirage, Protection Rune, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 263 points
+7. Mirage, Protection Rune, Collector, Air Elemental, Rainstorm, Whirlwind, Smoke; 260 points
+8. Mirage, Book of Changes, Protection Rune, Collector, Air Elemental, Whirlwind, Blizzard; 258 points
+9. Book of Changes, Protection Rune, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood; 258 points
+10. Doppelgänger, Book of Changes, Protection Rune, Candle, Fire Elemental, Wildfire, Bell Tower; 258 points
+
+Best combinations with World Tree:
+1. Book of Changes, World Tree, Warlock Lord, Fountain of Life, Candle, War Dirigible, Bell Tower; 276 points
+2. Book of Changes, World Tree, Enchantress, Fountain of Life, Candle, War Dirigible, Bell Tower; 271 points
+3. World Tree, Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 270 points
+4. Book of Changes, World Tree, Warlock Lord, Candle, Dragon, War Dirigible, Bell Tower; 270 points
+5. Book of Changes, World Tree, Smoke, Fountain of Life, Candle, Basilisk, Bell Tower; 270 points
+6. Book of Changes, World Tree, Beastmaster, Candle, Basilisk, War Dirigible, Bell Tower; 268 points
+7. Book of Changes, World Tree, Smoke, Candle, Basilisk, Magic Wand, Bell Tower; 268 points
+8. Book of Changes, World Tree, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 267 points
+9. Book of Changes, World Tree, Warlock Lord, Smoke, Candle, Basilisk, Bell Tower; 267 points
+10. Book of Changes, World Tree, Enchantress, Smoke, Candle, Basilisk, Bell Tower; 267 points
+
+Best combinations with Shield of Keth:
+1. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Light Cavalry, Knights; 282 points
+2. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Elven Archers, Knights; 280 points
+3. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Light Cavalry, Knights; 279 points
+4. Shield of Keth, Sword of Keth, Queen, King, Elven Archers, Light Cavalry, Knights; 277 points
+5. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Dwarvish Infantry, Knights; 276 points
+6. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Elven Archers, Light Cavalry; 274 points
+7. Shield of Keth, Sword of Keth, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 273 points
+8. Book of Changes, Shield of Keth, Beastmaster, Candle, Basilisk, Sword of Keth, Bell Tower; 272 points
+9. Shield of Keth, Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 272 points
+10. Shield of Keth, Sword of Keth, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 271 points
+
+Best combinations with Gem of Order:
+1. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+2. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+3. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+4. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+5. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+6. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+7. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+8. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+9. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+10. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+
+Best combinations with Enchantress:
+1. Doppelgänger, Book of Changes, Enchantress, Candle, Fire Elemental, Wildfire, Bell Tower; 302 points
+2. Enchantress, Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 298 points
+3. Book of Changes, Enchantress, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 295 points
+4. Mirage, Enchantress, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 292 points
+5. Book of Changes, Enchantress, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 289 points
+6. Mirage, Book of Changes, Enchantress, Collector, Air Elemental, Whirlwind, Blizzard; 287 points
+7. Book of Changes, Enchantress, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood; 287 points
+8. Doppelgänger, Book of Changes, Enchantress, Candle, Fire Elemental, Wildfire, Bell Tower; 287 points
+9. Book of Changes, Enchantress, Smoke, Candle, Wildfire, Bell Tower, Mountain; 284 points
+10. Mirage, Enchantress, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood; 284 points
+
+Best combinations with Collector:
+1. Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire, Bell Tower; 357 points
+2. Book of Changes, Collector, Candle, Fire Elemental, Lightning, Wildfire, Bell Tower; 350 points
+3. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 339 points
+4. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire; 334 points
+5. Book of Changes, Collector, Candle, Fire Elemental, Forge, Lightning, Bell Tower; 328 points
+6. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Lightning, Wildfire; 327 points
+7. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 326 points
+8. Collector, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard, Lightning; 325 points
+9. Doppelgänger, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 319 points
+10. Mirage, Collector, Air Elemental, Whirlwind, Smoke, Blizzard, Lightning; 317 points
+
+Best combinations with Beastmaster:
+1. Doppelgänger, Book of Changes, Beastmaster, Candle, Fire Elemental, Wildfire, Bell Tower; 281 points
+2. Doppelgänger, Book of Changes, Beastmaster, Candle, Basilisk, Forest, Bell Tower; 277 points
+3. Collector, Beastmaster, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 277 points
+4. Book of Changes, Collector, Beastmaster, Air Elemental, Rainstorm, Whirlwind, Blizzard; 274 points
+5. Doppelgänger, Book of Changes, Beastmaster, Candle, Wildfire, Basilisk, Bell Tower; 274 points
+6. Book of Changes, Collector, Beastmaster, Candle, Fire Elemental, Wildfire, Bell Tower; 273 points
+7. Doppelgänger, Book of Changes, Beastmaster, Candle, Dragon, Basilisk, Bell Tower; 273 points
+8. Book of Changes, Beastmaster, Smoke, Candle, Wildfire, Bell Tower, Mountain; 272 points
+9. Book of Changes, Beastmaster, Candle, Dragon, Basilisk, Forest, Bell Tower; 272 points
+10. Book of Changes, Shield of Keth, Beastmaster, Candle, Basilisk, Sword of Keth, Bell Tower; 272 points
+
+Best combinations with Warlock Lord:
+1. Doppelgänger, Book of Changes, Warlock Lord, Candle, Fire Elemental, Wildfire, Bell Tower; 297 points
+2. Book of Changes, Collector, Warlock Lord, Air Elemental, Rainstorm, Whirlwind, Blizzard; 290 points
+3. Collector, Warlock Lord, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 283 points
+4. Mirage, Book of Changes, Collector, Warlock Lord, Air Elemental, Whirlwind, Blizzard; 282 points
+5. Book of Changes, Collector, Warlock Lord, Fountain of Life, Water Elemental, Swamp, Great Flood; 282 points
+6. Doppelgänger, Book of Changes, Warlock Lord, Candle, Fire Elemental, Wildfire, Bell Tower; 282 points
+7. Book of Changes, Collector, Warlock Lord, Air Elemental, Rainstorm, Whirlwind, Blizzard; 280 points
+8. Book of Changes, Warlock Lord, Smoke, Candle, Wildfire, Bell Tower, Mountain; 279 points
+9. Book of Changes, Collector, Warlock Lord, Candle, Fire Elemental, Wildfire, Bell Tower; 279 points
+10. Book of Changes, Collector, Warlock Lord, Fountain of Life, Water Elemental, Island, Great Flood; 278 points
+
+Best combinations with Air Elemental:
+1. Collector, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard, Lightning; 325 points
+2. Mirage, Collector, Air Elemental, Whirlwind, Smoke, Blizzard, Lightning; 317 points
+3. Mirage, Collector, Air Elemental, Whirlwind, Smoke, Blizzard, Wildfire; 316 points
+4. Doppelgänger, Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 310 points
+5. Doppelgänger, Mirage, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 307 points
+6. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Lightning; 306 points
+7. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Wildfire; 305 points
+8. Doppelgänger, Mirage, Book of Changes, Collector, Air Elemental, Whirlwind, Blizzard; 302 points
+9. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Lightning; 301 points
+10. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Basilisk; 300 points
+
+Best combinations with Rainstorm:
+1. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 326 points
+2. Collector, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard, Lightning; 325 points
+3. Book of Changes, Collector, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood; 315 points
+4. Mirage, Collector, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood; 312 points
+5. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 312 points
+6. Book of Changes, Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood; 311 points
+7. Doppelgänger, Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 310 points
+8. Mirage, Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood; 308 points
+9. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 308 points
+10. Doppelgänger, Mirage, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 307 points
+
+Best combinations with Whirlwind:
+1. Collector, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard, Lightning; 325 points
+2. Mirage, Collector, Air Elemental, Whirlwind, Smoke, Blizzard, Lightning; 317 points
+3. Mirage, Collector, Air Elemental, Whirlwind, Smoke, Blizzard, Wildfire; 316 points
+4. Doppelgänger, Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 310 points
+5. Doppelgänger, Mirage, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 307 points
+6. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Lightning; 306 points
+7. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Wildfire; 305 points
+8. Doppelgänger, Mirage, Book of Changes, Collector, Air Elemental, Whirlwind, Blizzard; 302 points
+9. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Lightning; 301 points
+10. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Basilisk; 300 points
+
+Best combinations with Smoke:
+1. Collector, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard, Lightning; 325 points
+2. Mirage, Collector, Air Elemental, Whirlwind, Smoke, Blizzard, Lightning; 317 points
+3. Mirage, Collector, Air Elemental, Whirlwind, Smoke, Blizzard, Wildfire; 316 points
+4. Mirage, Collector, Air Elemental, Rainstorm, Whirlwind, Smoke, Lightning; 300 points
+5. Collector, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard, Cavern; 295 points
+6. Doppelgänger, Book of Changes, Smoke, Candle, Wildfire, Bell Tower, Mountain; 294 points
+7. Book of Changes, Collector, Smoke, Candle, Fire Elemental, Wildfire, Bell Tower; 291 points
+8. Protection Rune, Collector, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard; 290 points
+9. Collector, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard, Forge; 289 points
+10. Collector, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard, Wildfire; 289 points
+
+Best combinations with Blizzard:
+1. Collector, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard, Lightning; 325 points
+2. Mirage, Collector, Air Elemental, Whirlwind, Smoke, Blizzard, Lightning; 317 points
+3. Mirage, Collector, Air Elemental, Whirlwind, Smoke, Blizzard, Wildfire; 316 points
+4. Doppelgänger, Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 310 points
+5. Doppelgänger, Mirage, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard; 307 points
+6. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Lightning; 306 points
+7. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Wildfire; 305 points
+8. Doppelgänger, Mirage, Book of Changes, Collector, Air Elemental, Whirlwind, Blizzard; 302 points
+9. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Lightning; 301 points
+10. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Basilisk; 300 points
+
+Best combinations with Fountain of Life:
+1. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 326 points
+2. Doppelgänger, Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 315 points
+3. Book of Changes, Collector, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood; 315 points
+4. Mirage, Collector, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood; 312 points
+5. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 312 points
+6. Book of Changes, Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood; 311 points
+7. Mirage, Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood; 308 points
+8. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 308 points
+9. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Hydra; 308 points
+10. Doppelgänger, Book of Changes, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood; 304 points
+
+Best combinations with Water Elemental:
+1. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 326 points
+2. Doppelgänger, Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 315 points
+3. Book of Changes, Collector, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood; 315 points
+4. Mirage, Collector, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood; 312 points
+5. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 312 points
+6. Book of Changes, Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood; 311 points
+7. Mirage, Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood; 308 points
+8. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 308 points
+9. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Hydra; 308 points
+10. Doppelgänger, Book of Changes, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood; 304 points
+
+Best combinations with Island:
+1. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 326 points
+2. Doppelgänger, Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 315 points
+3. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 312 points
+4. Book of Changes, Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood; 311 points
+5. Mirage, Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood; 308 points
+6. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 308 points
+7. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Hydra; 308 points
+8. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Basilisk; 303 points
+9. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 302 points
+10. Book of Changes, Collector, Fountain of Life, Water Elemental, Island, Great Flood, Wildfire; 301 points
+
+Best combinations with Swamp:
+1. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 326 points
+2. Doppelgänger, Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 315 points
+3. Book of Changes, Collector, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood; 315 points
+4. Mirage, Collector, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood; 312 points
+5. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 312 points
+6. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 308 points
+7. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Hydra; 308 points
+8. Doppelgänger, Book of Changes, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood; 304 points
+9. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Basilisk; 303 points
+10. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 302 points
+
+Best combinations with Great Flood:
+1. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 326 points
+2. Doppelgänger, Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 315 points
+3. Book of Changes, Collector, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood; 315 points
+4. Mirage, Collector, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood; 312 points
+5. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 312 points
+6. Book of Changes, Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood; 311 points
+7. Mirage, Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood; 308 points
+8. Collector, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 308 points
+9. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Hydra; 308 points
+10. Doppelgänger, Book of Changes, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood; 304 points
+
+Best combinations with Candle:
+1. Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire, Bell Tower; 357 points
+2. Book of Changes, Collector, Candle, Fire Elemental, Lightning, Wildfire, Bell Tower; 350 points
+3. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 339 points
+4. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire; 334 points
+5. Book of Changes, Collector, Candle, Fire Elemental, Forge, Lightning, Bell Tower; 328 points
+6. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Lightning, Wildfire; 327 points
+7. Doppelgänger, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 319 points
+8. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Bell Tower; 317 points
+9. Book of Changes, Collector, Candle, Earth Elemental, Forest, Bell Tower, Mountain; 315 points
+10. Book of Changes, Collector, Candle, Earth Elemental, Cavern, Bell Tower, Mountain; 314 points
+
+Best combinations with Fire Elemental:
+1. Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire, Bell Tower; 357 points
+2. Book of Changes, Collector, Candle, Fire Elemental, Lightning, Wildfire, Bell Tower; 350 points
+3. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 339 points
+4. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire; 334 points
+5. Book of Changes, Collector, Candle, Fire Elemental, Forge, Lightning, Bell Tower; 328 points
+6. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Lightning, Wildfire; 327 points
+7. Doppelgänger, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 319 points
+8. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Bell Tower; 317 points
+9. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Lightning, Bell Tower; 310 points
+10. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Lightning; 305 points
+
+Best combinations with Forge:
+1. Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire, Bell Tower; 357 points
+2. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire; 334 points
+3. Book of Changes, Collector, Candle, Fire Elemental, Forge, Lightning, Bell Tower; 328 points
+4. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Bell Tower; 317 points
+5. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Lightning; 305 points
+6. Book of Changes, Collector, Candle, Forge, Lightning, Wildfire, Bell Tower; 304 points
+7. Doppelgänger, Book of Changes, Collector, Fire Elemental, Forge, Lightning, Wildfire; 298 points
+8. Mirage, Book of Changes, Collector, Candle, Forge, Wildfire, Bell Tower; 293 points
+9. Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire, Bell Tower; 291 points
+10. Doppelgänger, Book of Changes, Candle, Fire Elemental, Forge, Wildfire, Bell Tower; 290 points
+
+Best combinations with Lightning:
+1. Book of Changes, Collector, Candle, Fire Elemental, Lightning, Wildfire, Bell Tower; 350 points
+2. Book of Changes, Collector, Candle, Fire Elemental, Forge, Lightning, Bell Tower; 328 points
+3. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Lightning, Wildfire; 327 points
+4. Collector, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard, Lightning; 325 points
+5. Mirage, Collector, Air Elemental, Whirlwind, Smoke, Blizzard, Lightning; 317 points
+6. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Lightning, Bell Tower; 310 points
+7. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Lightning; 306 points
+8. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Lightning; 305 points
+9. Book of Changes, Collector, Candle, Forge, Lightning, Wildfire, Bell Tower; 304 points
+10. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Lightning; 301 points
+
+Best combinations with Wildfire:
+1. Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire, Bell Tower; 357 points
+2. Book of Changes, Collector, Candle, Fire Elemental, Lightning, Wildfire, Bell Tower; 350 points
+3. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 339 points
+4. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire; 334 points
+5. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Lightning, Wildfire; 327 points
+6. Doppelgänger, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 319 points
+7. Mirage, Collector, Air Elemental, Whirlwind, Smoke, Blizzard, Wildfire; 316 points
+8. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Wildfire; 305 points
+9. Book of Changes, Collector, Candle, Forge, Lightning, Wildfire, Bell Tower; 304 points
+10. Doppelgänger, Book of Changes, Enchantress, Candle, Fire Elemental, Wildfire, Bell Tower; 302 points
+
+Best combinations with Warhorse:
+1. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Warhorse; 288 points
+2. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Warhorse; 285 points
+3. Book of Changes, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Warhorse; 277 points
+4. Mirage, Book of Changes, Collector, Air Elemental, Whirlwind, Blizzard, Warhorse; 277 points
+5. Mirage, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Warhorse; 277 points
+6. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Warhorse; 274 points
+7. Mirage, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Warhorse; 274 points
+8. Book of Changes, Collector, Fountain of Life, Water Elemental, Island, Great Flood, Warhorse; 273 points
+9. Doppelgänger, Warhorse, Warlord, Queen, King, Light Cavalry, Knights; 272 points
+10. Mirage, Collector, Fountain of Life, Water Elemental, Island, Great Flood, Warhorse; 270 points
+
+Best combinations with Unicorn:
+1. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Unicorn; 277 points
+2. Doppelgänger, Unicorn, Warlord, Queen, King, Light Cavalry, Knights; 276 points
+3. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Unicorn; 274 points
+4. Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Unicorn, Bell Tower; 273 points
+5. Doppelgänger, Unicorn, Princess, Queen, King, Light Cavalry, Knights; 272 points
+6. Doppelgänger, Unicorn, Warlord, Queen, King, Light Cavalry, Knights; 270 points
+7. Doppelgänger, Unicorn, Queen, King, Elven Archers, Light Cavalry, Knights; 270 points
+8. Doppelgänger, Unicorn, Princess, Queen, King, Elven Archers, Knights; 270 points
+9. Doppelgänger, Unicorn, Princess, Queen, King, Light Cavalry, Knights; 269 points
+10. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Unicorn; 269 points
+
+Best combinations with Hydra:
+1. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Hydra; 308 points
+2. Book of Changes, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 297 points
+3. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Hydra; 294 points
+4. Mirage, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 294 points
+5. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Hydra; 290 points
+6. Mirage, Collector, Fountain of Life, Water Elemental, Island, Great Flood, Hydra; 290 points
+7. Book of Changes, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 283 points
+8. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Hydra; 280 points
+9. Mirage, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 280 points
+10. Mirage, Book of Changes, Collector, Fountain of Life, Water Elemental, Great Flood, Hydra; 279 points
+
+Best combinations with Dragon:
+1. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Dragon; 298 points
+2. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Dragon; 295 points
+3. Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Dragon, Bell Tower; 294 points
+4. Doppelgänger, Book of Changes, Candle, Fire Elemental, Wildfire, Dragon, Bell Tower; 287 points
+5. Book of Changes, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Dragon; 287 points
+6. Mirage, Book of Changes, Collector, Air Elemental, Whirlwind, Blizzard, Dragon; 287 points
+7. Mirage, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Dragon; 287 points
+8. Book of Changes, Collector, Candle, Dragon, Earth Elemental, Cavern, Bell Tower; 285 points
+9. Book of Changes, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Dragon; 285 points
+10. Mirage, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Dragon; 284 points
+
+Best combinations with Basilisk:
+1. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Basilisk; 303 points
+2. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Basilisk; 300 points
+3. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Basilisk; 295 points
+4. Book of Changes, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Basilisk; 295 points
+5. Mirage, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Basilisk; 292 points
+6. Mirage, Book of Changes, Collector, Air Elemental, Whirlwind, Blizzard, Basilisk; 292 points
+7. Book of Changes, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Basilisk; 292 points
+8. Book of Changes, Collector, Fountain of Life, Water Elemental, Island, Great Flood, Basilisk; 291 points
+9. Mirage, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Basilisk; 289 points
+10. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Basilisk; 289 points
+
+Best combinations with Magic Wand:
+1. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Magic Wand; 294 points
+2. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Magic Wand; 291 points
+3. Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Magic Wand, Bell Tower; 290 points
+4. Mirage, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Magic Wand; 288 points
+5. Doppelgänger, Book of Changes, Candle, Fire Elemental, Wildfire, Magic Wand, Bell Tower; 283 points
+6. Book of Changes, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Magic Wand; 283 points
+7. Mirage, Book of Changes, Collector, Air Elemental, Whirlwind, Blizzard, Magic Wand; 283 points
+8. Book of Changes, Smoke, Candle, Wildfire, Magic Wand, Bell Tower, Mountain; 280 points
+9. Mirage, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Magic Wand; 280 points
+10. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Magic Wand; 280 points
+
+Best combinations with Elven Longbow:
+1. Doppelgänger, Elven Longbow, Warlord, Queen, King, Light Cavalry, Knights; 285 points
+2. Doppelgänger, Elven Longbow, Warlord, Queen, King, Light Cavalry, Knights; 279 points
+3. Doppelgänger, Elven Longbow, Queen, King, Elven Archers, Light Cavalry, Knights; 279 points
+4. Doppelgänger, Elven Longbow, Warlord, Queen, King, Dwarvish Infantry, Knights; 277 points
+5. Doppelgänger, Elven Longbow, Queen, King, Elven Archers, Light Cavalry, Knights; 276 points
+6. Doppelgänger, Elven Longbow, Warlord, Queen, King, Elven Archers, Knights; 276 points
+7. Doppelgänger, Elven Longbow, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 271 points
+8. Elven Longbow, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 271 points
+9. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Elven Longbow; 271 points
+10. Elven Longbow, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 270 points
+
+Best combinations with Sword of Keth:
+1. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Light Cavalry, Knights; 282 points
+2. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Elven Archers, Knights; 280 points
+3. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Light Cavalry, Knights; 279 points
+4. Shield of Keth, Sword of Keth, Queen, King, Elven Archers, Light Cavalry, Knights; 277 points
+5. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Dwarvish Infantry, Knights; 276 points
+6. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Sword of Keth; 275 points
+7. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Elven Archers, Light Cavalry; 274 points
+8. Shield of Keth, Sword of Keth, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 273 points
+9. Book of Changes, Shield of Keth, Beastmaster, Candle, Basilisk, Sword of Keth, Bell Tower; 272 points
+10. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Sword of Keth; 272 points
+
+Best combinations with Warship:
+1. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Warship; 291 points
+2. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Warship; 282 points
+3. Book of Changes, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Warship; 280 points
+4. Mirage, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Warship; 277 points
+5. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Warship; 277 points
+6. Book of Changes, Collector, Fountain of Life, Water Elemental, Island, Great Flood, Warship; 276 points
+7. Mirage, Collector, Fountain of Life, Water Elemental, Island, Great Flood, Warship; 273 points
+8. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Warship; 273 points
+9. Book of Changes, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Warship; 271 points
+10. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Warship; 270 points
+
+Best combinations with War Dirigible:
+1. Book of Changes, Collector, Fountain of Life, Water Elemental, Island, Great Flood, War Dirigible; 291 points
+2. Doppelgänger, Book of Changes, War Dirigible, Warlord, Queen, King, Knights; 291 points
+3. Book of Changes, Collector, Fountain of Life, Water Elemental, Island, Great Flood, War Dirigible; 288 points
+4. Doppelgänger, War Dirigible, Warlord, Queen, King, Light Cavalry, Knights; 287 points
+5. Book of Changes, War Dirigible, Warlord, Queen, King, Light Cavalry, Knights; 285 points
+6. Doppelgänger, War Dirigible, Warlord, Queen, King, Light Cavalry, Knights; 281 points
+7. Doppelgänger, War Dirigible, Queen, King, Elven Archers, Light Cavalry, Knights; 281 points
+8. Doppelgänger, War Dirigible, Warlord, Queen, King, Dwarvish Infantry, Knights; 279 points
+9. Doppelgänger, Book of Changes, War Dirigible, Warlord, Queen, King, Light Cavalry; 279 points
+10. Doppelgänger, War Dirigible, Warlord, Queen, King, Elven Archers, Knights; 278 points
+
+Best combinations with Princess:
+1. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+2. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 296 points
+3. Doppelgänger, Princess, Queen, King, Elven Archers, Light Cavalry, Knights; 296 points
+4. Doppelgänger, Princess, Warlord, Queen, King, Dwarvish Infantry, Knights; 294 points
+5. Doppelgänger, Princess, Queen, King, Elven Archers, Light Cavalry, Knights; 293 points
+6. Doppelgänger, Princess, Warlord, Queen, King, Elven Archers, Knights; 293 points
+7. Doppelgänger, Princess, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 290 points
+8. Doppelgänger, Princess, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 288 points
+9. Princess, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 288 points
+10. Doppelgänger, Princess, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 287 points
+
+Best combinations with Warlord:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+4. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+5. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+6. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 303 points
+7. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+8. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+9. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 301 points
+10. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points
+
+Best combinations with Queen:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+4. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+5. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+6. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 303 points
+7. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+8. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+9. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 301 points
+10. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points
+
+Best combinations with King:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+4. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+5. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+6. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 303 points
+7. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+8. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+9. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 301 points
+10. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points
+
+Best combinations with Empress:
+1. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Empress; 283 points
+2. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Empress; 280 points
+3. Book of Changes, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Empress; 275 points
+4. Book of Changes, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Empress; 272 points
+5. Mirage, Book of Changes, Collector, Air Elemental, Whirlwind, Blizzard, Empress; 272 points
+6. Mirage, Collector, Air Elemental, Rainstorm, Whirlwind, Blizzard, Empress; 272 points
+7. Book of Changes, Shield of Keth, Candle, Forge, Sword of Keth, Empress, Bell Tower; 270 points
+8. Mirage, Collector, Fountain of Life, Water Elemental, Swamp, Great Flood, Empress; 269 points
+9. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Empress; 269 points
+10. Book of Changes, Collector, Fountain of Life, Water Elemental, Island, Great Flood, Empress; 268 points
+
+Best combinations with Earth Elemental:
+1. Book of Changes, Collector, Candle, Earth Elemental, Forest, Bell Tower, Mountain; 315 points
+2. Book of Changes, Collector, Candle, Earth Elemental, Cavern, Bell Tower, Mountain; 314 points
+3. Book of Changes, Collector, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 312 points
+4. Mirage, Book of Changes, Collector, Candle, Earth Elemental, Bell Tower, Mountain; 308 points
+5. Mirage, Book of Changes, Collector, Candle, Earth Elemental, Forest, Bell Tower; 306 points
+6. Mirage, Book of Changes, Collector, Candle, Earth Elemental, Cavern, Bell Tower; 305 points
+7. Mirage, Book of Changes, Collector, Candle, Earth Elemental, Forest, Mountain; 292 points
+8. Mirage, Book of Changes, Collector, Candle, Earth Elemental, Cavern, Mountain; 291 points
+9. Mirage, Book of Changes, Collector, Candle, Earth Elemental, Cavern, Forest; 289 points
+10. Book of Changes, Collector, Candle, Dragon, Earth Elemental, Cavern, Bell Tower; 285 points
+
+Best combinations with Cavern:
+1. Book of Changes, Collector, Candle, Earth Elemental, Cavern, Bell Tower, Mountain; 314 points
+2. Book of Changes, Collector, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 312 points
+3. Mirage, Book of Changes, Collector, Candle, Earth Elemental, Cavern, Bell Tower; 305 points
+4. Collector, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard, Cavern; 295 points
+5. Mirage, Book of Changes, Collector, Candle, Earth Elemental, Cavern, Mountain; 291 points
+6. Mirage, Book of Changes, Collector, Candle, Earth Elemental, Cavern, Forest; 289 points
+7. Mirage, Collector, Air Elemental, Whirlwind, Smoke, Blizzard, Cavern; 287 points
+8. Book of Changes, Collector, Candle, Dragon, Earth Elemental, Cavern, Bell Tower; 285 points
+9. Collector, Dragon, Earth Elemental, Cavern, Forest, Bell Tower, Mountain; 283 points
+10. Book of Changes, Collector, Candle, Earth Elemental, Cavern, Bell Tower, Rangers; 275 points
+
+Best combinations with Forest:
+1. Book of Changes, Collector, Candle, Earth Elemental, Forest, Bell Tower, Mountain; 315 points
+2. Book of Changes, Collector, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 312 points
+3. Mirage, Book of Changes, Collector, Candle, Earth Elemental, Forest, Bell Tower; 306 points
+4. Mirage, Book of Changes, Collector, Candle, Earth Elemental, Forest, Mountain; 292 points
+5. Mirage, Book of Changes, Collector, Candle, Earth Elemental, Cavern, Forest; 289 points
+6. Collector, Dragon, Earth Elemental, Cavern, Forest, Bell Tower, Mountain; 283 points
+7. Book of Changes, Collector, Candle, Basilisk, Earth Elemental, Forest, Bell Tower; 278 points
+8. Doppelgänger, Book of Changes, Beastmaster, Candle, Basilisk, Forest, Bell Tower; 277 points
+9. Book of Changes, Collector, Candle, Earth Elemental, Forest, Bell Tower, Rangers; 276 points
+10. Collector, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Forest; 275 points
+
+Best combinations with Bell Tower:
+1. Book of Changes, Collector, Candle, Fire Elemental, Forge, Wildfire, Bell Tower; 357 points
+2. Book of Changes, Collector, Candle, Fire Elemental, Lightning, Wildfire, Bell Tower; 350 points
+3. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 339 points
+4. Book of Changes, Collector, Candle, Fire Elemental, Forge, Lightning, Bell Tower; 328 points
+5. Doppelgänger, Book of Changes, Collector, Candle, Fire Elemental, Wildfire, Bell Tower; 319 points
+6. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Forge, Bell Tower; 317 points
+7. Book of Changes, Collector, Candle, Earth Elemental, Forest, Bell Tower, Mountain; 315 points
+8. Book of Changes, Collector, Candle, Earth Elemental, Cavern, Bell Tower, Mountain; 314 points
+9. Book of Changes, Collector, Candle, Earth Elemental, Cavern, Forest, Bell Tower; 312 points
+10. Mirage, Book of Changes, Collector, Candle, Fire Elemental, Lightning, Bell Tower; 310 points
+
+Best combinations with Mountain:
+1. Book of Changes, Collector, Candle, Earth Elemental, Forest, Bell Tower, Mountain; 315 points
+2. Book of Changes, Collector, Candle, Earth Elemental, Cavern, Bell Tower, Mountain; 314 points
+3. Mirage, Book of Changes, Collector, Candle, Earth Elemental, Bell Tower, Mountain; 308 points
+4. Doppelgänger, Book of Changes, Smoke, Candle, Wildfire, Bell Tower, Mountain; 294 points
+5. Mirage, Book of Changes, Collector, Candle, Earth Elemental, Forest, Mountain; 292 points
+6. Mirage, Book of Changes, Collector, Candle, Earth Elemental, Cavern, Mountain; 291 points
+7. Book of Changes, Smoke, Candle, Fire Elemental, Wildfire, Bell Tower, Mountain; 288 points
+8. Book of Changes, Smoke, Great Flood, Candle, Wildfire, Bell Tower, Mountain; 286 points
+9. Book of Changes, Smoke, Candle, Wildfire, Dragon, Bell Tower, Mountain; 284 points
+10. Book of Changes, Enchantress, Smoke, Candle, Wildfire, Bell Tower, Mountain; 284 points
+
+Best combinations with Rangers:
+1. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+2. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 296 points
+3. Doppelgänger, Warlord, Queen, King, Rangers, Elven Archers, Knights; 293 points
+4. Doppelgänger, Warlord, Queen, King, Rangers, Dwarvish Infantry, Knights; 292 points
+5. Doppelgänger, Queen, King, Rangers, Elven Archers, Light Cavalry, Knights; 291 points
+6. Doppelgänger, Queen, King, Rangers, Elven Archers, Light Cavalry, Knights; 288 points
+7. Warlord, Queen, King, Rangers, Elven Archers, Light Cavalry, Knights; 287 points
+8. Warlord, Queen, King, Rangers, Dwarvish Infantry, Light Cavalry, Knights; 286 points
+9. Doppelgänger, Princess, Queen, King, Rangers, Light Cavalry, Knights; 286 points
+10. Doppelgänger, Princess, Queen, King, Rangers, Elven Archers, Knights; 284 points
+
+Best combinations with Elven Archers:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+4. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points
+5. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 297 points
+6. Doppelgänger, Princess, Queen, King, Elven Archers, Light Cavalry, Knights; 296 points
+7. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry; 295 points
+8. Doppelgänger, Book of Changes, Warlord, Queen, King, Elven Archers, Knights; 294 points
+9. Doppelgänger, Warlord, Queen, King, Rangers, Elven Archers, Knights; 293 points
+10. Doppelgänger, Princess, Queen, King, Elven Archers, Light Cavalry, Knights; 293 points
+
+Best combinations with Dwarvish Infantry:
+1. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+4. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points
+5. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 300 points
+6. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry; 295 points
+7. Doppelgänger, Princess, Warlord, Queen, King, Dwarvish Infantry, Knights; 294 points
+8. Doppelgänger, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 293 points
+9. Doppelgänger, Book of Changes, Warlord, Queen, King, Dwarvish Infantry, Knights; 293 points
+10. Doppelgänger, Warlord, Queen, King, Rangers, Dwarvish Infantry, Knights; 292 points
+
+Best combinations with Light Cavalry:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+4. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+5. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 303 points
+6. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+7. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+8. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 301 points
+9. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points
+10. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 300 points
+
+Best combinations with Knights:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+4. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+5. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+6. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 303 points
+7. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+8. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+9. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 301 points
+10. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points

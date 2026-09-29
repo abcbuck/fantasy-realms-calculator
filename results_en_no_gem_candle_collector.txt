@@ -1,0 +1,648 @@
+Best combinations:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+4. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+5. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+6. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 303 points
+7. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+8. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+9. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points
+10. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 301 points
+
+Worst combinations:
+1. Doppelgänger, Shapeshifter, Warlock Lord, Warlord, Queen, King, Empress; -57 points
+2. Doppelgänger, Shapeshifter, Enchantress, Warlock Lord, Warlord, Queen, Empress; -55 points
+3. Doppelgänger, Shapeshifter, Enchantress, Warlock Lord, Warlord, King, Empress; -53 points
+4. Doppelgänger, Shapeshifter, Warlock Lord, Warlord, Queen, King, Empress; -52 points
+5. Doppelgänger, Shapeshifter, Beastmaster, Warlock Lord, Warlord, Queen, Empress; -51 points
+6. Doppelgänger, Shapeshifter, Enchantress, Warlock Lord, Queen, King, Empress; -51 points
+7. Doppelgänger, Shapeshifter, Enchantress, Warlock Lord, Warlord, Queen, Empress; -50 points
+8. Doppelgänger, Shapeshifter, Beastmaster, Warlock Lord, Warlord, King, Empress; -49 points
+9. Doppelgänger, Shapeshifter, Enchantress, Warlock Lord, Warlord, King, Empress; -48 points
+10. Doppelgänger, Shapeshifter, Enchantress, Beastmaster, Warlock Lord, Warlord, Empress; -47 points
+
+
+Best combinations with Doppelgänger:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+4. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+5. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+6. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 303 points
+7. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+8. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+9. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 301 points
+10. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 300 points
+
+Best combinations with Mirage:
+1. Doppelgänger, Mirage, Warlord, Queen, King, Light Cavalry, Knights; 292 points
+2. Doppelgänger, Mirage, Queen, King, Elven Archers, Light Cavalry, Knights; 286 points
+3. Doppelgänger, Mirage, Warlord, Queen, King, Light Cavalry, Knights; 286 points
+4. Doppelgänger, Mirage, Queen, King, Elven Archers, Light Cavalry, Knights; 283 points
+5. Doppelgänger, Mirage, Warlord, Queen, King, Elven Archers, Knights; 283 points
+6. Doppelgänger, Mirage, Warlord, Queen, King, Dwarvish Infantry, Knights; 282 points
+7. Doppelgänger, Mirage, Princess, Queen, King, Light Cavalry, Knights; 281 points
+8. Doppelgänger, Mirage, Princess, Queen, King, Elven Archers, Knights; 279 points
+9. Doppelgänger, Mirage, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 278 points
+10. Doppelgänger, Mirage, Princess, Queen, King, Light Cavalry, Knights; 278 points
+
+Best combinations with Shapeshifter:
+1. Doppelgänger, Shapeshifter, Warlord, Queen, King, Light Cavalry, Knights; 252 points
+2. Doppelgänger, Shapeshifter, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 247 points
+3. Doppelgänger, Shapeshifter, Queen, King, Elven Archers, Light Cavalry, Knights; 246 points
+4. Doppelgänger, Shapeshifter, Warlord, Queen, King, Light Cavalry, Knights; 246 points
+5. Doppelgänger, Shapeshifter, Warlord, Queen, King, Dwarvish Infantry, Knights; 244 points
+6. Doppelgänger, Shapeshifter, Queen, King, Elven Archers, Light Cavalry, Knights; 243 points
+7. Doppelgänger, Shapeshifter, Warlord, Queen, King, Elven Archers, Knights; 243 points
+8. Shapeshifter, World Tree, Smoke, Great Flood, Wildfire, Elven Longbow, Mountain; 243 points
+9. Shapeshifter, World Tree, Smoke, Wildfire, Dragon, Elven Longbow, Mountain; 241 points
+10. Doppelgänger, Shapeshifter, Princess, Queen, King, Light Cavalry, Knights; 241 points
+
+Best combinations with Book of Changes:
+1. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 303 points
+2. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 301 points
+3. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 299 points
+4. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 297 points
+5. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 295 points
+6. Doppelgänger, Book of Changes, Warlord, Queen, King, Elven Archers, Knights; 294 points
+7. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 293 points
+8. Doppelgänger, Book of Changes, Warlord, Queen, King, Dwarvish Infantry, Knights; 293 points
+9. Doppelgänger, Book of Changes, Warlord, Queen, King, Elven Archers, Knights; 292 points
+10. Doppelgänger, Book of Changes, War Dirigible, Warlord, Queen, King, Knights; 291 points
+
+Best combinations with Protection Rune:
+1. Doppelgänger, Protection Rune, Warlord, Queen, King, Light Cavalry, Knights; 253 points
+2. Doppelgänger, Protection Rune, Warlord, Queen, King, Dwarvish Infantry, Knights; 249 points
+3. Doppelgänger, Protection Rune, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 248 points
+4. Doppelgänger, Protection Rune, Queen, King, Elven Archers, Light Cavalry, Knights; 247 points
+5. Doppelgänger, Protection Rune, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 247 points
+6. Doppelgänger, Protection Rune, Warlord, Queen, King, Light Cavalry, Knights; 247 points
+7. Doppelgänger, Protection Rune, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 245 points
+8. Doppelgänger, Protection Rune, Queen, King, Elven Archers, Light Cavalry, Knights; 244 points
+9. Doppelgänger, Protection Rune, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 244 points
+10. Doppelgänger, Protection Rune, Warlord, Queen, King, Elven Archers, Knights; 244 points
+
+Best combinations with World Tree:
+1. World Tree, Enchantress, Smoke, Great Flood, Wildfire, Dragon, Mountain; 265 points
+2. World Tree, Warlock Lord, Smoke, Great Flood, Wildfire, Dragon, Mountain; 265 points
+3. World Tree, Warlock Lord, Smoke, Great Flood, Wildfire, Magic Wand, Mountain; 261 points
+4. World Tree, Enchantress, Smoke, Great Flood, Wildfire, Magic Wand, Mountain; 261 points
+5. World Tree, Enchantress, Smoke, Great Flood, Wildfire, Unicorn, Mountain; 259 points
+6. World Tree, Warlock Lord, Smoke, Wildfire, Dragon, Magic Wand, Mountain; 259 points
+7. World Tree, Beastmaster, Smoke, Wildfire, Dragon, Elven Longbow, Mountain; 259 points
+8. World Tree, Beastmaster, Smoke, Great Flood, Wildfire, Dragon, Mountain; 258 points
+9. World Tree, Warlock Lord, Smoke, Great Flood, Wildfire, Warship, Mountain; 258 points
+10. World Tree, Enchantress, Smoke, Great Flood, Wildfire, Warship, Mountain; 258 points
+
+Best combinations with Shield of Keth:
+1. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Light Cavalry, Knights; 282 points
+2. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Elven Archers, Knights; 280 points
+3. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Light Cavalry, Knights; 279 points
+4. Shield of Keth, Sword of Keth, Queen, King, Elven Archers, Light Cavalry, Knights; 277 points
+5. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Dwarvish Infantry, Knights; 276 points
+6. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Elven Archers, Light Cavalry; 274 points
+7. Shield of Keth, Sword of Keth, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 273 points
+8. Shield of Keth, Sword of Keth, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 271 points
+9. Doppelgänger, Shield of Keth, Warlord, Queen, King, Light Cavalry, Knights; 271 points
+10. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Dwarvish Infantry, Light Cavalry; 270 points
+
+Best combinations with Gem of Order:
+1. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+2. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+3. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+4. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+5. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+6. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+7. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+8. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+9. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+10. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+
+Best combinations with Enchantress:
+1. Doppelgänger, Enchantress, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 282 points
+2. Doppelgänger, Enchantress, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood; 272 points
+3. Doppelgänger, Enchantress, Rainstorm, Fountain of Life, Water Elemental, Great Flood, Lightning; 270 points
+4. Enchantress, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 268 points
+5. Doppelgänger, Enchantress, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood; 268 points
+6. Doppelgänger, Enchantress, Smoke, Great Flood, Fire Elemental, Wildfire, Mountain; 267 points
+7. Doppelgänger, Enchantress, Rainstorm, Whirlwind, Water Elemental, Swamp, Great Flood; 267 points
+8. Enchantress, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Lightning; 266 points
+9. World Tree, Enchantress, Smoke, Great Flood, Wildfire, Dragon, Mountain; 265 points
+10. Doppelgänger, Enchantress, Rainstorm, Whirlwind, Water Elemental, Great Flood, Lightning; 265 points
+
+Best combinations with Collector:
+1. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+2. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+3. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+4. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+5. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+6. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+7. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+8. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+9. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+10. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+
+Best combinations with Beastmaster:
+1. Doppelgänger, Beastmaster, Warlord, Queen, King, Light Cavalry, Knights; 261 points
+2. World Tree, Beastmaster, Smoke, Wildfire, Dragon, Elven Longbow, Mountain; 259 points
+3. World Tree, Beastmaster, Smoke, Great Flood, Wildfire, Dragon, Mountain; 258 points
+4. Doppelgänger, Beastmaster, Swamp, Hydra, Dragon, Basilisk, Forest; 258 points
+5. Doppelgänger, Beastmaster, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 256 points
+6. Doppelgänger, Beastmaster, Queen, King, Elven Archers, Light Cavalry, Knights; 255 points
+7. Doppelgänger, Beastmaster, Warlord, Queen, King, Light Cavalry, Knights; 255 points
+8. Doppelgänger, Beastmaster, Warlord, Queen, King, Dwarvish Infantry, Knights; 253 points
+9. Doppelgänger, Beastmaster, Warhorse, Dragon, Basilisk, Elven Longbow, Forest; 253 points
+10. Doppelgänger, Beastmaster, Warhorse, Hydra, Dragon, Basilisk, Forest; 253 points
+
+Best combinations with Warlock Lord:
+1. Doppelgänger, Warlock Lord, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 272 points
+2. World Tree, Warlock Lord, Smoke, Great Flood, Wildfire, Dragon, Mountain; 265 points
+3. Doppelgänger, Warlock Lord, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood; 262 points
+4. World Tree, Warlock Lord, Smoke, Great Flood, Wildfire, Magic Wand, Mountain; 261 points
+5. Doppelgänger, Warlock Lord, Rainstorm, Fountain of Life, Water Elemental, Great Flood, Lightning; 260 points
+6. World Tree, Warlock Lord, Smoke, Wildfire, Dragon, Magic Wand, Mountain; 259 points
+7. Warlock Lord, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 258 points
+8. Doppelgänger, Warlock Lord, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood; 258 points
+9. World Tree, Warlock Lord, Smoke, Great Flood, Wildfire, Warship, Mountain; 258 points
+10. Doppelgänger, Warlock Lord, Rainstorm, Whirlwind, Water Elemental, Swamp, Great Flood; 257 points
+
+Best combinations with Air Elemental:
+1. Doppelgänger, Air Elemental, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 281 points
+2. Mirage, Air Elemental, Whirlwind, Smoke, Blizzard, Wildfire, Mountain; 268 points
+3. Air Elemental, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 267 points
+4. Doppelgänger, Air Elemental, Rainstorm, Whirlwind, Water Elemental, Swamp, Great Flood; 266 points
+5. Air Elemental, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Lightning; 265 points
+6. Doppelgänger, Air Elemental, Rainstorm, Whirlwind, Water Elemental, Great Flood, Lightning; 264 points
+7. Air Elemental, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Great Flood; 263 points
+8. Doppelgänger, Air Elemental, Rainstorm, Whirlwind, Fountain of Life, Great Flood, Lightning; 263 points
+9. Air Elemental, Rainstorm, Whirlwind, Smoke, Fountain of Life, Great Flood, Lightning; 263 points
+10. Doppelgänger, Air Elemental, Rainstorm, Whirlwind, Smoke, Great Flood, Lightning; 262 points
+
+Best combinations with Rainstorm:
+1. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 290 points
+2. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Lightning; 288 points
+3. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Great Flood; 286 points
+4. Doppelgänger, Enchantress, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 282 points
+5. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Basilisk; 282 points
+6. Doppelgänger, Air Elemental, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 281 points
+7. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 277 points
+8. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 276 points
+9. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 276 points
+10. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Lightning; 275 points
+
+Best combinations with Whirlwind:
+1. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 290 points
+2. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Lightning; 288 points
+3. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Great Flood; 286 points
+4. Doppelgänger, Enchantress, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 282 points
+5. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Basilisk; 282 points
+6. Doppelgänger, Air Elemental, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 281 points
+7. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 276 points
+8. Doppelgänger, Book of Changes, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 275 points
+9. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 273 points
+10. Doppelgänger, Rainstorm, Whirlwind, Water Elemental, Swamp, Great Flood, Hydra; 272 points
+
+Best combinations with Smoke:
+1. Mirage, Air Elemental, Whirlwind, Smoke, Blizzard, Wildfire, Mountain; 268 points
+2. Doppelgänger, Enchantress, Smoke, Great Flood, Fire Elemental, Wildfire, Mountain; 267 points
+3. World Tree, Enchantress, Smoke, Great Flood, Wildfire, Dragon, Mountain; 265 points
+4. World Tree, Warlock Lord, Smoke, Great Flood, Wildfire, Dragon, Mountain; 265 points
+5. Air Elemental, Rainstorm, Whirlwind, Smoke, Fountain of Life, Great Flood, Lightning; 263 points
+6. Smoke, Fountain of Life, Water Elemental, Island, Great Flood, Wildfire, Mountain; 262 points
+7. Doppelgänger, Enchantress, Air Elemental, Smoke, Blizzard, Wildfire, Mountain; 262 points
+8. Doppelgänger, Rainstorm, Smoke, Fountain of Life, Water Elemental, Great Flood, Lightning; 262 points
+9. Doppelgänger, Air Elemental, Rainstorm, Whirlwind, Smoke, Great Flood, Lightning; 262 points
+10. World Tree, Enchantress, Smoke, Great Flood, Wildfire, Magic Wand, Mountain; 261 points
+
+Best combinations with Blizzard:
+1. Mirage, Air Elemental, Whirlwind, Smoke, Blizzard, Wildfire, Mountain; 268 points
+2. Doppelgänger, Enchantress, Air Elemental, Smoke, Blizzard, Wildfire, Mountain; 262 points
+3. Doppelgänger, Enchantress, Air Elemental, Smoke, Blizzard, Wildfire, Mountain; 260 points
+4. Doppelgänger, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard, Lightning; 260 points
+5. Doppelgänger, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard, Lightning; 258 points
+6. Doppelgänger, Air Elemental, Whirlwind, Smoke, Blizzard, Wildfire, Mountain; 255 points
+7. Doppelgänger, Enchantress, Air Elemental, Smoke, Blizzard, Wildfire, Mountain; 255 points
+8. Doppelgänger, Air Elemental, Whirlwind, Smoke, Blizzard, Wildfire, Mountain; 253 points
+9. Enchantress, Air Elemental, Rainstorm, Whirlwind, Smoke, Blizzard, Lightning; 253 points
+10. Doppelgänger, Mirage, Air Elemental, Whirlwind, Smoke, Blizzard, Lightning; 252 points
+
+Best combinations with Fountain of Life:
+1. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 290 points
+2. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Lightning; 288 points
+3. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Great Flood; 286 points
+4. Doppelgänger, Enchantress, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 282 points
+5. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Basilisk; 282 points
+6. Doppelgänger, Air Elemental, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 281 points
+7. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 277 points
+8. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 276 points
+9. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 276 points
+10. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Lightning; 275 points
+
+Best combinations with Water Elemental:
+1. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 290 points
+2. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Lightning; 288 points
+3. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Great Flood; 286 points
+4. Doppelgänger, Enchantress, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 282 points
+5. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Basilisk; 282 points
+6. Doppelgänger, Air Elemental, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 281 points
+7. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 277 points
+8. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 276 points
+9. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 276 points
+10. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Lightning; 275 points
+
+Best combinations with Island:
+1. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Great Flood; 286 points
+2. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 276 points
+3. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood, Lightning; 274 points
+4. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 272 points
+5. Doppelgänger, Rainstorm, Whirlwind, Water Elemental, Island, Swamp, Great Flood; 271 points
+6. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Great Flood, Lightning; 270 points
+7. Doppelgänger, Rainstorm, Whirlwind, Water Elemental, Island, Great Flood, Lightning; 269 points
+8. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Great Flood; 268 points
+9. Doppelgänger, Enchantress, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood; 268 points
+10. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood, Basilisk; 268 points
+
+Best combinations with Swamp:
+1. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 290 points
+2. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 277 points
+3. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 276 points
+4. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 276 points
+5. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Lightning; 275 points
+6. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 273 points
+7. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 272 points
+8. Doppelgänger, Enchantress, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood; 272 points
+9. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Basilisk; 272 points
+10. Doppelgänger, Rainstorm, Whirlwind, Water Elemental, Swamp, Great Flood, Hydra; 272 points
+
+Best combinations with Great Flood:
+1. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 290 points
+2. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Lightning; 288 points
+3. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Great Flood; 286 points
+4. Doppelgänger, Enchantress, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 282 points
+5. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Basilisk; 282 points
+6. Doppelgänger, Air Elemental, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood; 281 points
+7. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 277 points
+8. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood; 276 points
+9. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood; 276 points
+10. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Lightning; 275 points
+
+Best combinations with Candle:
+1. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+2. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+3. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+4. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+5. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+6. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+7. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+8. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+9. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+10. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+
+Best combinations with Fire Elemental:
+1. Doppelgänger, Enchantress, Smoke, Great Flood, Fire Elemental, Wildfire, Mountain; 267 points
+2. Doppelgänger, Enchantress, Smoke, Fire Elemental, Lightning, Wildfire, Mountain; 261 points
+3. Doppelgänger, Enchantress, Smoke, Fire Elemental, Wildfire, Dragon, Mountain; 260 points
+4. Doppelgänger, Enchantress, Smoke, Fire Elemental, Forge, Wildfire, Mountain; 259 points
+5. Doppelgänger, Book of Changes, Smoke, Fountain of Life, Fire Elemental, Wildfire, Mountain; 259 points
+6. Doppelgänger, Smoke, Great Flood, Fire Elemental, Lightning, Wildfire, Mountain; 258 points
+7. Doppelgänger, Warlock Lord, Smoke, Great Flood, Fire Elemental, Wildfire, Mountain; 257 points
+8. Doppelgänger, Fire Elemental, Warlord, Queen, King, Light Cavalry, Knights; 256 points
+9. Doppelgänger, Mirage, Smoke, Fire Elemental, Lightning, Wildfire, Mountain; 256 points
+10. Doppelgänger, Smoke, Great Flood, Fire Elemental, Forge, Wildfire, Mountain; 256 points
+
+Best combinations with Forge:
+1. Doppelgänger, Forge, Warlord, Queen, King, Light Cavalry, Knights; 261 points
+2. Doppelgänger, Enchantress, Smoke, Fire Elemental, Forge, Wildfire, Mountain; 259 points
+3. Doppelgänger, Smoke, Great Flood, Fire Elemental, Forge, Wildfire, Mountain; 256 points
+4. Book of Changes, Shield of Keth, Smoke, Forge, Wildfire, Sword of Keth, Mountain; 256 points
+5. Doppelgänger, Forge, Queen, King, Elven Archers, Light Cavalry, Knights; 255 points
+6. Doppelgänger, Forge, Warlord, Queen, King, Light Cavalry, Knights; 255 points
+7. Doppelgänger, Forge, Warlord, Queen, King, Dwarvish Infantry, Knights; 253 points
+8. Doppelgänger, Forge, Queen, King, Elven Archers, Light Cavalry, Knights; 252 points
+9. Doppelgänger, Book of Changes, Forge, Queen, King, Light Cavalry, Knights; 252 points
+10. Doppelgänger, Forge, Warlord, Queen, King, Elven Archers, Knights; 252 points
+
+Best combinations with Lightning:
+1. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Lightning; 288 points
+2. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Lightning; 275 points
+3. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood, Lightning; 274 points
+4. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood, Lightning; 271 points
+5. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Great Flood, Lightning, Basilisk; 270 points
+6. Doppelgänger, Rainstorm, Whirlwind, Water Elemental, Swamp, Great Flood, Lightning; 270 points
+7. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Great Flood, Lightning; 270 points
+8. Doppelgänger, Enchantress, Rainstorm, Fountain of Life, Water Elemental, Great Flood, Lightning; 270 points
+9. Doppelgänger, Rainstorm, Whirlwind, Water Elemental, Island, Great Flood, Lightning; 269 points
+10. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Lightning; 269 points
+
+Best combinations with Wildfire:
+1. Mirage, Air Elemental, Whirlwind, Smoke, Blizzard, Wildfire, Mountain; 268 points
+2. Doppelgänger, Enchantress, Smoke, Great Flood, Fire Elemental, Wildfire, Mountain; 267 points
+3. World Tree, Enchantress, Smoke, Great Flood, Wildfire, Dragon, Mountain; 265 points
+4. World Tree, Warlock Lord, Smoke, Great Flood, Wildfire, Dragon, Mountain; 265 points
+5. Smoke, Fountain of Life, Water Elemental, Island, Great Flood, Wildfire, Mountain; 262 points
+6. Doppelgänger, Enchantress, Air Elemental, Smoke, Blizzard, Wildfire, Mountain; 262 points
+7. Doppelgänger, Enchantress, Smoke, Fire Elemental, Lightning, Wildfire, Mountain; 261 points
+8. World Tree, Warlock Lord, Smoke, Great Flood, Wildfire, Magic Wand, Mountain; 261 points
+9. World Tree, Enchantress, Smoke, Great Flood, Wildfire, Magic Wand, Mountain; 261 points
+10. Doppelgänger, Book of Changes, Shield of Keth, Smoke, Wildfire, Sword of Keth, Mountain; 260 points
+
+Best combinations with Warhorse:
+1. Doppelgänger, Warhorse, Warlord, Queen, King, Light Cavalry, Knights; 272 points
+2. Doppelgänger, Warhorse, Queen, King, Elven Archers, Light Cavalry, Knights; 266 points
+3. Doppelgänger, Warhorse, Warlord, Queen, King, Light Cavalry, Knights; 266 points
+4. Doppelgänger, Warhorse, Warlord, Queen, King, Dwarvish Infantry, Knights; 264 points
+5. Doppelgänger, Warhorse, Queen, King, Elven Archers, Light Cavalry, Knights; 263 points
+6. Doppelgänger, Warhorse, Warlord, Queen, King, Elven Archers, Knights; 263 points
+7. Doppelgänger, Warhorse, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 260 points
+8. Doppelgänger, Warhorse, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 258 points
+9. Warhorse, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 258 points
+10. Warhorse, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 257 points
+
+Best combinations with Unicorn:
+1. Doppelgänger, Unicorn, Warlord, Queen, King, Light Cavalry, Knights; 276 points
+2. Doppelgänger, Unicorn, Princess, Queen, King, Light Cavalry, Knights; 272 points
+3. Doppelgänger, Unicorn, Queen, King, Elven Archers, Light Cavalry, Knights; 270 points
+4. Doppelgänger, Unicorn, Warlord, Queen, King, Light Cavalry, Knights; 270 points
+5. Doppelgänger, Unicorn, Princess, Queen, King, Elven Archers, Knights; 270 points
+6. Doppelgänger, Unicorn, Princess, Queen, King, Light Cavalry, Knights; 269 points
+7. Doppelgänger, Unicorn, Warlord, Queen, King, Dwarvish Infantry, Knights; 268 points
+8. Doppelgänger, Unicorn, Queen, King, Elven Archers, Light Cavalry, Knights; 267 points
+9. Unicorn, Princess, Queen, King, Elven Archers, Light Cavalry, Knights; 267 points
+10. Doppelgänger, Unicorn, Warlord, Queen, King, Elven Archers, Knights; 267 points
+
+Best combinations with Hydra:
+1. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 277 points
+2. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 273 points
+3. Doppelgänger, Rainstorm, Whirlwind, Water Elemental, Swamp, Great Flood, Hydra; 272 points
+4. Doppelgänger, Hydra, Warlord, Queen, King, Light Cavalry, Knights; 264 points
+5. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 263 points
+6. Rainstorm, Fountain of Life, Water Elemental, Island, Swamp, Great Flood, Hydra; 259 points
+7. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood, Hydra; 259 points
+8. Doppelgänger, Mirage, Rainstorm, Fountain of Life, Water Elemental, Great Flood, Hydra; 259 points
+9. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Hydra; 259 points
+10. Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Lightning, Hydra; 258 points
+
+Best combinations with Dragon:
+1. World Tree, Enchantress, Smoke, Great Flood, Wildfire, Dragon, Mountain; 265 points
+2. World Tree, Warlock Lord, Smoke, Great Flood, Wildfire, Dragon, Mountain; 265 points
+3. Doppelgänger, Enchantress, Smoke, Fire Elemental, Wildfire, Dragon, Mountain; 260 points
+4. World Tree, Warlock Lord, Smoke, Wildfire, Dragon, Magic Wand, Mountain; 259 points
+5. World Tree, Beastmaster, Smoke, Wildfire, Dragon, Elven Longbow, Mountain; 259 points
+6. World Tree, Beastmaster, Smoke, Great Flood, Wildfire, Dragon, Mountain; 258 points
+7. Doppelgänger, Enchantress, Smoke, Great Flood, Wildfire, Dragon, Mountain; 258 points
+8. Doppelgänger, Beastmaster, Swamp, Hydra, Dragon, Basilisk, Forest; 258 points
+9. Doppelgänger, Warlock Lord, Smoke, Fire Elemental, Wildfire, Dragon, Mountain; 255 points
+10. Doppelgänger, Enchantress, Rainstorm, Fountain of Life, Water Elemental, Great Flood, Dragon; 254 points
+
+Best combinations with Basilisk:
+1. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Basilisk; 282 points
+2. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Basilisk; 272 points
+3. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Great Flood, Lightning, Basilisk; 270 points
+4. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood, Basilisk; 268 points
+5. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood, Basilisk; 268 points
+6. Doppelgänger, Rainstorm, Whirlwind, Water Elemental, Swamp, Great Flood, Basilisk; 267 points
+7. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Lightning, Basilisk; 266 points
+8. Doppelgänger, Rainstorm, Whirlwind, Water Elemental, Great Flood, Lightning, Basilisk; 265 points
+9. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Island, Great Flood, Basilisk; 264 points
+10. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Great Flood, Lightning, Basilisk; 264 points
+
+Best combinations with Magic Wand:
+1. World Tree, Enchantress, Smoke, Great Flood, Wildfire, Magic Wand, Mountain; 261 points
+2. World Tree, Warlock Lord, Smoke, Great Flood, Wildfire, Magic Wand, Mountain; 261 points
+3. World Tree, Warlock Lord, Smoke, Wildfire, Dragon, Magic Wand, Mountain; 259 points
+4. Doppelgänger, Enchantress, Smoke, Fire Elemental, Wildfire, Magic Wand, Mountain; 256 points
+5. Doppelgänger, Enchantress, Smoke, Great Flood, Wildfire, Magic Wand, Mountain; 254 points
+6. World Tree, Enchantress, Smoke, Wildfire, Dragon, Magic Wand, Mountain; 254 points
+7. Doppelgänger, Magic Wand, Warlord, Queen, King, Light Cavalry, Knights; 253 points
+8. World Tree, Beastmaster, Smoke, Wildfire, Dragon, Magic Wand, Mountain; 252 points
+9. Doppelgänger, Warlock Lord, Smoke, Fire Elemental, Wildfire, Magic Wand, Mountain; 251 points
+10. Doppelgänger, Enchantress, Rainstorm, Fountain of Life, Water Elemental, Great Flood, Magic Wand; 250 points
+
+Best combinations with Elven Longbow:
+1. Doppelgänger, Elven Longbow, Warlord, Queen, King, Light Cavalry, Knights; 285 points
+2. Doppelgänger, Elven Longbow, Queen, King, Elven Archers, Light Cavalry, Knights; 279 points
+3. Doppelgänger, Elven Longbow, Warlord, Queen, King, Light Cavalry, Knights; 279 points
+4. Doppelgänger, Elven Longbow, Warlord, Queen, King, Dwarvish Infantry, Knights; 277 points
+5. Doppelgänger, Elven Longbow, Queen, King, Elven Archers, Light Cavalry, Knights; 276 points
+6. Doppelgänger, Elven Longbow, Warlord, Queen, King, Elven Archers, Knights; 276 points
+7. Doppelgänger, Elven Longbow, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 271 points
+8. Elven Longbow, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 271 points
+9. Elven Longbow, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 270 points
+10. Doppelgänger, Elven Longbow, Queen, King, Elven Archers, Light Cavalry, Knights; 269 points
+
+Best combinations with Sword of Keth:
+1. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Light Cavalry, Knights; 282 points
+2. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Elven Archers, Knights; 280 points
+3. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Light Cavalry, Knights; 279 points
+4. Shield of Keth, Sword of Keth, Queen, King, Elven Archers, Light Cavalry, Knights; 277 points
+5. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Dwarvish Infantry, Knights; 276 points
+6. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Elven Archers, Light Cavalry; 274 points
+7. Shield of Keth, Sword of Keth, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 273 points
+8. Shield of Keth, Sword of Keth, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 271 points
+9. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Elven Archers, Knights; 270 points
+10. Doppelgänger, Shield of Keth, Sword of Keth, Queen, King, Rangers, Knights; 270 points
+
+Best combinations with Warship:
+1. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Warship; 270 points
+2. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Warship; 261 points
+3. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Warship; 260 points
+4. World Tree, Enchantress, Smoke, Great Flood, Wildfire, Warship, Mountain; 258 points
+5. World Tree, Warlock Lord, Smoke, Great Flood, Wildfire, Warship, Mountain; 258 points
+6. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Great Flood, Lightning, Warship; 258 points
+7. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood, Warship; 256 points
+8. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Island, Great Flood, Warship; 256 points
+9. Doppelgänger, Smoke, Great Flood, Fire Elemental, Wildfire, Warship, Mountain; 255 points
+10. Doppelgänger, Rainstorm, Whirlwind, Water Elemental, Swamp, Great Flood, Warship; 255 points
+
+Best combinations with War Dirigible:
+1. Doppelgänger, Book of Changes, War Dirigible, Warlord, Queen, King, Knights; 291 points
+2. Doppelgänger, War Dirigible, Warlord, Queen, King, Light Cavalry, Knights; 287 points
+3. Book of Changes, War Dirigible, Warlord, Queen, King, Light Cavalry, Knights; 285 points
+4. Doppelgänger, War Dirigible, Queen, King, Elven Archers, Light Cavalry, Knights; 281 points
+5. Doppelgänger, War Dirigible, Warlord, Queen, King, Light Cavalry, Knights; 281 points
+6. Doppelgänger, War Dirigible, Warlord, Queen, King, Dwarvish Infantry, Knights; 279 points
+7. Doppelgänger, Book of Changes, War Dirigible, Warlord, Queen, King, Light Cavalry; 279 points
+8. Doppelgänger, War Dirigible, Queen, King, Elven Archers, Light Cavalry, Knights; 278 points
+9. Doppelgänger, War Dirigible, Warlord, Queen, King, Elven Archers, Knights; 278 points
+10. Book of Changes, War Dirigible, Warlord, Queen, King, Dwarvish Infantry, Knights; 277 points
+
+Best combinations with Princess:
+1. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+2. Doppelgänger, Princess, Queen, King, Elven Archers, Light Cavalry, Knights; 296 points
+3. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 296 points
+4. Doppelgänger, Princess, Warlord, Queen, King, Dwarvish Infantry, Knights; 294 points
+5. Doppelgänger, Princess, Queen, King, Elven Archers, Light Cavalry, Knights; 293 points
+6. Doppelgänger, Princess, Warlord, Queen, King, Elven Archers, Knights; 293 points
+7. Doppelgänger, Princess, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 290 points
+8. Doppelgänger, Princess, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 288 points
+9. Princess, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 288 points
+10. Princess, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 287 points
+
+Best combinations with Warlord:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+4. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+5. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+6. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 303 points
+7. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+8. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+9. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points
+10. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 301 points
+
+Best combinations with Queen:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+4. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+5. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+6. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 303 points
+7. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+8. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+9. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points
+10. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 301 points
+
+Best combinations with King:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+4. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+5. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+6. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 303 points
+7. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+8. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+9. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points
+10. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 301 points
+
+Best combinations with Empress:
+1. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Empress; 262 points
+2. Doppelgänger, Warlord, Queen, King, Empress, Light Cavalry, Knights; 252 points
+3. Doppelgänger, Shield of Keth, Fountain of Life, Water Elemental, Great Flood, Sword of Keth, Empress; 252 points
+4. Shield of Keth, Rainstorm, Whirlwind, Fountain of Life, Great Flood, Sword of Keth, Empress; 252 points
+5. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Swamp, Great Flood, Empress; 252 points
+6. Doppelgänger, Queen, King, Empress, Elven Archers, Light Cavalry, Knights; 251 points
+7. Doppelgänger, Shield of Keth, Rainstorm, Whirlwind, Great Flood, Sword of Keth, Empress; 251 points
+8. Shield of Keth, Rainstorm, Whirlwind, Great Flood, Lightning, Sword of Keth, Empress; 250 points
+9. Doppelgänger, Rainstorm, Fountain of Life, Water Elemental, Great Flood, Lightning, Empress; 250 points
+10. Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Swamp, Great Flood, Empress; 248 points
+
+Best combinations with Earth Elemental:
+1. Doppelgänger, Warlord, Queen, King, Earth Elemental, Light Cavalry, Knights; 254 points
+2. Doppelgänger, Queen, King, Earth Elemental, Rangers, Elven Archers, Knights; 248 points
+3. Doppelgänger, Queen, King, Earth Elemental, Rangers, Light Cavalry, Knights; 248 points
+4. Doppelgänger, Queen, King, Earth Elemental, Elven Archers, Light Cavalry, Knights; 248 points
+5. Doppelgänger, Warlord, Queen, King, Earth Elemental, Dwarvish Infantry, Knights; 248 points
+6. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Earth Elemental; 247 points
+7. Doppelgänger, Warlord, Queen, King, Earth Elemental, Elven Archers, Knights; 247 points
+8. Doppelgänger, Warlord, Queen, King, Earth Elemental, Light Cavalry, Knights; 246 points
+9. Doppelgänger, Beastmaster, Dragon, Basilisk, Earth Elemental, Cavern, Forest; 244 points
+10. Doppelgänger, Queen, King, Earth Elemental, Rangers, Light Cavalry, Knights; 243 points
+
+Best combinations with Cavern:
+1. Doppelgänger, Warlord, Queen, King, Cavern, Dwarvish Infantry, Knights; 275 points
+2. Doppelgänger, Queen, King, Cavern, Rangers, Dwarvish Infantry, Knights; 269 points
+3. Doppelgänger, Queen, King, Cavern, Dwarvish Infantry, Light Cavalry, Knights; 269 points
+4. Doppelgänger, Queen, King, Cavern, Elven Archers, Dwarvish Infantry, Knights; 269 points
+5. Warlord, Queen, King, Cavern, Dwarvish Infantry, Light Cavalry, Knights; 267 points
+6. Doppelgänger, Queen, King, Cavern, Dwarvish Infantry, Light Cavalry, Knights; 264 points
+7. Queen, King, Cavern, Rangers, Dwarvish Infantry, Light Cavalry, Knights; 264 points
+8. Queen, King, Cavern, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 264 points
+9. Queen, King, Cavern, Rangers, Elven Archers, Dwarvish Infantry, Knights; 264 points
+10. Doppelgänger, Warlord, Queen, King, Cavern, Dwarvish Infantry, Knights; 261 points
+
+Best combinations with Forest:
+1. Doppelgänger, Queen, King, Forest, Rangers, Elven Archers, Knights; 265 points
+2. Doppelgänger, Queen, King, Forest, Elven Archers, Light Cavalry, Knights; 265 points
+3. Doppelgänger, Queen, King, Forest, Rangers, Elven Archers, Knights; 263 points
+4. Doppelgänger, Queen, King, Forest, Elven Archers, Light Cavalry, Knights; 263 points
+5. Doppelgänger, Mirage, Queen, King, Forest, Elven Archers, Knights; 262 points
+6. Doppelgänger, Warlord, Queen, King, Forest, Elven Archers, Knights; 262 points
+7. Doppelgänger, Mirage, Queen, King, Forest, Elven Archers, Knights; 260 points
+8. Doppelgänger, Queen, King, Forest, Rangers, Elven Archers, Light Cavalry; 260 points
+9. Doppelgänger, Queen, King, Forest, Elven Archers, Dwarvish Infantry, Knights; 259 points
+10. Doppelgänger, Beastmaster, Swamp, Hydra, Dragon, Basilisk, Forest; 258 points
+
+Best combinations with Bell Tower:
+1. Doppelgänger, Warlord, Queen, King, Bell Tower, Light Cavalry, Knights; 258 points
+2. Doppelgänger, Queen, King, Bell Tower, Rangers, Elven Archers, Knights; 252 points
+3. Doppelgänger, Queen, King, Bell Tower, Rangers, Light Cavalry, Knights; 252 points
+4. Doppelgänger, Queen, King, Bell Tower, Elven Archers, Light Cavalry, Knights; 252 points
+5. Doppelgänger, Warlord, Queen, King, Bell Tower, Dwarvish Infantry, Knights; 252 points
+6. Doppelgänger, Warlord, Queen, King, Bell Tower, Elven Archers, Knights; 251 points
+7. Doppelgänger, Warlord, Queen, King, Bell Tower, Light Cavalry, Knights; 250 points
+8. Doppelgänger, Queen, King, Bell Tower, Elven Archers, Light Cavalry, Knights; 247 points
+9. Queen, King, Bell Tower, Rangers, Elven Archers, Light Cavalry, Knights; 247 points
+10. Doppelgänger, Rainstorm, Whirlwind, Fountain of Life, Water Elemental, Great Flood, Bell Tower; 247 points
+
+Best combinations with Mountain:
+1. Mirage, Air Elemental, Whirlwind, Smoke, Blizzard, Wildfire, Mountain; 268 points
+2. Doppelgänger, Enchantress, Smoke, Great Flood, Fire Elemental, Wildfire, Mountain; 267 points
+3. World Tree, Enchantress, Smoke, Great Flood, Wildfire, Dragon, Mountain; 265 points
+4. World Tree, Warlock Lord, Smoke, Great Flood, Wildfire, Dragon, Mountain; 265 points
+5. Smoke, Fountain of Life, Water Elemental, Island, Great Flood, Wildfire, Mountain; 262 points
+6. Doppelgänger, Enchantress, Air Elemental, Smoke, Blizzard, Wildfire, Mountain; 262 points
+7. Doppelgänger, Enchantress, Smoke, Fire Elemental, Lightning, Wildfire, Mountain; 261 points
+8. World Tree, Warlock Lord, Smoke, Great Flood, Wildfire, Magic Wand, Mountain; 261 points
+9. World Tree, Enchantress, Smoke, Great Flood, Wildfire, Magic Wand, Mountain; 261 points
+10. Doppelgänger, Book of Changes, Shield of Keth, Smoke, Wildfire, Sword of Keth, Mountain; 260 points
+
+Best combinations with Rangers:
+1. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+2. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 296 points
+3. Doppelgänger, Warlord, Queen, King, Rangers, Elven Archers, Knights; 293 points
+4. Doppelgänger, Warlord, Queen, King, Rangers, Dwarvish Infantry, Knights; 292 points
+5. Doppelgänger, Queen, King, Rangers, Elven Archers, Light Cavalry, Knights; 291 points
+6. Doppelgänger, Queen, King, Rangers, Elven Archers, Light Cavalry, Knights; 288 points
+7. Warlord, Queen, King, Rangers, Elven Archers, Light Cavalry, Knights; 287 points
+8. Doppelgänger, Princess, Queen, King, Rangers, Light Cavalry, Knights; 286 points
+9. Warlord, Queen, King, Rangers, Dwarvish Infantry, Light Cavalry, Knights; 286 points
+10. Doppelgänger, Princess, Queen, King, Rangers, Elven Archers, Knights; 284 points
+
+Best combinations with Elven Archers:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+4. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points
+5. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 297 points
+6. Doppelgänger, Princess, Queen, King, Elven Archers, Light Cavalry, Knights; 296 points
+7. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry; 295 points
+8. Doppelgänger, Book of Changes, Warlord, Queen, King, Elven Archers, Knights; 294 points
+9. Doppelgänger, Princess, Queen, King, Elven Archers, Light Cavalry, Knights; 293 points
+10. Doppelgänger, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 293 points
+
+Best combinations with Dwarvish Infantry:
+1. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+4. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points
+5. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 300 points
+6. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry; 295 points
+7. Doppelgänger, Princess, Warlord, Queen, King, Dwarvish Infantry, Knights; 294 points
+8. Doppelgänger, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 293 points
+9. Doppelgänger, Book of Changes, Warlord, Queen, King, Dwarvish Infantry, Knights; 293 points
+10. Doppelgänger, Warlord, Queen, King, Rangers, Dwarvish Infantry, Knights; 292 points
+
+Best combinations with Light Cavalry:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+4. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+5. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 303 points
+6. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+7. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+8. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points
+9. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 301 points
+10. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 300 points
+
+Best combinations with Knights:
+1. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 317 points
+2. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 316 points
+3. Doppelgänger, Warlord, Queen, King, Elven Archers, Light Cavalry, Knights; 311 points
+4. Doppelgänger, Warlord, Queen, King, Dwarvish Infantry, Light Cavalry, Knights; 310 points
+5. Doppelgänger, Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Knights; 307 points
+6. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 303 points
+7. Doppelgänger, Warlord, Queen, King, Rangers, Light Cavalry, Knights; 302 points
+8. Doppelgänger, Princess, Warlord, Queen, King, Light Cavalry, Knights; 302 points
+9. Warlord, Queen, King, Elven Archers, Dwarvish Infantry, Light Cavalry, Knights; 301 points
+10. Doppelgänger, Book of Changes, Warlord, Queen, King, Light Cavalry, Knights; 301 points

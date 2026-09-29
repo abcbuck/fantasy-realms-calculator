@@ -1,0 +1,648 @@
+Best combinations:
+1. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer, Glockenturm; 357 points
+2. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Buschfeuer, Glockenturm; 350 points
+3. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 339 points
+4. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer; 334 points
+5. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Blitz, Glockenturm; 328 points
+6. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Buschfeuer; 327 points
+7. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 326 points
+8. Sammler, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard, Blitz; 325 points
+9. Doppelgänger, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 319 points
+10. Spiegelung, Sammler, Luftwesen, Wirbelsturm, Rauch, Blizzard, Blitz; 317 points
+
+Worst combinations:
+1. Doppelgänger, Gestaltwandler, Hexenmeister, Kriegsherr, Königin, König, Kaiserin; -57 points
+2. Doppelgänger, Gestaltwandler, Magierin, Hexenmeister, Kriegsherr, Königin, Kaiserin; -55 points
+3. Doppelgänger, Gestaltwandler, Magierin, Hexenmeister, Kriegsherr, König, Kaiserin; -53 points
+4. Doppelgänger, Gestaltwandler, Hexenmeister, Kriegsherr, Königin, König, Kaiserin; -52 points
+5. Doppelgänger, Gestaltwandler, Magierin, Hexenmeister, Königin, König, Kaiserin; -51 points
+6. Doppelgänger, Gestaltwandler, Herr der Bestien, Hexenmeister, Kriegsherr, Königin, Kaiserin; -51 points
+7. Doppelgänger, Gestaltwandler, Magierin, Hexenmeister, Kriegsherr, Königin, Kaiserin; -50 points
+8. Doppelgänger, Gestaltwandler, Herr der Bestien, Hexenmeister, Kriegsherr, König, Kaiserin; -49 points
+9. Doppelgänger, Gestaltwandler, Magierin, Hexenmeister, Kriegsherr, König, Kaiserin; -48 points
+10. Doppelgänger, Gestaltwandler, Magierin, Herr der Bestien, Hexenmeister, Kriegsherr, Kaiserin; -47 points
+
+
+Best combinations with Doppelgänger:
+1. Doppelgänger, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 319 points
+2. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+3. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+4. Doppelgänger, Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 315 points
+5. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+6. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+7. Doppelgänger, Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 310 points
+8. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+9. Doppelgänger, Spiegelung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 307 points
+10. Doppelgänger, Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 304 points
+
+Best combinations with Spiegelung:
+1. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 339 points
+2. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer; 334 points
+3. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Buschfeuer; 327 points
+4. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Glockenturm; 317 points
+5. Spiegelung, Sammler, Luftwesen, Wirbelsturm, Rauch, Blizzard, Blitz; 317 points
+6. Spiegelung, Sammler, Luftwesen, Wirbelsturm, Rauch, Blizzard, Buschfeuer; 316 points
+7. Spiegelung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 312 points
+8. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Glockenturm; 310 points
+9. Spiegelung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 308 points
+10. Spiegelung, Buch der Veränderung, Sammler, Kerze, Erdwesen, Glockenturm, Gebirge; 308 points
+
+Best combinations with Gestaltwandler:
+1. Doppelgänger, Gestaltwandler, Buch der Veränderung, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 272 points
+2. Gestaltwandler, Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 268 points
+3. Gestaltwandler, Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 265 points
+4. Gestaltwandler, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 264 points
+5. Spiegelung, Gestaltwandler, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 262 points
+6. Doppelgänger, Gestaltwandler, Herr der Bestien, Kerze, Drache, Basilisk, Glockenturm; 261 points
+7. Gestaltwandler, Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 260 points
+8. Gestaltwandler, Buch der Veränderung, Schild von Keth, Kerze, Einhorn, Schwert von Keth, Glockenturm; 258 points
+9. Gestaltwandler, Sammler, Herr der Bestien, Schlachtross, Hydra, Drache, Basilisk; 258 points
+10. Doppelgänger, Gestaltwandler, Buch der Veränderung, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 257 points
+
+Best combinations with Buch der Veränderung:
+1. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer, Glockenturm; 357 points
+2. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Buschfeuer, Glockenturm; 350 points
+3. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 339 points
+4. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer; 334 points
+5. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Blitz, Glockenturm; 328 points
+6. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Buschfeuer; 327 points
+7. Doppelgänger, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 319 points
+8. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Glockenturm; 317 points
+9. Buch der Veränderung, Sammler, Kerze, Erdwesen, Wald, Glockenturm, Gebirge; 315 points
+10. Buch der Veränderung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 315 points
+
+Best combinations with Rune des Schutzes:
+1. Rune des Schutzes, Sammler, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard; 290 points
+2. Spiegelung, Rune des Schutzes, Sammler, Luftwesen, Wirbelsturm, Rauch, Blizzard; 282 points
+3. Rune des Schutzes, Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 269 points
+4. Buch der Veränderung, Rune des Schutzes, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 266 points
+5. Buch der Veränderung, Rune des Schutzes, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 265 points
+6. Spiegelung, Rune des Schutzes, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 263 points
+7. Spiegelung, Rune des Schutzes, Sammler, Luftwesen, Regensturm, Wirbelsturm, Rauch; 260 points
+8. Spiegelung, Buch der Veränderung, Rune des Schutzes, Sammler, Luftwesen, Wirbelsturm, Blizzard; 258 points
+9. Buch der Veränderung, Rune des Schutzes, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 258 points
+10. Doppelgänger, Buch der Veränderung, Rune des Schutzes, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 258 points
+
+Best combinations with Weltenbaum:
+1. Buch der Veränderung, Weltenbaum, Hexenmeister, Quelle des Lebens, Kerze, Kampfzeppelin, Glockenturm; 276 points
+2. Buch der Veränderung, Weltenbaum, Magierin, Quelle des Lebens, Kerze, Kampfzeppelin, Glockenturm; 271 points
+3. Buch der Veränderung, Weltenbaum, Hexenmeister, Kerze, Drache, Kampfzeppelin, Glockenturm; 270 points
+4. Buch der Veränderung, Weltenbaum, Rauch, Quelle des Lebens, Kerze, Basilisk, Glockenturm; 270 points
+5. Weltenbaum, Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 270 points
+6. Buch der Veränderung, Weltenbaum, Rauch, Kerze, Basilisk, Zauberstab, Glockenturm; 268 points
+7. Buch der Veränderung, Weltenbaum, Herr der Bestien, Kerze, Basilisk, Kampfzeppelin, Glockenturm; 268 points
+8. Buch der Veränderung, Weltenbaum, Hexenmeister, Rauch, Kerze, Basilisk, Glockenturm; 267 points
+9. Buch der Veränderung, Weltenbaum, Magierin, Rauch, Kerze, Basilisk, Glockenturm; 267 points
+10. Buch der Veränderung, Weltenbaum, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 267 points
+
+Best combinations with Schild von Keth:
+1. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Leichte Kavallerie, Ritter; 282 points
+2. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Elbenschützen, Ritter; 280 points
+3. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Leichte Kavallerie, Ritter; 279 points
+4. Schild von Keth, Schwert von Keth, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 277 points
+5. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Zwergeninfanterie, Ritter; 276 points
+6. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Elbenschützen, Leichte Kavallerie; 274 points
+7. Schild von Keth, Schwert von Keth, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 273 points
+8. Buch der Veränderung, Schild von Keth, Herr der Bestien, Kerze, Basilisk, Schwert von Keth, Glockenturm; 272 points
+9. Schild von Keth, Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 272 points
+10. Schild von Keth, Schwert von Keth, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 271 points
+
+Best combinations with Juwel der Ordnung:
+1. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+2. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+3. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+4. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+5. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+6. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+7. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+8. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+9. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+10. Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger, Doppelgänger; 0 points
+
+Best combinations with Magierin:
+1. Doppelgänger, Buch der Veränderung, Magierin, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 302 points
+2. Magierin, Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 298 points
+3. Buch der Veränderung, Magierin, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 295 points
+4. Spiegelung, Magierin, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 292 points
+5. Buch der Veränderung, Magierin, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 289 points
+6. Spiegelung, Buch der Veränderung, Magierin, Sammler, Luftwesen, Wirbelsturm, Blizzard; 287 points
+7. Buch der Veränderung, Magierin, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 287 points
+8. Doppelgänger, Buch der Veränderung, Magierin, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 287 points
+9. Spiegelung, Magierin, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 284 points
+10. Magierin, Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 284 points
+
+Best combinations with Sammler:
+1. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer, Glockenturm; 357 points
+2. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Buschfeuer, Glockenturm; 350 points
+3. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 339 points
+4. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer; 334 points
+5. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Blitz, Glockenturm; 328 points
+6. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Buschfeuer; 327 points
+7. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 326 points
+8. Sammler, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard, Blitz; 325 points
+9. Doppelgänger, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 319 points
+10. Spiegelung, Sammler, Luftwesen, Wirbelsturm, Rauch, Blizzard, Blitz; 317 points
+
+Best combinations with Herr der Bestien:
+1. Doppelgänger, Buch der Veränderung, Herr der Bestien, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 281 points
+2. Sammler, Herr der Bestien, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 277 points
+3. Doppelgänger, Buch der Veränderung, Herr der Bestien, Kerze, Basilisk, Wald, Glockenturm; 277 points
+4. Doppelgänger, Buch der Veränderung, Herr der Bestien, Kerze, Buschfeuer, Basilisk, Glockenturm; 274 points
+5. Buch der Veränderung, Sammler, Herr der Bestien, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 274 points
+6. Doppelgänger, Buch der Veränderung, Herr der Bestien, Kerze, Drache, Basilisk, Glockenturm; 273 points
+7. Buch der Veränderung, Sammler, Herr der Bestien, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 273 points
+8. Buch der Veränderung, Schild von Keth, Herr der Bestien, Kerze, Basilisk, Schwert von Keth, Glockenturm; 272 points
+9. Buch der Veränderung, Herr der Bestien, Kerze, Drache, Basilisk, Wald, Glockenturm; 272 points
+10. Buch der Veränderung, Herr der Bestien, Rauch, Kerze, Buschfeuer, Glockenturm, Gebirge; 272 points
+
+Best combinations with Hexenmeister:
+1. Doppelgänger, Buch der Veränderung, Hexenmeister, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 297 points
+2. Buch der Veränderung, Sammler, Hexenmeister, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 290 points
+3. Sammler, Hexenmeister, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 283 points
+4. Spiegelung, Buch der Veränderung, Sammler, Hexenmeister, Luftwesen, Wirbelsturm, Blizzard; 282 points
+5. Buch der Veränderung, Sammler, Hexenmeister, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 282 points
+6. Doppelgänger, Buch der Veränderung, Hexenmeister, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 282 points
+7. Buch der Veränderung, Sammler, Hexenmeister, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 280 points
+8. Buch der Veränderung, Sammler, Hexenmeister, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 279 points
+9. Buch der Veränderung, Hexenmeister, Rauch, Kerze, Buschfeuer, Glockenturm, Gebirge; 279 points
+10. Buch der Veränderung, Sammler, Hexenmeister, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 278 points
+
+Best combinations with Luftwesen:
+1. Sammler, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard, Blitz; 325 points
+2. Spiegelung, Sammler, Luftwesen, Wirbelsturm, Rauch, Blizzard, Blitz; 317 points
+3. Spiegelung, Sammler, Luftwesen, Wirbelsturm, Rauch, Blizzard, Buschfeuer; 316 points
+4. Doppelgänger, Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 310 points
+5. Doppelgänger, Spiegelung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 307 points
+6. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Blitz; 306 points
+7. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Buschfeuer; 305 points
+8. Doppelgänger, Spiegelung, Buch der Veränderung, Sammler, Luftwesen, Wirbelsturm, Blizzard; 302 points
+9. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Blitz; 301 points
+10. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Basilisk; 300 points
+
+Best combinations with Regensturm:
+1. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 326 points
+2. Sammler, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard, Blitz; 325 points
+3. Buch der Veränderung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 315 points
+4. Spiegelung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 312 points
+5. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 312 points
+6. Buch der Veränderung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 311 points
+7. Doppelgänger, Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 310 points
+8. Spiegelung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 308 points
+9. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 308 points
+10. Doppelgänger, Spiegelung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 307 points
+
+Best combinations with Wirbelsturm:
+1. Sammler, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard, Blitz; 325 points
+2. Spiegelung, Sammler, Luftwesen, Wirbelsturm, Rauch, Blizzard, Blitz; 317 points
+3. Spiegelung, Sammler, Luftwesen, Wirbelsturm, Rauch, Blizzard, Buschfeuer; 316 points
+4. Doppelgänger, Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 310 points
+5. Doppelgänger, Spiegelung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 307 points
+6. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Blitz; 306 points
+7. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Buschfeuer; 305 points
+8. Doppelgänger, Spiegelung, Buch der Veränderung, Sammler, Luftwesen, Wirbelsturm, Blizzard; 302 points
+9. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Blitz; 301 points
+10. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Basilisk; 300 points
+
+Best combinations with Rauch:
+1. Sammler, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard, Blitz; 325 points
+2. Spiegelung, Sammler, Luftwesen, Wirbelsturm, Rauch, Blizzard, Blitz; 317 points
+3. Spiegelung, Sammler, Luftwesen, Wirbelsturm, Rauch, Blizzard, Buschfeuer; 316 points
+4. Spiegelung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blitz; 300 points
+5. Sammler, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard, Höhle; 295 points
+6. Doppelgänger, Buch der Veränderung, Rauch, Kerze, Buschfeuer, Glockenturm, Gebirge; 294 points
+7. Buch der Veränderung, Sammler, Rauch, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 291 points
+8. Rune des Schutzes, Sammler, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard; 290 points
+9. Sammler, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard, Feuerwesen; 289 points
+10. Sammler, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard, Schmiede; 289 points
+
+Best combinations with Blizzard:
+1. Sammler, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard, Blitz; 325 points
+2. Spiegelung, Sammler, Luftwesen, Wirbelsturm, Rauch, Blizzard, Blitz; 317 points
+3. Spiegelung, Sammler, Luftwesen, Wirbelsturm, Rauch, Blizzard, Buschfeuer; 316 points
+4. Doppelgänger, Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 310 points
+5. Doppelgänger, Spiegelung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard; 307 points
+6. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Blitz; 306 points
+7. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Buschfeuer; 305 points
+8. Doppelgänger, Spiegelung, Buch der Veränderung, Sammler, Luftwesen, Wirbelsturm, Blizzard; 302 points
+9. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Blitz; 301 points
+10. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Basilisk; 300 points
+
+Best combinations with Quelle des Lebens:
+1. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 326 points
+2. Doppelgänger, Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 315 points
+3. Buch der Veränderung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 315 points
+4. Spiegelung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 312 points
+5. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 312 points
+6. Buch der Veränderung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 311 points
+7. Spiegelung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 308 points
+8. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 308 points
+9. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Hydra; 308 points
+10. Doppelgänger, Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 304 points
+
+Best combinations with Wasserwesen:
+1. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 326 points
+2. Doppelgänger, Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 315 points
+3. Buch der Veränderung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 315 points
+4. Spiegelung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 312 points
+5. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 312 points
+6. Buch der Veränderung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 311 points
+7. Spiegelung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 308 points
+8. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 308 points
+9. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Hydra; 308 points
+10. Doppelgänger, Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 304 points
+
+Best combinations with Insel:
+1. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 326 points
+2. Doppelgänger, Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 315 points
+3. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 312 points
+4. Buch der Veränderung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 311 points
+5. Spiegelung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 308 points
+6. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 308 points
+7. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Hydra; 308 points
+8. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Basilisk; 303 points
+9. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 302 points
+10. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Buschfeuer; 301 points
+
+Best combinations with Sumpf:
+1. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 326 points
+2. Doppelgänger, Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 315 points
+3. Buch der Veränderung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 315 points
+4. Spiegelung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 312 points
+5. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 312 points
+6. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 308 points
+7. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Hydra; 308 points
+8. Doppelgänger, Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 304 points
+9. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Basilisk; 303 points
+10. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 302 points
+
+Best combinations with Große Flut:
+1. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 326 points
+2. Doppelgänger, Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 315 points
+3. Buch der Veränderung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 315 points
+4. Spiegelung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 312 points
+5. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 312 points
+6. Buch der Veränderung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 311 points
+7. Spiegelung, Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Große Flut; 308 points
+8. Sammler, Regensturm, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut; 308 points
+9. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Hydra; 308 points
+10. Doppelgänger, Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut; 304 points
+
+Best combinations with Kerze:
+1. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer, Glockenturm; 357 points
+2. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Buschfeuer, Glockenturm; 350 points
+3. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 339 points
+4. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer; 334 points
+5. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Blitz, Glockenturm; 328 points
+6. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Buschfeuer; 327 points
+7. Doppelgänger, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 319 points
+8. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Glockenturm; 317 points
+9. Buch der Veränderung, Sammler, Kerze, Erdwesen, Wald, Glockenturm, Gebirge; 315 points
+10. Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Glockenturm, Gebirge; 314 points
+
+Best combinations with Feuerwesen:
+1. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer, Glockenturm; 357 points
+2. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Buschfeuer, Glockenturm; 350 points
+3. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 339 points
+4. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer; 334 points
+5. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Blitz, Glockenturm; 328 points
+6. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Buschfeuer; 327 points
+7. Doppelgänger, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 319 points
+8. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Glockenturm; 317 points
+9. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Glockenturm; 310 points
+10. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Blitz; 305 points
+
+Best combinations with Schmiede:
+1. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer, Glockenturm; 357 points
+2. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer; 334 points
+3. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Blitz, Glockenturm; 328 points
+4. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Glockenturm; 317 points
+5. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Blitz; 305 points
+6. Buch der Veränderung, Sammler, Kerze, Schmiede, Blitz, Buschfeuer, Glockenturm; 304 points
+7. Doppelgänger, Buch der Veränderung, Sammler, Feuerwesen, Schmiede, Blitz, Buschfeuer; 298 points
+8. Spiegelung, Buch der Veränderung, Sammler, Kerze, Schmiede, Buschfeuer, Glockenturm; 293 points
+9. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer, Glockenturm; 291 points
+10. Doppelgänger, Buch der Veränderung, Kerze, Feuerwesen, Schmiede, Buschfeuer, Glockenturm; 290 points
+
+Best combinations with Blitz:
+1. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Buschfeuer, Glockenturm; 350 points
+2. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Blitz, Glockenturm; 328 points
+3. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Buschfeuer; 327 points
+4. Sammler, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard, Blitz; 325 points
+5. Spiegelung, Sammler, Luftwesen, Wirbelsturm, Rauch, Blizzard, Blitz; 317 points
+6. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Glockenturm; 310 points
+7. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Blitz; 306 points
+8. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Blitz; 305 points
+9. Buch der Veränderung, Sammler, Kerze, Schmiede, Blitz, Buschfeuer, Glockenturm; 304 points
+10. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Blitz; 301 points
+
+Best combinations with Buschfeuer:
+1. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer, Glockenturm; 357 points
+2. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Buschfeuer, Glockenturm; 350 points
+3. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 339 points
+4. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer; 334 points
+5. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Buschfeuer; 327 points
+6. Doppelgänger, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 319 points
+7. Spiegelung, Sammler, Luftwesen, Wirbelsturm, Rauch, Blizzard, Buschfeuer; 316 points
+8. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Buschfeuer; 305 points
+9. Buch der Veränderung, Sammler, Kerze, Schmiede, Blitz, Buschfeuer, Glockenturm; 304 points
+10. Doppelgänger, Buch der Veränderung, Magierin, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 302 points
+
+Best combinations with Schlachtross:
+1. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Schlachtross; 288 points
+2. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Schlachtross; 285 points
+3. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Schlachtross; 277 points
+4. Spiegelung, Buch der Veränderung, Sammler, Luftwesen, Wirbelsturm, Blizzard, Schlachtross; 277 points
+5. Spiegelung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Schlachtross; 277 points
+6. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Schlachtross; 274 points
+7. Spiegelung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Schlachtross; 274 points
+8. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Schlachtross; 273 points
+9. Doppelgänger, Schlachtross, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 272 points
+10. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Schlachtross; 270 points
+
+Best combinations with Einhorn:
+1. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Einhorn; 277 points
+2. Doppelgänger, Einhorn, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 276 points
+3. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Einhorn; 274 points
+4. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Einhorn, Glockenturm; 273 points
+5. Doppelgänger, Einhorn, Prinzessin, Königin, König, Leichte Kavallerie, Ritter; 272 points
+6. Doppelgänger, Einhorn, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 270 points
+7. Doppelgänger, Einhorn, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 270 points
+8. Doppelgänger, Einhorn, Prinzessin, Königin, König, Elbenschützen, Ritter; 270 points
+9. Doppelgänger, Einhorn, Prinzessin, Königin, König, Leichte Kavallerie, Ritter; 269 points
+10. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Einhorn; 269 points
+
+Best combinations with Hydra:
+1. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Hydra; 308 points
+2. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 297 points
+3. Spiegelung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 294 points
+4. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Hydra; 294 points
+5. Spiegelung, Sammler, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Hydra; 290 points
+6. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Hydra; 290 points
+7. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 283 points
+8. Spiegelung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Hydra; 280 points
+9. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Hydra; 280 points
+10. Spiegelung, Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Große Flut, Hydra; 279 points
+
+Best combinations with Drache:
+1. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Drache; 298 points
+2. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Drache; 295 points
+3. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Drache, Glockenturm; 294 points
+4. Doppelgänger, Buch der Veränderung, Kerze, Feuerwesen, Buschfeuer, Drache, Glockenturm; 287 points
+5. Spiegelung, Buch der Veränderung, Sammler, Luftwesen, Wirbelsturm, Blizzard, Drache; 287 points
+6. Spiegelung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Drache; 287 points
+7. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Drache; 287 points
+8. Buch der Veränderung, Sammler, Kerze, Drache, Erdwesen, Höhle, Glockenturm; 285 points
+9. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Drache; 285 points
+10. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Drache; 284 points
+
+Best combinations with Basilisk:
+1. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Basilisk; 303 points
+2. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Basilisk; 300 points
+3. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Basilisk; 295 points
+4. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Basilisk; 295 points
+5. Spiegelung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Basilisk; 292 points
+6. Spiegelung, Buch der Veränderung, Sammler, Luftwesen, Wirbelsturm, Blizzard, Basilisk; 292 points
+7. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Basilisk; 292 points
+8. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Basilisk; 291 points
+9. Spiegelung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Basilisk; 289 points
+10. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Basilisk; 289 points
+
+Best combinations with Zauberstab:
+1. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Zauberstab; 294 points
+2. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Zauberstab; 291 points
+3. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Zauberstab, Glockenturm; 290 points
+4. Spiegelung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Zauberstab; 288 points
+5. Doppelgänger, Buch der Veränderung, Kerze, Feuerwesen, Buschfeuer, Zauberstab, Glockenturm; 283 points
+6. Spiegelung, Buch der Veränderung, Sammler, Luftwesen, Wirbelsturm, Blizzard, Zauberstab; 283 points
+7. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Zauberstab; 283 points
+8. Buch der Veränderung, Rauch, Kerze, Buschfeuer, Zauberstab, Glockenturm, Gebirge; 280 points
+9. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Zauberstab; 280 points
+10. Spiegelung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Zauberstab; 280 points
+
+Best combinations with Elbischer Bogen:
+1. Doppelgänger, Elbischer Bogen, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 285 points
+2. Doppelgänger, Elbischer Bogen, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 279 points
+3. Doppelgänger, Elbischer Bogen, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 279 points
+4. Doppelgänger, Elbischer Bogen, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 277 points
+5. Doppelgänger, Elbischer Bogen, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 276 points
+6. Doppelgänger, Elbischer Bogen, Kriegsherr, Königin, König, Elbenschützen, Ritter; 276 points
+7. Doppelgänger, Elbischer Bogen, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 271 points
+8. Elbischer Bogen, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 271 points
+9. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Elbischer Bogen; 271 points
+10. Elbischer Bogen, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 270 points
+
+Best combinations with Schwert von Keth:
+1. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Leichte Kavallerie, Ritter; 282 points
+2. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Elbenschützen, Ritter; 280 points
+3. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Leichte Kavallerie, Ritter; 279 points
+4. Schild von Keth, Schwert von Keth, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 277 points
+5. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Zwergeninfanterie, Ritter; 276 points
+6. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Schwert von Keth; 275 points
+7. Doppelgänger, Schild von Keth, Schwert von Keth, Königin, König, Elbenschützen, Leichte Kavallerie; 274 points
+8. Schild von Keth, Schwert von Keth, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 273 points
+9. Buch der Veränderung, Schild von Keth, Herr der Bestien, Kerze, Basilisk, Schwert von Keth, Glockenturm; 272 points
+10. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Schwert von Keth; 272 points
+
+Best combinations with Kriegsschiff:
+1. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Kriegsschiff; 291 points
+2. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Kriegsschiff; 282 points
+3. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Kriegsschiff; 280 points
+4. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Kriegsschiff; 277 points
+5. Spiegelung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Kriegsschiff; 277 points
+6. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Kriegsschiff; 276 points
+7. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Kriegsschiff; 273 points
+8. Spiegelung, Sammler, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Kriegsschiff; 273 points
+9. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Kriegsschiff; 271 points
+10. Doppelgänger, Regensturm, Wirbelsturm, Quelle des Lebens, Wasserwesen, Große Flut, Kriegsschiff; 270 points
+
+Best combinations with Kampfzeppelin:
+1. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Kampfzeppelin; 291 points
+2. Doppelgänger, Buch der Veränderung, Kampfzeppelin, Kriegsherr, Königin, König, Ritter; 291 points
+3. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Kampfzeppelin; 288 points
+4. Doppelgänger, Kampfzeppelin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 287 points
+5. Buch der Veränderung, Kampfzeppelin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 285 points
+6. Doppelgänger, Kampfzeppelin, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 281 points
+7. Doppelgänger, Kampfzeppelin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 281 points
+8. Doppelgänger, Kampfzeppelin, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 279 points
+9. Doppelgänger, Buch der Veränderung, Kampfzeppelin, Kriegsherr, Königin, König, Leichte Kavallerie; 279 points
+10. Doppelgänger, Kampfzeppelin, Kriegsherr, Königin, König, Elbenschützen, Ritter; 278 points
+
+Best combinations with Prinzessin:
+1. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+2. Doppelgänger, Prinzessin, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 296 points
+3. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 296 points
+4. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 294 points
+5. Doppelgänger, Prinzessin, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 293 points
+6. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Elbenschützen, Ritter; 293 points
+7. Doppelgänger, Prinzessin, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 290 points
+8. Doppelgänger, Prinzessin, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 288 points
+9. Prinzessin, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 288 points
+10. Prinzessin, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 287 points
+
+Best combinations with Kriegsherr:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+4. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+5. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+6. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 303 points
+7. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+8. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+9. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+10. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 301 points
+
+Best combinations with Königin:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+4. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+5. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+6. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 303 points
+7. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+8. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+9. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+10. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 301 points
+
+Best combinations with König:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+4. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+5. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+6. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 303 points
+7. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+8. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+9. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+10. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 301 points
+
+Best combinations with Kaiserin:
+1. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Kaiserin; 283 points
+2. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Kaiserin; 280 points
+3. Buch der Veränderung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Kaiserin; 275 points
+4. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Kaiserin; 272 points
+5. Spiegelung, Sammler, Luftwesen, Regensturm, Wirbelsturm, Blizzard, Kaiserin; 272 points
+6. Spiegelung, Buch der Veränderung, Sammler, Luftwesen, Wirbelsturm, Blizzard, Kaiserin; 272 points
+7. Buch der Veränderung, Schild von Keth, Kerze, Schmiede, Schwert von Keth, Kaiserin, Glockenturm; 270 points
+8. Spiegelung, Sammler, Quelle des Lebens, Wasserwesen, Sumpf, Große Flut, Kaiserin; 269 points
+9. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Kaiserin; 269 points
+10. Buch der Veränderung, Sammler, Quelle des Lebens, Wasserwesen, Insel, Große Flut, Kaiserin; 268 points
+
+Best combinations with Erdwesen:
+1. Buch der Veränderung, Sammler, Kerze, Erdwesen, Wald, Glockenturm, Gebirge; 315 points
+2. Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Glockenturm, Gebirge; 314 points
+3. Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 312 points
+4. Spiegelung, Buch der Veränderung, Sammler, Kerze, Erdwesen, Glockenturm, Gebirge; 308 points
+5. Spiegelung, Buch der Veränderung, Sammler, Kerze, Erdwesen, Wald, Glockenturm; 306 points
+6. Spiegelung, Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Glockenturm; 305 points
+7. Spiegelung, Buch der Veränderung, Sammler, Kerze, Erdwesen, Wald, Gebirge; 292 points
+8. Spiegelung, Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Gebirge; 291 points
+9. Spiegelung, Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Wald; 289 points
+10. Buch der Veränderung, Sammler, Kerze, Drache, Erdwesen, Höhle, Glockenturm; 285 points
+
+Best combinations with Höhle:
+1. Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Glockenturm, Gebirge; 314 points
+2. Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 312 points
+3. Spiegelung, Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Glockenturm; 305 points
+4. Sammler, Luftwesen, Regensturm, Wirbelsturm, Rauch, Blizzard, Höhle; 295 points
+5. Spiegelung, Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Gebirge; 291 points
+6. Spiegelung, Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Wald; 289 points
+7. Spiegelung, Sammler, Luftwesen, Wirbelsturm, Rauch, Blizzard, Höhle; 287 points
+8. Buch der Veränderung, Sammler, Kerze, Drache, Erdwesen, Höhle, Glockenturm; 285 points
+9. Sammler, Drache, Erdwesen, Höhle, Wald, Glockenturm, Gebirge; 283 points
+10. Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Glockenturm, Waldläufer; 275 points
+
+Best combinations with Wald:
+1. Buch der Veränderung, Sammler, Kerze, Erdwesen, Wald, Glockenturm, Gebirge; 315 points
+2. Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 312 points
+3. Spiegelung, Buch der Veränderung, Sammler, Kerze, Erdwesen, Wald, Glockenturm; 306 points
+4. Spiegelung, Buch der Veränderung, Sammler, Kerze, Erdwesen, Wald, Gebirge; 292 points
+5. Spiegelung, Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Wald; 289 points
+6. Sammler, Drache, Erdwesen, Höhle, Wald, Glockenturm, Gebirge; 283 points
+7. Buch der Veränderung, Sammler, Kerze, Basilisk, Erdwesen, Wald, Glockenturm; 278 points
+8. Doppelgänger, Buch der Veränderung, Herr der Bestien, Kerze, Basilisk, Wald, Glockenturm; 277 points
+9. Buch der Veränderung, Sammler, Kerze, Erdwesen, Wald, Glockenturm, Waldläufer; 276 points
+10. Sammler, Quelle des Lebens, Wasserwesen, Insel, Sumpf, Große Flut, Wald; 275 points
+
+Best combinations with Glockenturm:
+1. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Buschfeuer, Glockenturm; 357 points
+2. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Buschfeuer, Glockenturm; 350 points
+3. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 339 points
+4. Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Blitz, Glockenturm; 328 points
+5. Doppelgänger, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Buschfeuer, Glockenturm; 319 points
+6. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Schmiede, Glockenturm; 317 points
+7. Buch der Veränderung, Sammler, Kerze, Erdwesen, Wald, Glockenturm, Gebirge; 315 points
+8. Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Glockenturm, Gebirge; 314 points
+9. Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Wald, Glockenturm; 312 points
+10. Spiegelung, Buch der Veränderung, Sammler, Kerze, Feuerwesen, Blitz, Glockenturm; 310 points
+
+Best combinations with Gebirge:
+1. Buch der Veränderung, Sammler, Kerze, Erdwesen, Wald, Glockenturm, Gebirge; 315 points
+2. Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Glockenturm, Gebirge; 314 points
+3. Spiegelung, Buch der Veränderung, Sammler, Kerze, Erdwesen, Glockenturm, Gebirge; 308 points
+4. Doppelgänger, Buch der Veränderung, Rauch, Kerze, Buschfeuer, Glockenturm, Gebirge; 294 points
+5. Spiegelung, Buch der Veränderung, Sammler, Kerze, Erdwesen, Wald, Gebirge; 292 points
+6. Spiegelung, Buch der Veränderung, Sammler, Kerze, Erdwesen, Höhle, Gebirge; 291 points
+7. Buch der Veränderung, Rauch, Kerze, Feuerwesen, Buschfeuer, Glockenturm, Gebirge; 288 points
+8. Buch der Veränderung, Rauch, Große Flut, Kerze, Buschfeuer, Glockenturm, Gebirge; 286 points
+9. Buch der Veränderung, Rauch, Kerze, Buschfeuer, Drache, Glockenturm, Gebirge; 284 points
+10. Buch der Veränderung, Magierin, Rauch, Kerze, Buschfeuer, Glockenturm, Gebirge; 284 points
+
+Best combinations with Waldläufer:
+1. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+2. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 296 points
+3. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Elbenschützen, Ritter; 293 points
+4. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Zwergeninfanterie, Ritter; 292 points
+5. Doppelgänger, Königin, König, Waldläufer, Elbenschützen, Leichte Kavallerie, Ritter; 291 points
+6. Doppelgänger, Königin, König, Waldläufer, Elbenschützen, Leichte Kavallerie, Ritter; 288 points
+7. Kriegsherr, Königin, König, Waldläufer, Elbenschützen, Leichte Kavallerie, Ritter; 287 points
+8. Doppelgänger, Prinzessin, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 286 points
+9. Kriegsherr, Königin, König, Waldläufer, Zwergeninfanterie, Leichte Kavallerie, Ritter; 286 points
+10. Doppelgänger, Prinzessin, Königin, König, Waldläufer, Elbenschützen, Ritter; 284 points
+
+Best combinations with Elbenschützen:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+4. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+5. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 297 points
+6. Doppelgänger, Prinzessin, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 296 points
+7. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie; 295 points
+8. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Elbenschützen, Ritter; 294 points
+9. Doppelgänger, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 293 points
+10. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Elbenschützen, Ritter; 293 points
+
+Best combinations with Zwergeninfanterie:
+1. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+4. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+5. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 300 points
+6. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie; 295 points
+7. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 294 points
+8. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Zwergeninfanterie, Ritter; 293 points
+9. Doppelgänger, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 293 points
+10. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Zwergeninfanterie, Ritter; 292 points
+
+Best combinations with Leichte Kavallerie:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+4. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+5. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 303 points
+6. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+7. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+8. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+9. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 301 points
+10. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 300 points
+
+Best combinations with Ritter:
+1. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 317 points
+2. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 316 points
+3. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Leichte Kavallerie, Ritter; 311 points
+4. Doppelgänger, Kriegsherr, Königin, König, Zwergeninfanterie, Leichte Kavallerie, Ritter; 310 points
+5. Doppelgänger, Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Ritter; 307 points
+6. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 303 points
+7. Doppelgänger, Kriegsherr, Königin, König, Waldläufer, Leichte Kavallerie, Ritter; 302 points
+8. Doppelgänger, Prinzessin, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 302 points
+9. Kriegsherr, Königin, König, Elbenschützen, Zwergeninfanterie, Leichte Kavallerie, Ritter; 301 points
+10. Doppelgänger, Buch der Veränderung, Kriegsherr, Königin, König, Leichte Kavallerie, Ritter; 301 points
