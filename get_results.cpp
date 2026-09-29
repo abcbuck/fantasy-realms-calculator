@@ -5,7 +5,14 @@
 using namespace std;
 
 int main(int argc, char** argv) {
-  filesystem::path basePath = filesystem::path(argv[0]).remove_filename();
+  filesystem::path resultsFile;
+  if(argc == 1) {
+    filesystem::path basePath = filesystem::path(argv[0]).remove_filename();
+    resultsFile = basePath/"fantasy_realms.data";
+  }
+  else {
+    resultsFile = filesystem::path(argv[1]);
+  }
 
   string names_german[52] = {
     "Doppelgänger", // 0
@@ -131,13 +138,13 @@ int main(int argc, char** argv) {
 
   // check file integrity
   println("Checking if calculations exist...");
-  bool calculationsExist = filesystem::exists(basePath/"fantasy_realms.data");
+  bool calculationsExist = filesystem::status(resultsFile) == filesystem::file_type::regular;
 
   if(calculationsExist) {
     // continue from file
     println("Loading data...");
     fstream f;
-    f.open(basePath/"fantasy_realms.data", ios_base::in | ios_base::binary);
+    f.open(resultsFile, ios_base::in | ios_base::binary);
     char buffer[8647];
     f.read(buffer, 8647);
     if(f.gcount() != 8647) {
