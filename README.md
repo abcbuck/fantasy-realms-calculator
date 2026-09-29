@@ -6,13 +6,13 @@ For a discussion of the algorithmic aspect of the program have a look at [my web
 
 # Usage
 
-Compile the files main.cpp and get_results.cpp. For compilation instructions see the bottom of this README.
-main.cpp compiles to the main program that calculates the best scores and stores them to a file.
+Compile the files main.cpp and get_results.cpp. For compilation instructions, see the bottom of this README.\
+main.cpp compiles to the main program that calculates the best scores and stores them to a file.\
 get_results.cpp compiles to a reader for the results.
 
 You may run the main program with the `-t [number]` option to make it run with multiple threads. If no number is specified, it defaults to your system's supported number of threads.
 
-If you run the program without the `-t` option, every few seconds, it stores intermediate results in the file 'fantasy_realms.data' and prints a number just after storing. This allows you to interrupt the program safely (by pressing Ctrl+C) just after a number has been printed and continue calculation later. When you run the program the next time, it will load the data and continue calculation from there. In case you're not sure if the data was saved correctly because you closed the program just when it printed a number or you closed the program without paying attention to the numbers, replace 'fantasy_realms.data' with 'fantasy_realms_backup.data', which contains the data of the last 'fantasy_realms.data' prior to the current one, to ensure you get valid results.
+If you run the program without the `-t` option, every few seconds, it stores intermediate results to the file 'fantasy_realms.data' and prints a number just after storing. This allows you to interrupt the program safely (by pressing Ctrl+C) just after a number has been printed and continue calculation later. When you run the program the next time, it will load the data and continue calculation from there. In case you're not sure if the data was saved correctly because you closed the program just when it printed a number or you closed the program without paying attention to the numbers, replace 'fantasy_realms.data' with 'fantasy_realms_backup.data', which contains the data of the last 'fantasy_realms.data' prior to the current one, to ensure you get valid results.
 
 If you run the program with the `-t` option, it uses the file 'fantasy_realms.data' to sync data between threads. In this case, interrupting the program early may skip some card combinations, so in this case, I'd recommend to let the program run till its done if you want to get valid results.
 
@@ -41,21 +41,23 @@ I could provide a mirror for you to download the file without any more files you
 ## Use the compiler
 
 After installation(!), open a new terminal from the folder where you put the main.cpp and get_results.cpp, then run:
-`clang++ -std=c++23 -o calculate_best_cards.exe -O3 main.cpp` and
+
+`clang++ -std=c++23 -o calculate_best_cards.exe -O3 main.cpp` and\
 `clang++ -std=c++23 -o get_results_en.exe -O3 get_results.cpp`.
-`clang++` is the compiler you just installed. Options are specified with a dash (`-`).
-`-std=<standard>` specifies the C++ standard to use. My code requires at least C++23. For a full list of options, see [the manual](https://releases.llvm.org/23.1.0/tools/clang/docs/CommandGuide/clang.html#cmdoption-std).
-`-o` specifies the output file (the actual program you can run after compilation).
+
+`clang++` is the compiler you just installed. Options are specified with a dash (`-`).\
+`-std=<standard>` specifies the C++ standard to use. My code requires at least C++23. For a full list of options, see [the manual](https://releases.llvm.org/23.1.0/tools/clang/docs/CommandGuide/clang.html#cmdoption-std).\
+`-o` specifies the output file (the actual program you can run after compilation).\
 `-O3` lets the compiler optimize the program to make it faster.
 
 ## Run the program
 
-Having compiled the program, now you can run it from your existing terminal!:
-`./calculate_best_cards.exe -t`
-And view the results when it's done!:
+Having compiled the program, now you can run it from your existing terminal!:\
+`./calculate_best_cards.exe -t`\
+And view the results when it's done!:\
 `./get_results_en.exe`
 
-If you run the program with all cards and multithreading, it takes a minute to get the first output showing the program is at work. If you don't see any output for 10 minutes, there is a problem, your computer runs at significantly less than 1 GHz or you've specified way too many threads (I scale thread workload with the number of threads so that, on average, the output throughput is the same for the program across all thread counts; therefore the first output takes longer to appear for higher thread counts). The program is done when the update counter reaches 511 for 16 threads.
+If you run the program with all cards and multithreading, it takes a minute to get the first output showing the program is at work. If you don't see any output for 10 minutes, there is a problem, your computer runs at significantly less than 1 GHz or you've specified way too many threads (I scale thread workload with the number of threads, so that, on average, the output throughput is the same for the program across all thread counts; therefore the first output takes longer to appear for higher thread counts). The program is done when the update counter reaches 511 for 16 threads.
 
 # Results
 
@@ -63,6 +65,14 @@ For the full results, use the reader on the \*.data files calculated by the main
 
 ## A short examination
 The cards that consistently appear at the top of each card's best combinations list are the Gem of Order, the Candle and the Collector because of their great boni.
+
 I calculated the best combinations to the full set of cards (without the necromancer) and to the sets without each of these cards and neither of them to get the next best results.
+
 Roughly speaking, if you can't get the Gem of Order, Candle or Collector to work, the next best strategies seem to be get King and Queen and collect armies, followed by get Rainstorm and collect Floods and the Mountain-Smoke-Wildfire combo combined with the World Tree.
-The worst cards to me seem to be the Protection Rune, Earth Elemental, the war vehicles, Beasts and the Empress. The Protection Rune's effect is never really worth it because there aren't so many cards with punishing effects that combine well with other cards when their punishment is lifted, a strategy combining cards with bonus effects only generally fares better. The Earth Elemental doesn't really make sense because it combines well with other Lands, which combine well with other cards of all different kinds, so there is no strategy that can both have many Lands and satisfy their effects. War Dirigible might be used to supplement Armies, and Warship to supplement Floods, though more Armies or Floods, respectively, are preferable. Beasts in a similar vein might best replace missing cards in other combinations, with respect to their effects. Finally, the Empress isn't that good of a card because her bonus isn't enough to make the by themselves rather mediocre-valued Armies good compared to other strategies. 
+
+The worst cards to me seem to be the Protection Rune, Earth Elemental, the war vehicles, Beasts and the Empress.\
+The Protection Rune's effect is never really worth it because there aren't so many cards with punishing effects that combine well with other cards when their punishment is lifted, a strategy combining cards with only bonus effects generally fares better.\
+The Earth Elemental doesn't really make sense because it combines well with other Lands, which combine well with other cards of all different kinds, so there is no strategy that can both have many Lands and satisfy their effects.\
+War Dirigible might be used to supplement Armies, and Warship to supplement Floods, though more Armies or Floods, respectively, are preferable.\
+Beasts in a similar vein might best replace missing cards in other combinations, with respect to their effects.\
+Finally, the Empress isn't that good of a card because her bonus isn't enough to make the by themselves rather mediocre-valued Armies good compared to other strategies. 
